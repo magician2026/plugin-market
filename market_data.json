@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T04:17:19.081343",
+  "last_updated": "2026-09-26T05:15:34.092128",
   "categories": [
     {
       "label": "媒体处理",
@@ -70,11 +70,11 @@
           "name": "PaddlePaddle/PaddleOCR",
           "pip_name": "paddleocr",
           "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-          "stars": 90225,
+          "stars": 90226,
           "forks": 11409,
           "license": "Apache-2.0",
           "url": "https://github.com/PaddlePaddle/PaddleOCR",
-          "updated": "2026-09-26T04:09:40Z",
+          "updated": "2026-09-26T04:43:09Z",
           "keyword": "image ocr"
         },
         {
@@ -125,11 +125,11 @@
           "name": "browser-use/video-use",
           "pip_name": "video_use",
           "desc": "Edit videos with coding agents",
-          "stars": 27175,
-          "forks": 3211,
+          "stars": 27187,
+          "forks": 3212,
           "license": "MIT",
           "url": "https://github.com/browser-use/video-use",
-          "updated": "2026-09-26T04:13:00Z",
+          "updated": "2026-09-26T05:15:39Z",
           "keyword": "video editing"
         },
         {
@@ -200,11 +200,11 @@
           "name": "pre-commit/pre-commit",
           "pip_name": "pre_commit",
           "desc": "A framework for managing and maintaining multi-language pre-commit hooks.",
-          "stars": 15594,
+          "stars": 15595,
           "forks": 1012,
           "license": "MIT",
           "url": "https://github.com/pre-commit/pre-commit",
-          "updated": "2026-09-25T08:30:45Z",
+          "updated": "2026-09-26T04:58:56Z",
           "keyword": "linter"
         },
         {
@@ -310,11 +310,11 @@
           "name": "MadsLorentzen/ai-job-search",
           "pip_name": "ai_job_search",
           "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-          "stars": 43989,
+          "stars": 43991,
           "forks": 15149,
           "license": "MIT",
           "url": "https://github.com/MadsLorentzen/ai-job-search",
-          "updated": "2026-09-26T04:13:12Z",
+          "updated": "2026-09-26T04:54:05Z",
           "keyword": "code search"
         }
       ]
