@@ -1,9 +1,13 @@
-name: Daily Plugin Fetch
+name: Auto Fetch Plugin Data
 
 on:
   schedule:
-    - cron: '0 1 * * *'
-  workflow_dispatch:
+    # UTC 时间，北京时间减 8 小时
+    - cron: '0 1 * * *'    # 北京时间 09:00
+    - cron: '0 5 * * *'    # 北京时间 13:00
+    - cron: '0 9 * * *'    # 北京时间 17:00
+    - cron: '0 13 * * *'   # 北京时间 21:00
+  workflow_dispatch:        # 也允许手动触发
 
 jobs:
   fetch:
@@ -30,5 +34,5 @@ jobs:
           git config user.name "auto-bot"
           git config user.email "bot@users.noreply.github.com"
           git add market_data.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "auto update $(date -u +%Y-%m-%d)"
+          git diff --quiet && git diff --staged --quiet || git commit -m "auto update $(date -u +%Y-%m-%d_%H:%M)"
           git push
