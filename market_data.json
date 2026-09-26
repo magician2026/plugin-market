@@ -1,0 +1,375 @@
+{
+  "last_updated": "2026-09-26T04:17:19.081343",
+  "categories": [
+    {
+      "label": "媒体处理",
+      "keywords": [
+        "image compression",
+        "image watermark",
+        "image format convert",
+        "background removal",
+        "image ocr",
+        "image enhancement",
+        "batch image",
+        "video converter",
+        "video compression",
+        "video editing",
+        "subtitle editor",
+        "screen recorder",
+        "audio extraction",
+        "speech to text",
+        "text to speech"
+      ],
+      "count": 13,
+      "plugins": [
+        {
+          "name": "transmute-app/transmute",
+          "pip_name": "transmute",
+          "desc": "Self hosted file converter and compression tool for images, video, audio, json, excel and more. Supports over 3,000 conversions!",
+          "stars": 1364,
+          "forks": 94,
+          "license": "MIT",
+          "url": "https://github.com/transmute-app/transmute",
+          "updated": "2026-09-26T04:13:45Z",
+          "keyword": "image compression"
+        },
+        {
+          "name": "wiltodelta/remove-ai-watermarks",
+          "pip_name": "remove_ai_watermarks",
+          "desc": "Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.",
+          "stars": 5674,
+          "forks": 523,
+          "license": "Apache-2.0",
+          "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+          "updated": "2026-09-26T01:41:02Z",
+          "keyword": "image watermark"
+        },
+        {
+          "name": "NanoNets/docstrange",
+          "pip_name": "docstrange",
+          "desc": "Extract and convert data from any document, images, pdfs, word doc, ppt or URL into multiple formats (Markdown, JSON, CSV, HTML) with intelligent structured data extraction and advanced OCR.",
+          "stars": 1570,
+          "forks": 139,
+          "license": "MIT",
+          "url": "https://github.com/NanoNets/docstrange",
+          "updated": "2026-09-24T22:34:03Z",
+          "keyword": "image format convert"
+        },
+        {
+          "name": "john-mnz/ComfyUI-Inspyrenet-Rembg",
+          "pip_name": "comfyui_inspyrenet_rembg",
+          "desc": "ComfyUI node for background removal, implementing InSPyreNet the best method up to date",
+          "stars": 754,
+          "forks": 45,
+          "license": "MIT",
+          "url": "https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg",
+          "updated": "2026-09-25T10:27:29Z",
+          "keyword": "background removal"
+        },
+        {
+          "name": "PaddlePaddle/PaddleOCR",
+          "pip_name": "paddleocr",
+          "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+          "stars": 90225,
+          "forks": 11409,
+          "license": "Apache-2.0",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "updated": "2026-09-26T04:09:40Z",
+          "keyword": "image ocr"
+        },
+        {
+          "name": "sanghyun-son/EDSR-PyTorch",
+          "pip_name": "edsr_pytorch",
+          "desc": "PyTorch version of the paper 'Enhanced Deep Residual Networks for Single Image Super-Resolution' (CVPRW 2017)",
+          "stars": 2629,
+          "forks": 683,
+          "license": "MIT",
+          "url": "https://github.com/sanghyun-son/EDSR-PyTorch",
+          "updated": "2026-09-23T07:06:31Z",
+          "keyword": "image enhancement"
+        },
+        {
+          "name": "drmingler/docling-api",
+          "pip_name": "docling_api",
+          "desc": "Easily deployable and scalable backend server that efficiently converts various document formats (pdf, docx, pptx, html, images, etc) into Markdown. With support for both CPU and GPU processing, it is Ideal for large-scale workflows, it offers text/table extraction, OCR, and batch processing with sync/async endpoints.",
+          "stars": 1548,
+          "forks": 379,
+          "license": "MIT",
+          "url": "https://github.com/drmingler/docling-api",
+          "updated": "2026-09-24T15:08:33Z",
+          "keyword": "batch image"
+        },
+        {
+          "name": "transmute-app/transmute",
+          "pip_name": "transmute",
+          "desc": "Self hosted file converter and compression tool for images, video, audio, json, excel and more. Supports over 3,000 conversions!",
+          "stars": 1364,
+          "forks": 94,
+          "license": "MIT",
+          "url": "https://github.com/transmute-app/transmute",
+          "updated": "2026-09-26T04:13:45Z",
+          "keyword": "video converter"
+        },
+        {
+          "name": "aiming-lab/SimpleMem",
+          "pip_name": "simplemem",
+          "desc": "[ICML'26] SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal",
+          "stars": 3811,
+          "forks": 399,
+          "license": "MIT",
+          "url": "https://github.com/aiming-lab/SimpleMem",
+          "updated": "2026-09-26T02:30:08Z",
+          "keyword": "video compression"
+        },
+        {
+          "name": "browser-use/video-use",
+          "pip_name": "video_use",
+          "desc": "Edit videos with coding agents",
+          "stars": 27175,
+          "forks": 3211,
+          "license": "MIT",
+          "url": "https://github.com/browser-use/video-use",
+          "updated": "2026-09-26T04:13:00Z",
+          "keyword": "video editing"
+        },
+        {
+          "name": "tyiannak/pyAudioAnalysis",
+          "pip_name": "pyaudioanalysis",
+          "desc": "Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications",
+          "stars": 6265,
+          "forks": 1211,
+          "license": "Apache-2.0",
+          "url": "https://github.com/tyiannak/pyAudioAnalysis",
+          "updated": "2026-09-26T00:30:22Z",
+          "keyword": "audio extraction"
+        },
+        {
+          "name": "NVIDIA-NeMo/Speech",
+          "pip_name": "speech",
+          "desc": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+          "stars": 18508,
+          "forks": 3616,
+          "license": "Apache-2.0",
+          "url": "https://github.com/NVIDIA-NeMo/Speech",
+          "updated": "2026-09-25T23:34:54Z",
+          "keyword": "speech to text"
+        },
+        {
+          "name": "NVIDIA-NeMo/Speech",
+          "pip_name": "speech",
+          "desc": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+          "stars": 18508,
+          "forks": 3616,
+          "license": "Apache-2.0",
+          "url": "https://github.com/NVIDIA-NeMo/Speech",
+          "updated": "2026-09-25T23:34:54Z",
+          "keyword": "text to speech"
+        }
+      ]
+    },
+    {
+      "label": "软件开发",
+      "keywords": [
+        "code formatter",
+        "linter",
+        "api testing",
+        "git tool",
+        "dependency manager",
+        "documentation gen",
+        "debugger",
+        "profiler",
+        "static analysis",
+        "unit test",
+        "refactor tool",
+        "code search"
+      ],
+      "count": 12,
+      "plugins": [
+        {
+          "name": "psf/black",
+          "pip_name": "black",
+          "desc": "The uncompromising Python code formatter",
+          "stars": 41853,
+          "forks": 2888,
+          "license": "MIT",
+          "url": "https://github.com/psf/black",
+          "updated": "2026-09-26T04:00:59Z",
+          "keyword": "code formatter"
+        },
+        {
+          "name": "pre-commit/pre-commit",
+          "pip_name": "pre_commit",
+          "desc": "A framework for managing and maintaining multi-language pre-commit hooks.",
+          "stars": 15594,
+          "forks": 1012,
+          "license": "MIT",
+          "url": "https://github.com/pre-commit/pre-commit",
+          "updated": "2026-09-25T08:30:45Z",
+          "keyword": "linter"
+        },
+        {
+          "name": "httpie/http-prompt",
+          "pip_name": "http_prompt",
+          "desc": "An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie",
+          "stars": 9111,
+          "forks": 344,
+          "license": "MIT",
+          "url": "https://github.com/httpie/http-prompt",
+          "updated": "2026-09-24T19:23:17Z",
+          "keyword": "api testing"
+        },
+        {
+          "name": "frostming/legit",
+          "pip_name": "legit",
+          "desc": "Git for Humans, Inspired by GitHub for Mac™.",
+          "stars": 5684,
+          "forks": 212,
+          "license": "BSD-3-Clause",
+          "url": "https://github.com/frostming/legit",
+          "updated": "2026-09-04T07:51:03Z",
+          "keyword": "git tool"
+        },
+        {
+          "name": "pdm-project/pdm",
+          "pip_name": "pdm",
+          "desc": "A modern Python package and dependency manager supporting the latest PEP standards",
+          "stars": 8669,
+          "forks": 494,
+          "license": "MIT",
+          "url": "https://github.com/pdm-project/pdm",
+          "updated": "2026-09-25T18:03:31Z",
+          "keyword": "dependency manager"
+        },
+        {
+          "name": "divar-ir/ai-doc-gen",
+          "pip_name": "ai_doc_gen",
+          "desc": "AI-powered multi-agent system that automatically analyzes codebases and generates comprehensive documentation. Features GitLab integration, concurrent processing, and multiple LLM support for better code understanding and developer onboarding.",
+          "stars": 763,
+          "forks": 80,
+          "license": "MIT",
+          "url": "https://github.com/divar-ir/ai-doc-gen",
+          "updated": "2026-09-24T15:04:56Z",
+          "keyword": "documentation gen"
+        },
+        {
+          "name": "mlflow/mlflow",
+          "pip_name": "mlflow",
+          "desc": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+          "stars": 28138,
+          "forks": 6363,
+          "license": "Apache-2.0",
+          "url": "https://github.com/mlflow/mlflow",
+          "updated": "2026-09-26T01:47:03Z",
+          "keyword": "debugger"
+        },
+        {
+          "name": "Evil0ctal/Douyin_TikTok_Download_API",
+          "pip_name": "douyin_tiktok_download_api",
+          "desc": "🚀 抖音、TikTok 数据采集与无水印视频下载 API，自托管，支持 MCP 调用与 Docker 一键部署。| Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, PostgreSQL archive, one docker compose up.",
+          "stars": 20339,
+          "forks": 2820,
+          "license": "Apache-2.0",
+          "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+          "updated": "2026-09-26T03:49:22Z",
+          "keyword": "profiler"
+        },
+        {
+          "name": "decompiler-explorer/decompiler-explorer",
+          "pip_name": "decompiler_explorer",
+          "desc": "Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!",
+          "stars": 2689,
+          "forks": 229,
+          "license": "MIT",
+          "url": "https://github.com/decompiler-explorer/decompiler-explorer",
+          "updated": "2026-09-25T02:54:58Z",
+          "keyword": "static analysis"
+        },
+        {
+          "name": "se2p/pynguin",
+          "pip_name": "pynguin",
+          "desc": "The PYthoN General UnIt Test geNerator is a test-generation tool for Python",
+          "stars": 1387,
+          "forks": 102,
+          "license": "MIT",
+          "url": "https://github.com/se2p/pynguin",
+          "updated": "2026-09-25T12:13:33Z",
+          "keyword": "unit test"
+        },
+        {
+          "name": "jlevy/repren",
+          "pip_name": "repren",
+          "desc": "Power rename/refactor tool for CLI and agent use",
+          "stars": 374,
+          "forks": 39,
+          "license": "MIT",
+          "url": "https://github.com/jlevy/repren",
+          "updated": "2026-08-26T02:50:11Z",
+          "keyword": "refactor tool"
+        },
+        {
+          "name": "MadsLorentzen/ai-job-search",
+          "pip_name": "ai_job_search",
+          "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+          "stars": 43989,
+          "forks": 15149,
+          "license": "MIT",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "updated": "2026-09-26T04:13:12Z",
+          "keyword": "code search"
+        }
+      ]
+    },
+    {
+      "label": "文件管理",
+      "keywords": [
+        "file rename",
+        "file deduplication",
+        "file sync",
+        "disk usage",
+        "file search",
+        "backup tool",
+        "file compare",
+        "archive tool",
+        "file hash",
+        "duplicate finder",
+        "file organizer"
+      ],
+      "count": 3,
+      "plugins": [
+        {
+          "name": "jkwill87/mnamer",
+          "pip_name": "mnamer",
+          "desc": "media file renaming and organizing tool",
+          "stars": 1150,
+          "forks": 114,
+          "license": "MIT",
+          "url": "https://github.com/jkwill87/mnamer",
+          "updated": "2026-09-16T13:08:20Z",
+          "keyword": "file rename"
+        },
+        {
+          "name": "VoxDroid/KemonoDownloader",
+          "pip_name": "kemonodownloader",
+          "desc": "Kemono Downloader - A cross-platform Python app built with PyQt6 to download posts and creator content from Kemono.cr, Coomer.st, and Pawchive.pw. Supports concurrent downloads, file deduplication, and customizable settings.",
+          "stars": 365,
+          "forks": 46,
+          "license": "MIT",
+          "url": "https://github.com/VoxDroid/KemonoDownloader",
+          "updated": "2026-09-24T10:46:03Z",
+          "keyword": "file deduplication"
+        },
+        {
+          "name": "pageauc/pi-timolo",
+          "pip_name": "pi_timolo",
+          "desc": "Raspberry PI-TIMOLO ( PI-TImelapse, MOtion, LOwLight ) uses RPI picamera and OpenCV for Remote Headless Security Monitoring using Motion Tracking, Rclone Auto Sync files with remote storage services. Auto Twilight Transitions and Low Light Camera Settings.  Panoramic images using PanTiltHat and More. This project is featured on GitHub Awesome software.",
+          "stars": 579,
+          "forks": 99,
+          "license": "MIT",
+          "url": "https://github.com/pageauc/pi-timolo",
+          "updated": "2026-08-18T04:18:09Z",
+          "keyword": "file sync"
+        }
+      ]
+    }
+  ]
+}
