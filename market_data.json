@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T09:06:38.651712",
+  "last_updated": "2026-09-26T13:07:55.923575",
   "categories": [
     {
       "label": "媒体处理",
@@ -30,18 +30,18 @@
           "forks": 94,
           "license": "MIT",
           "url": "https://github.com/transmute-app/transmute",
-          "updated": "2026-09-26T08:29:26Z",
+          "updated": "2026-09-26T11:46:01Z",
           "keyword": "image compression"
         },
         {
           "name": "wiltodelta/remove-ai-watermarks",
           "pip_name": "remove_ai_watermarks",
           "desc": "Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.",
-          "stars": 5675,
-          "forks": 523,
+          "stars": 5680,
+          "forks": 524,
           "license": "Apache-2.0",
           "url": "https://github.com/wiltodelta/remove-ai-watermarks",
-          "updated": "2026-09-26T08:23:17Z",
+          "updated": "2026-09-26T11:19:43Z",
           "keyword": "image watermark"
         },
         {
@@ -70,11 +70,11 @@
           "name": "PaddlePaddle/PaddleOCR",
           "pip_name": "paddleocr",
           "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-          "stars": 90231,
-          "forks": 11409,
+          "stars": 90238,
+          "forks": 11410,
           "license": "Apache-2.0",
           "url": "https://github.com/PaddlePaddle/PaddleOCR",
-          "updated": "2026-09-26T08:57:05Z",
+          "updated": "2026-09-26T12:59:40Z",
           "keyword": "image ocr"
         },
         {
@@ -107,7 +107,7 @@
           "forks": 94,
           "license": "MIT",
           "url": "https://github.com/transmute-app/transmute",
-          "updated": "2026-09-26T08:29:26Z",
+          "updated": "2026-09-26T11:46:01Z",
           "keyword": "video converter"
         },
         {
@@ -125,11 +125,11 @@
           "name": "browser-use/video-use",
           "pip_name": "video_use",
           "desc": "Edit videos with coding agents",
-          "stars": 27219,
-          "forks": 3214,
+          "stars": 27259,
+          "forks": 3218,
           "license": "MIT",
           "url": "https://github.com/browser-use/video-use",
-          "updated": "2026-09-26T09:03:17Z",
+          "updated": "2026-09-26T13:07:36Z",
           "keyword": "video editing"
         },
         {
@@ -189,11 +189,11 @@
           "name": "psf/black",
           "pip_name": "black",
           "desc": "The uncompromising Python code formatter",
-          "stars": 41854,
-          "forks": 2888,
+          "stars": 41855,
+          "forks": 2889,
           "license": "MIT",
           "url": "https://github.com/psf/black",
-          "updated": "2026-09-26T08:08:40Z",
+          "updated": "2026-09-26T13:01:03Z",
           "keyword": "code formatter"
         },
         {
@@ -245,7 +245,7 @@
           "pip_name": "ai_doc_gen",
           "desc": "AI-powered multi-agent system that automatically analyzes codebases and generates comprehensive documentation. Features GitLab integration, concurrent processing, and multiple LLM support for better code understanding and developer onboarding.",
           "stars": 763,
-          "forks": 80,
+          "forks": 81,
           "license": "MIT",
           "url": "https://github.com/divar-ir/ai-doc-gen",
           "updated": "2026-09-24T15:04:56Z",
@@ -255,22 +255,22 @@
           "name": "mlflow/mlflow",
           "pip_name": "mlflow",
           "desc": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
-          "stars": 28139,
-          "forks": 6365,
+          "stars": 28141,
+          "forks": 6366,
           "license": "Apache-2.0",
           "url": "https://github.com/mlflow/mlflow",
-          "updated": "2026-09-26T08:28:39Z",
+          "updated": "2026-09-26T11:42:04Z",
           "keyword": "debugger"
         },
         {
           "name": "Evil0ctal/Douyin_TikTok_Download_API",
           "pip_name": "douyin_tiktok_download_api",
           "desc": "🚀 抖音、TikTok 数据采集与无水印视频下载 API，自托管，支持 MCP 调用与 Docker 一键部署。| Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, PostgreSQL archive, one docker compose up.",
-          "stars": 20336,
+          "stars": 20343,
           "forks": 2820,
           "license": "Apache-2.0",
           "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
-          "updated": "2026-09-26T08:50:13Z",
+          "updated": "2026-09-26T13:01:54Z",
           "keyword": "profiler"
         },
         {
@@ -310,11 +310,11 @@
           "name": "MadsLorentzen/ai-job-search",
           "pip_name": "ai_job_search",
           "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-          "stars": 44002,
-          "forks": 15153,
+          "stars": 44021,
+          "forks": 15155,
           "license": "MIT",
           "url": "https://github.com/MadsLorentzen/ai-job-search",
-          "updated": "2026-09-26T09:05:26Z",
+          "updated": "2026-09-26T12:52:23Z",
           "keyword": "code search"
         }
       ]
@@ -355,7 +355,7 @@
           "forks": 46,
           "license": "MIT",
           "url": "https://github.com/VoxDroid/KemonoDownloader",
-          "updated": "2026-09-24T10:46:03Z",
+          "updated": "2026-09-26T09:35:27Z",
           "keyword": "file deduplication"
         },
         {
