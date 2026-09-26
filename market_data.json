@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T05:15:34.092128",
+  "last_updated": "2026-09-26T09:06:38.651712",
   "categories": [
     {
       "label": "媒体处理",
@@ -26,22 +26,22 @@
           "name": "transmute-app/transmute",
           "pip_name": "transmute",
           "desc": "Self hosted file converter and compression tool for images, video, audio, json, excel and more. Supports over 3,000 conversions!",
-          "stars": 1364,
+          "stars": 1366,
           "forks": 94,
           "license": "MIT",
           "url": "https://github.com/transmute-app/transmute",
-          "updated": "2026-09-26T04:13:45Z",
+          "updated": "2026-09-26T08:29:26Z",
           "keyword": "image compression"
         },
         {
           "name": "wiltodelta/remove-ai-watermarks",
           "pip_name": "remove_ai_watermarks",
           "desc": "Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.",
-          "stars": 5674,
+          "stars": 5675,
           "forks": 523,
           "license": "Apache-2.0",
           "url": "https://github.com/wiltodelta/remove-ai-watermarks",
-          "updated": "2026-09-26T01:41:02Z",
+          "updated": "2026-09-26T08:23:17Z",
           "keyword": "image watermark"
         },
         {
@@ -70,11 +70,11 @@
           "name": "PaddlePaddle/PaddleOCR",
           "pip_name": "paddleocr",
           "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-          "stars": 90226,
+          "stars": 90231,
           "forks": 11409,
           "license": "Apache-2.0",
           "url": "https://github.com/PaddlePaddle/PaddleOCR",
-          "updated": "2026-09-26T04:43:09Z",
+          "updated": "2026-09-26T08:57:05Z",
           "keyword": "image ocr"
         },
         {
@@ -103,11 +103,11 @@
           "name": "transmute-app/transmute",
           "pip_name": "transmute",
           "desc": "Self hosted file converter and compression tool for images, video, audio, json, excel and more. Supports over 3,000 conversions!",
-          "stars": 1364,
+          "stars": 1366,
           "forks": 94,
           "license": "MIT",
           "url": "https://github.com/transmute-app/transmute",
-          "updated": "2026-09-26T04:13:45Z",
+          "updated": "2026-09-26T08:29:26Z",
           "keyword": "video converter"
         },
         {
@@ -125,11 +125,11 @@
           "name": "browser-use/video-use",
           "pip_name": "video_use",
           "desc": "Edit videos with coding agents",
-          "stars": 27187,
-          "forks": 3212,
+          "stars": 27219,
+          "forks": 3214,
           "license": "MIT",
           "url": "https://github.com/browser-use/video-use",
-          "updated": "2026-09-26T05:15:39Z",
+          "updated": "2026-09-26T09:03:17Z",
           "keyword": "video editing"
         },
         {
@@ -189,11 +189,11 @@
           "name": "psf/black",
           "pip_name": "black",
           "desc": "The uncompromising Python code formatter",
-          "stars": 41853,
+          "stars": 41854,
           "forks": 2888,
           "license": "MIT",
           "url": "https://github.com/psf/black",
-          "updated": "2026-09-26T04:00:59Z",
+          "updated": "2026-09-26T08:08:40Z",
           "keyword": "code formatter"
         },
         {
@@ -201,7 +201,7 @@
           "pip_name": "pre_commit",
           "desc": "A framework for managing and maintaining multi-language pre-commit hooks.",
           "stars": 15595,
-          "forks": 1012,
+          "forks": 1013,
           "license": "MIT",
           "url": "https://github.com/pre-commit/pre-commit",
           "updated": "2026-09-26T04:58:56Z",
@@ -255,22 +255,22 @@
           "name": "mlflow/mlflow",
           "pip_name": "mlflow",
           "desc": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
-          "stars": 28138,
-          "forks": 6363,
+          "stars": 28139,
+          "forks": 6365,
           "license": "Apache-2.0",
           "url": "https://github.com/mlflow/mlflow",
-          "updated": "2026-09-26T01:47:03Z",
+          "updated": "2026-09-26T08:28:39Z",
           "keyword": "debugger"
         },
         {
           "name": "Evil0ctal/Douyin_TikTok_Download_API",
           "pip_name": "douyin_tiktok_download_api",
           "desc": "🚀 抖音、TikTok 数据采集与无水印视频下载 API，自托管，支持 MCP 调用与 Docker 一键部署。| Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, PostgreSQL archive, one docker compose up.",
-          "stars": 20339,
+          "stars": 20336,
           "forks": 2820,
           "license": "Apache-2.0",
           "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
-          "updated": "2026-09-26T03:49:22Z",
+          "updated": "2026-09-26T08:50:13Z",
           "keyword": "profiler"
         },
         {
@@ -310,11 +310,11 @@
           "name": "MadsLorentzen/ai-job-search",
           "pip_name": "ai_job_search",
           "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-          "stars": 43991,
-          "forks": 15149,
+          "stars": 44002,
+          "forks": 15153,
           "license": "MIT",
           "url": "https://github.com/MadsLorentzen/ai-job-search",
-          "updated": "2026-09-26T04:54:05Z",
+          "updated": "2026-09-26T09:05:26Z",
           "keyword": "code search"
         }
       ]
