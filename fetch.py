@@ -15,7 +15,7 @@ import urllib.error
 from datetime import datetime
 
 
-GITHUB_TOKEN = ""   # 云端不需要填，GitHub Actions 自带
+GITHUB_TOKEN = os.environ.get("GH_TOKEN", "").strip()   # 云端不需要填，GitHub Actions 自带
 
 
 # ============================================================
