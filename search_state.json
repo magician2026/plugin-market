@@ -1,3 +1,2147 @@
 {
-  "last_index": 25
+  "queue": [
+    {
+      "keyword": "database tool",
+      "label": "数据库"
+    },
+    {
+      "keyword": "sql tool",
+      "label": "数据库"
+    },
+    {
+      "keyword": "ai tool",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "machine learning",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "text processing",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "text tool",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "graphics tool",
+      "label": "图形绘制"
+    },
+    {
+      "keyword": "drawing tool",
+      "label": "图形绘制"
+    },
+    {
+      "keyword": "hardware tool",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "iot tool",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "scientific computing",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "math tool",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "learning tool",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "productivity app",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "elderly care",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "health tool",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "ai-agents",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ai-tools",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "model-context-protocol",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "multi-agent-systems",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "openai",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "prompt-engineering-tool",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "background-removal",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "image-processing",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "rembg remove",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "remove images",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "images background",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "rembg remove images",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "annotation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "annotation-tool",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "annotations",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "boundingbox",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "computer-vision",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "computer-vision-annotation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "artificial-intelligence",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "deep-learning",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "implicit-neural-representation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "multi-modality",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "siren",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "text-to-image",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "file-organizer",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "llama3",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "llm",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "on-device-ai",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "vlm",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ai-powered file",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "robust segmentation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "segmentation 100",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "100 important",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "important anatomical",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "anatomical structures",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "structures images",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "deepleanring",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "sub-remove",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "subtile",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "vsr",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "视频文件。无需申请第三方api，本地实现。ai-based removing",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "removing hard-coded",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "extract",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "hardsub",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ocr",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ripper",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "srt",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "inpaint-anything",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "interactive-tracking",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "segment-anything",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "track-anything",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "video-object-segmentation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "video-object-tracking",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ai-video-editing",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "asr",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "auto-subtitles",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "chinese",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "content-creation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "containers",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cuda",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "hacktoberfest",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "hip",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "inference-server",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "intel",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "aiohttp",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "debug",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "fastapi",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "flask",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "http",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "http2",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "experiment tracking",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "tracking developer",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "experiment tracking developer",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cli",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "python3",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "code2prompt powerful",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "powerful command-line",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "command-line simplifies",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "api",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "apis",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "dataset",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "development",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "list",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "lists",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "agent",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-agent",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "code-interpreter",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "copilot",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "arduino",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "arm",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "avr",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "build-system",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cmsis",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "debugging",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "academic-research",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "claude",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "claude-code",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "codex-cli",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "developer-tools",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "antigravity",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "antigravity-cli",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "antigravity-cli-plugins",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "gemini",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "google",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "spec-driven-development",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "automatic",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "command-line-tool",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "document-management",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "file-management",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "platform-independent",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "automation",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "mcp",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "peerd aws",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "vpc peering",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "peering connection",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "connection management",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "management creates",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "creates full-meshes",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "ai-powered",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "document-manager",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "efficiency",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "live-preview",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "suite utilities",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "utilities converting",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "converting working",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "working csv",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "csv king",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "king tabular",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "longer maintained",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "maintained command-line",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "command-line utility",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "utility auto-generating",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "auto-generating subtitles",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "subtitles video",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "pure utility",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "utility extract",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "extract text",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "text images",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "images docx",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "docx files",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "image-compression",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "image-optimisation",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "image-optimization",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "pil",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "pillow",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "python3 utility",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "utility creating",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "creating zip",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "zip files",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "files smuggle",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "smuggle additional",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "agents",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "ai-hacking",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "ai-penetration-testing",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "ai-pentesting",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "ai-security",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "0x4m4",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "ai-cybersecurity",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "ai-security-tool",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "bandit",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "linter",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "security",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "security-scanner",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "security-tools",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "static-code-analysis",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "agent-framework",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "ai-safety",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "compliance",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "governance",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "microsoft",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "automated-pentesting",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "bruteforce",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "cybersecurity",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "e-paper",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "hacking",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "hardware-hacking",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "federated-learning",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "privacy",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "pytorch",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "rsa",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "rsa-attack",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "rsa attack",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "attack mainly",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "mainly ctf",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "open-source trust",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "trust layer",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "layer agents",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "agents cryptographic",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "cryptographic agent",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "agent identity",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "av-evasion",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "cipher",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "data-exfiltration",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "dlp",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "exfiltration",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "2fa",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "hotp",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "minimalist",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "autogen",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "autogen-extension",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "langchain",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "markdown",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "microsoft-office",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "chatbot",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "llms",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "open-source",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "rag",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "open-source rag-based",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "rag-based chatting",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "been deprecated",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "deprecated agentic",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "agentic document",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "document extraction",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "extraction instead",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "been deprecated agentic",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "data-mining",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "pdf",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "tables",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "set extracting",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "audiobook",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "epub",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "kokoro",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "kokoro-tts",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "podcast",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "cli-anything",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "com",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "office",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "document-automation",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "hancom",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "hwp",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "hwpx",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "office-documents",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "opc",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "brute-force-attacks",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "desktop",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "exploitation",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "finder",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "fsociety",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "fsociety-hacking",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "machine-learning",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "natural-language-processing",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "network-analysis",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "sentiment-analysis",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "web-mining",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "wordnet",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "active-directory",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "infosec",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "infosectools",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "networks",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "pentest",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "client",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "cookies",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "forhumans",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "humans",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "python-requests",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "api-client",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "api-testing",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "curl",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "async",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "asyncio",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "http-client",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "trio",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "next generation",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "generation http",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "rest",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "rest-api",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "agentic-ai",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "agentic-ai-development",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "agentneo",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "ai-agent-monitoring",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "ai-application-debugging",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "adversarial-machine-learning",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "face-recognition",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "privacy-enhancing-technologies",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "privacy-protection",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "fawkes privacy",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "privacy preserving",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "ai-red-team",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "generative-ai",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "red-team-tools",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "responsible-ai",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "risk identification",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "identification generative",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "apqp",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "aspice",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "automotive",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "autosar",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "engineering",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "fusa",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "batch",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "chroot",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "deep-hybrid-datacloud",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "docker",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "docker-containers",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "cems",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "climate",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "coal",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "ddj",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "eia",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "eia860",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "alert",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "command-line",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "discord",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "email",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "fly-io",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "create",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "directories",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "directory",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "download",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "file",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "files",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "attacking mqtt",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "mqtt systems",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "systems mosquittos",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "mosquittos scalability",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "scalability load",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "load testing",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "home-automation",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "internet-of-things",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "iot",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "mqtt",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "mqtt-client",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "psutil",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "blender",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "blender-addon",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "pipeline",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "unreal",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "blender addons",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "addons improve",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "allows download",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "download various",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "various game",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "game ports",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "ports available",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "available 351elec",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "aes-encryption",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "assets",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "camellia",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "camellia256",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "encryption",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "encryption-algorithms",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "aigc",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "game",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "text-to-motion",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "animationgpt aigc",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "aigc generating",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "generating game",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "lua",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "pico-8",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "libraries manipulating",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "manipulating pico-8",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "pico-8 game",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "game files",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "some utility",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "utility scripts",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "scripts making",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "making rolling",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "rolling own",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "own cloud",
+      "label": "游戏娱乐"
+    },
+    {
+      "keyword": "application",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "data",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "fine-tuning",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "framework",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "llamaindex",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "data-science",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "data-analysis",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "data-pipeline",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "data-processing",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "data-visualization",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "duckdb",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "lightweight data",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "processing framework",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "framework duckdb",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "data-pipelines",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "document-analysis",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "document-processing",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "elt",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "dataset-hub",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "datasets",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "huggingface",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "forecasting",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "producing quality",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "quality forecasts",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "forecasts time",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "time series",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "series data",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "asgi",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "automatic-api",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "csv",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "datasette",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "datasette-io",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "real-time visualization",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "visualization monitoring",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "monitoring collaborative",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "collaborative analysis",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "analysis experiments",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "experiments live",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "analytics",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "apache",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "apache-superset",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "asf",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "business-analytics",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "business-intelligence",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "athena",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "bigquery",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "dashboard",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "databricks",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "data formulator",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "formulator interactive",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "interactive ai-powered",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "ai-powered data",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "data analysis",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "analysis system",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "matplotlib",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "pandas",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "statistical data",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "create charts",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "charts fio",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "fio storage",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "storage benchmark",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "benchmark output",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "create charts fio",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "candlestick-chart",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "candlestick-patterns-detection",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "crypto-trading",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "pattern-recognition",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "roboflow",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "benchmark measuring",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "measuring speculative",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "speculative decoding",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "decoding speedups",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "speedups sweep",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "sweep draft",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "inpredo deep",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "deep learning",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "learning which",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "which looks",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "looks financial",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "financial charts",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "aggregated",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "analysis",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "builder",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "business",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "chatops",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "discord-bot",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "ai-assistant",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "goofish",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "cactus",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "edge-ai",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "foundation-model",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "function-calling",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "bash",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "bash-scripting",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "command-line-interface",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "chatgpt",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "cheat-sheet",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "commands",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "gpt-3",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "gpt-4",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "cli-agent",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "code-agent",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "codex",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "advertising",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "adwords",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "digital-marketing",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "google-ads",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "keywords",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "log-analysis",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "fastapi-boilerplate",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "fastapi-template",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "helm",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "kubernetes",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "mvc",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "alfred",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "alfred-workflow",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "heroku",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "ifttt",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "ios",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "ios-scriptable",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "api-server",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "sanic",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "web",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "companion code",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "code o'reilly",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "o'reilly book",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "book \"flask",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "\"flask web",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "authentication",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "crud",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "rbac",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "api-first",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "api-rest",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "flask-extensions",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "microservices",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "openapi",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "swagger",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "json",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "apps",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "django",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "models",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "orm",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "templates",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "ai-scraping",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "crawler",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "crawling",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "crawling-python",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "jinja",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "pallets",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "web-framework",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "werkzeug",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "wsgi",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "scraping",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "web-scraping",
+      "label": "Web 开发"
+    }
+  ],
+  "done": [
+    "document tool",
+    "developer tool",
+    "system utility",
+    "automation tool",
+    "data tool",
+    "chart tool",
+    "http client",
+    "system tool",
+    "data visualization",
+    "network tool",
+    "web development",
+    "security tool",
+    "cryptography",
+    "video tool",
+    "office automation",
+    "media processing",
+    "game tool",
+    "software development",
+    "gaming utility",
+    "file utility",
+    "web framework",
+    "file management tool",
+    "data processing",
+    "image tool",
+    "productivity tool"
+  ]
 }
