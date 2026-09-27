@@ -1,106 +1,6 @@
 {
   "queue": [
     {
-      "keyword": "database tool",
-      "label": "数据库"
-    },
-    {
-      "keyword": "sql tool",
-      "label": "数据库"
-    },
-    {
-      "keyword": "ai tool",
-      "label": "AI 工具"
-    },
-    {
-      "keyword": "machine learning",
-      "label": "AI 工具"
-    },
-    {
-      "keyword": "text processing",
-      "label": "文本处理"
-    },
-    {
-      "keyword": "text tool",
-      "label": "文本处理"
-    },
-    {
-      "keyword": "graphics tool",
-      "label": "图形绘制"
-    },
-    {
-      "keyword": "drawing tool",
-      "label": "图形绘制"
-    },
-    {
-      "keyword": "hardware tool",
-      "label": "硬件控制"
-    },
-    {
-      "keyword": "iot tool",
-      "label": "硬件控制"
-    },
-    {
-      "keyword": "scientific computing",
-      "label": "科学计算"
-    },
-    {
-      "keyword": "math tool",
-      "label": "科学计算"
-    },
-    {
-      "keyword": "learning tool",
-      "label": "生活学习"
-    },
-    {
-      "keyword": "productivity app",
-      "label": "生活学习"
-    },
-    {
-      "keyword": "elderly care",
-      "label": "老龄照护"
-    },
-    {
-      "keyword": "health tool",
-      "label": "老龄照护"
-    },
-    {
-      "keyword": "ai-agents",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "ai-tools",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "model-context-protocol",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "multi-agent-systems",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "openai",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "prompt-engineering-tool",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "background-removal",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "image-processing",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "rembg remove",
-      "label": "媒体处理"
-    },
-    {
       "keyword": "remove images",
       "label": "媒体处理"
     },
@@ -2115,33 +2015,1394 @@
     {
       "keyword": "web-scraping",
       "label": "Web 开发"
+    },
+    {
+      "keyword": "sql",
+      "label": "数据库"
+    },
+    {
+      "keyword": "sqlalchemy",
+      "label": "数据库"
+    },
+    {
+      "keyword": "database migrations",
+      "label": "数据库"
+    },
+    {
+      "keyword": "migrations sqlalchemy",
+      "label": "数据库"
+    },
+    {
+      "keyword": "database migrations sqlalchemy",
+      "label": "数据库"
+    },
+    {
+      "keyword": "codegraph",
+      "label": "数据库"
+    },
+    {
+      "keyword": "codegraphcontext",
+      "label": "数据库"
+    },
+    {
+      "keyword": "hacktoberfest2025",
+      "label": "数据库"
+    },
+    {
+      "keyword": "social-winter-of-code",
+      "label": "数据库"
+    },
+    {
+      "keyword": "mcp server",
+      "label": "数据库"
+    },
+    {
+      "keyword": "server plus",
+      "label": "数据库"
+    },
+    {
+      "keyword": "cartography pulls",
+      "label": "数据库"
+    },
+    {
+      "keyword": "pulls infrastructure",
+      "label": "数据库"
+    },
+    {
+      "keyword": "infrastructure assets",
+      "label": "数据库"
+    },
+    {
+      "keyword": "assets their",
+      "label": "数据库"
+    },
+    {
+      "keyword": "their relationships",
+      "label": "数据库"
+    },
+    {
+      "keyword": "relationships neo4j",
+      "label": "数据库"
+    },
+    {
+      "keyword": "database snapshot",
+      "label": "数据库"
+    },
+    {
+      "keyword": "snapshot restore",
+      "label": "数据库"
+    },
+    {
+      "keyword": "restore development",
+      "label": "数据库"
+    },
+    {
+      "keyword": "database snapshot restore",
+      "label": "数据库"
+    },
+    {
+      "keyword": "snapshot restore development",
+      "label": "数据库"
+    },
+    {
+      "keyword": "gdm science",
+      "label": "数据库"
+    },
+    {
+      "keyword": "science skills",
+      "label": "数据库"
+    },
+    {
+      "keyword": "skills speed",
+      "label": "数据库"
+    },
+    {
+      "keyword": "speed agentic",
+      "label": "数据库"
+    },
+    {
+      "keyword": "agentic scientific",
+      "label": "数据库"
+    },
+    {
+      "keyword": "scientific workflows",
+      "label": "数据库"
+    },
+    {
+      "keyword": "on-premise",
+      "label": "数据库"
+    },
+    {
+      "keyword": "complete api",
+      "label": "数据库"
+    },
+    {
+      "keyword": "api layer",
+      "label": "数据库"
+    },
+    {
+      "keyword": "layer private",
+      "label": "数据库"
+    },
+    {
+      "keyword": "private applications",
+      "label": "数据库"
+    },
+    {
+      "keyword": "advanced cross-platform",
+      "label": "数据库"
+    },
+    {
+      "keyword": "cross-platform automates",
+      "label": "数据库"
+    },
+    {
+      "keyword": "automates process",
+      "label": "数据库"
+    },
+    {
+      "keyword": "process detecting",
+      "label": "数据库"
+    },
+    {
+      "keyword": "detecting exploiting",
+      "label": "数据库"
+    },
+    {
+      "keyword": "exploiting sql",
+      "label": "数据库"
+    },
+    {
+      "keyword": "data-discovery",
+      "label": "数据库"
+    },
+    {
+      "keyword": "data-governance",
+      "label": "数据库"
+    },
+    {
+      "keyword": "data-lineage",
+      "label": "数据库"
+    },
+    {
+      "keyword": "lineage",
+      "label": "数据库"
+    },
+    {
+      "keyword": "metadata",
+      "label": "数据库"
+    },
+    {
+      "keyword": "large-language-models",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "multiagent",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "react-flow",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "agentic",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "agentic-framework",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "agentic-workflow",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "deep-research",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "anthropic",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "compression",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "context-engineering",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "context-window",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "audio",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "deepseek",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "gemma",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "glm",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "statistics",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "scikit-learn machine",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "deploy",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "gradio",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "deep-reinforcement-learning",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "genetic-algorithm",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "deep-neural-networks",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "dnn",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "keras",
+      "label": "AI 工具"
+    },
+    {
+      "keyword": "nlp",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "nltk",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "pattern",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "pythonic text",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "text processing--sentiment",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "processing chinese",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "chinese text",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "processing chinese text",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "bert",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "casl-project",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "dialog-systems",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "gpt-2",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "animation",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "comfyui",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "filter",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "hdr-image",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "image-manipulation",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "distillation",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "knowledge",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "pytorch-based knowledge",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "article-extractor",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "corpus-builder",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "corpus-tools",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "html-to-markdown",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "html2text",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "vader sentiment",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "sentiment analysis",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "analysis vader",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "vader valence",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "valence aware",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "aware dictionary",
+      "label": "文本处理"
+    },
+    {
+      "keyword": "generative-art",
+      "label": "图形绘制"
+    },
+    {
+      "keyword": "hacktoberfest2020",
+      "label": "图形绘制"
+    },
+    {
+      "keyword": "multi-layer-svg",
+      "label": "图形绘制"
+    },
+    {
+      "keyword": "pen-plotters",
+      "label": "图形绘制"
+    },
+    {
+      "keyword": "plotter-art",
+      "label": "图形绘制"
+    },
+    {
+      "keyword": "gans",
+      "label": "图形绘制"
+    },
+    {
+      "keyword": "graphics",
+      "label": "图形绘制"
+    },
+    {
+      "keyword": "hci",
+      "label": "图形绘制"
+    },
+    {
+      "keyword": "research",
+      "label": "图形绘制"
+    },
+    {
+      "keyword": "cross-platform",
+      "label": "图形绘制"
+    },
+    {
+      "keyword": "dearpygui",
+      "label": "图形绘制"
+    },
+    {
+      "keyword": "gui",
+      "label": "图形绘制"
+    },
+    {
+      "keyword": "imgui",
+      "label": "图形绘制"
+    },
+    {
+      "keyword": "linux",
+      "label": "图形绘制"
+    },
+    {
+      "keyword": "graphcore",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "habana",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "inference",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "onnx",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "onnxruntime",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "list awesome",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "awesome hardware",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "hardware generators",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "generators reusable",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "reusable designs",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "list awesome hardware",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "beaglebone",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "ds18b20",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "ds18s20",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "gpio",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "hardware",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "3d-models",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "build123d",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "cad",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "cadquery",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "digital-thread",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "digital-twin",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "bk7231n",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "bk7231t",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "tuya-convert",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "disconnects tuya",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "iot hackbot",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "hackbot collection",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "collection claude",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "claude skills",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "skills custom",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "custom tooling",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "aws",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "aws-cli",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "aws-iot",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "aws-monitoring",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "aws-services",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "devops-tools",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "camera",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "camera-control",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "camera-exploitation",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "camera-hacking",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "entysec",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "exploit",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "credentials-gathering",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "exploits",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "hack",
+      "label": "硬件控制"
+    },
+    {
+      "keyword": "equinox",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "jax",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "neural-networks",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "elegant easy-to-use",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "easy-to-use neural",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "ai4science",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "operator-learning",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "paddlepaddle",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "self-supervised-learning",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "amd",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "apple-silicon",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "autodiff",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "autograd",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "gpu-programming",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "cluster-computing",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "color",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "computational-display",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "computational-imaging",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "computational-optics",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "computer-generated-holography",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "linear-algebra",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "numerical-calculations",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "scientific-computing",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "differentiable scientific",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "cryptanalysis",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "crypto",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "automated-theorem-proving",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "computer-algebra",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "cordis",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "dsh",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "dsh-plugin",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "computer-algebra-system",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "math",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "mathy",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "reinforcement-learning",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "eval",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "evaluation",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "high-performance llm",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "llm evaluation",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "evaluation framework",
+      "label": "科学计算"
+    },
+    {
+      "keyword": "data-labeling",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "adversarial-attacks",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "adversarial-examples",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "attack",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "blue-team",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "caffe",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "cntk",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "coreml",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "darknet",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "model-converter",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "iclr'24 spotlight",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "spotlight platform",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "platform training",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "training serving",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "serving evaluating",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "evaluating large",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "bioinformatics",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "charting",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "dash",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "dashboards",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "activitywatch",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "afk",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "app",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "productivity",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "pygame",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "memento app",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "app records",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "records everything",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "dev",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "development-environment",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "pomodoro",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "pomodoro-clock",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "pomodoro-technique",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "command line",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "line pomodoro",
+      "label": "生活学习"
+    },
+    {
+      "keyword": "langchain-python",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "local-llm",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "ollama",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "samples provided",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "provided aws",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "aws health",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "health help",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "help users",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "users build",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "healthcare",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "healthcare machine",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "healthcare machine learning",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "ehr",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "fhir",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "fhir-api",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "fhir-tools",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "ai-azd-templates",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "azd-templates",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "azure",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "semantic-kernel",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "facilitates creating",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "creating modular",
+      "label": "老龄照护"
+    },
+    {
+      "keyword": "deepagents",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "enterprise",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "100+ agents",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "agents agent",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "agent skills",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ast",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "code-analysis",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "code-search",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "browser-automation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "browser-use",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "playwright",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ai-automation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "autonomous-agents",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "browser",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "claude-code-plugin",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "3d-modeling",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "blender-mcp",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "fastmcp",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "mcp-clients",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "mcp-servers",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "mcp-client",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "mcp-server",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "official sdk",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "sdk model",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "model context",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ai-tutor",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "clawbot",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "cli-tool",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "deepresearch",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "interactive-learning",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "agents-sdk",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "comprehensive collection",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "collection agent",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "skills context",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "context engineering",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "engineering multi-agent",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ai-societies",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "communicative-ai",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "cooperative-ai",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ai-orchestration",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "kanban",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "blackwell",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "deepseek-v3",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "gpt",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "image-generation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "agentic-loop",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "agentic-patterns",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "agentic-rag",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "background-remover",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "backgroundremover",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "photo-editing",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "remove-background",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "birefnet",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "camouflaged-object-detection",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "dichotomous-image-segmentation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "image-segmentation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "salient-object-detection",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "image-matting",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "accv2022",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "high-resolution",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "classification",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "coco",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "tesseract",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ocrmypdf adds",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "adds ocr",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "cnn",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "crnn",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "easyocr",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "im2latex",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "im2markup",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "im2text",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "removes backgrounds",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "backgrounds pictures",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "pictures extension",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "extension webui",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "removes backgrounds pictures",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "backgrounds pictures extension",
+      "label": "媒体处理"
     }
   ],
   "done": [
-    "document tool",
-    "developer tool",
-    "system utility",
-    "automation tool",
-    "data tool",
-    "chart tool",
-    "http client",
-    "system tool",
-    "data visualization",
-    "network tool",
-    "web development",
+    "ai-agents",
+    "ai tool",
     "security tool",
-    "cryptography",
-    "video tool",
-    "office automation",
+    "data tool",
+    "math tool",
+    "openai",
     "media processing",
-    "game tool",
+    "image-processing",
+    "machine learning",
+    "network tool",
+    "text processing",
+    "text tool",
+    "ai-tools",
+    "drawing tool",
+    "prompt-engineering-tool",
+    "system tool",
     "software development",
-    "gaming utility",
-    "file utility",
-    "web framework",
     "file management tool",
-    "data processing",
+    "system utility",
     "image tool",
-    "productivity tool"
+    "game tool",
+    "elderly care",
+    "automation tool",
+    "sql tool",
+    "graphics tool",
+    "rembg remove",
+    "gaming utility",
+    "data visualization",
+    "productivity tool",
+    "web framework",
+    "scientific computing",
+    "document tool",
+    "office automation",
+    "http client",
+    "hardware tool",
+    "multi-agent-systems",
+    "database tool",
+    "learning tool",
+    "developer tool",
+    "file utility",
+    "chart tool",
+    "health tool",
+    "model-context-protocol",
+    "background-removal",
+    "productivity app",
+    "iot tool",
+    "cryptography",
+    "data processing",
+    "video tool",
+    "web development"
   ]
 }
