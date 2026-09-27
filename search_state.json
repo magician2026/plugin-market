@@ -1,106 +1,6 @@
 {
   "queue": [
     {
-      "keyword": "anatomical structures",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "structures images",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "deepleanring",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "sub-remove",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "subtile",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "vsr",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "视频文件。无需申请第三方api，本地实现。ai-based removing",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "removing hard-coded",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "extract",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "hardsub",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "ocr",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "ripper",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "srt",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "inpaint-anything",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "interactive-tracking",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "segment-anything",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "track-anything",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "video-object-segmentation",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "video-object-tracking",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "ai-video-editing",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "asr",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "auto-subtitles",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "chinese",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "content-creation",
-      "label": "媒体处理"
-    },
-    {
-      "keyword": "containers",
-      "label": "软件开发"
-    },
-    {
       "keyword": "cuda",
       "label": "软件开发"
     },
@@ -4239,83 +4139,1108 @@
     {
       "keyword": "fully-convolutional-networks",
       "label": "媒体处理"
+    },
+    {
+      "keyword": "chineseocr",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "document-parsing",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "document-translation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "kie",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "anonymization",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "data-anonymization",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "data-masking",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "data-obfuscation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "data-privacy",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "data-redaction",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "document-parser",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "image-to-markdown",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "table-detection",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "table-recognition",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "table-structure-recognition",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "repository contains",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "contains code",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "code implementation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "video-restoration",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "video-super-resolution",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "cvpr 2026",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "2026 towards",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "towards real-time",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "carn",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "dbpn",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "dncnn",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "edsr",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "frvsr",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ntire2019",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "official repository",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "repository \"investigating",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "\"investigating tradeoffs",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "tradeoffs real-world",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "real-world video",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "video super-resolution\"",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "real-time",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "efficient generic",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "generic video",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "video super-resolution",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "gemini-ai",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "gemini-api",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "gemini-flash",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "gemini-pro",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "information-extration",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "give claude",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "claude ability",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ability watch",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "watch video",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "video watch",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "watch downloads",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "code",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "developer-tool",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ingestion",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "replace 'hub'",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "'hub' 'ingest'",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "'ingest' github",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "pdf-parsing",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "table-extraction",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "plumb pdf",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "pdf detailed",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "detailed information",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "apify",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "beautifulsoup",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "headless",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ocr-python",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "paddleocr",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "qml",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "screenshot",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "umi-ocr",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "unlimited ocr",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ocr works",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "works welcome",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "welcome era",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "era one-shot",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "one-shot long-horizon",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "blu-ray",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "disc",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "dvd",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "emby",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "attack-defense",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "attack-server",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ddos",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ddos-attack",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ddos-attack-tool",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ddos-attack-tools",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "cracking",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "cracking-hashes",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "password",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "wordlist",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "wordlist-generator",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "wordlist-technique",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "bot",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "discord-nuke-bot",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "discord-raid-bot",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "nuke",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "alignment",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "caption",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "captions",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "fast-fourier-transform",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ai-skill",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "hand-drawn",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "subtitle",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "whiteboard-animation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "file-transla",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "pdf-converter",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "pdf-translator",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "translate",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "文档（小说、论文、字幕）翻译工具（支持 pdf",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "audio2text",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "generation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "transcription",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "whisper",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "anything",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "diffusers",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "extension",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "generate ai-powered",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ai-powered gaze-tracking",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "gaze-tracking face",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "face images",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "images create",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "create interactive",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ai-content",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "interactive longform-to-shortform",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "repository \"samurai",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "\"samurai adapting",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "adapting segment",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "segment anything",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "anything model",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "geopython",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "geospatial",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "edit anything",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "anything images",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "images segment-anything",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "segment-anything controlnet",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "controlnet stablediffusion",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "stablediffusion etc",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "deep-compression-autoencoder",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "efficient-diffusion-model",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "efficientvit",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "imagenet",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "interactive-video-segmentation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "segment-anything-model",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "video-instance-segmentation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "efficient track",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "track anything",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "efficient track anything",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "object-segmentation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "object-tracking",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "tracking-anything",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "tracking anything",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "anything quality",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "tracking anything quality",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "multi-object-tracking",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "single-object-tracking",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "video-object-detection",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "openmmlab video",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "cvpr2019",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "read-time",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "eccv-2022",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "eccv2022",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "instance-segmentation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "multiple-object-tracking",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "perception",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "cvpr2023 official",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "matplotlib-pyplot",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "motion-tracking",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "moving",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "openalpr",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "picamera2",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "sot",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "vos",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "series basic",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "basic algorithms",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "skills",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "auto-highlight",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "video-editing",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "autoclip ai-powered",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "llm-tools",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "opus-clip",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "opus-clip-alternative",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "short-video-automation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ai-cinema",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ai-filmmaking",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ai-video",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "character-acting",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "cinema-studio",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "speech",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "speech-recognition",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "speech-to-text",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "whisperx automatic",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "emotion-recognition",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "funasr",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "machine-translation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "speaker-diariazation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "code-switch",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "conformer",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "kws",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "punctuation-restoration",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "audio-processing",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "language-model",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "appletvplus",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "catchplay",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "crunchyroll",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "disneyplus",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "friday-video",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "hbo",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "auto-clipper",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "clipper",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "face-tracker",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "karaoke-subtitles",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "blog",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "china",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "rss",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "audio-generation",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "cantonese",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "cosyvoice",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "flash-attention",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "pretrained-models",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "audiobooks",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "content-creator",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ebook",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "iclr 2024",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "2024 oral",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "oral generative",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "generative gaussian",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "agent-skill",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "ai-marketing",
+      "label": "媒体处理"
+    },
+    {
+      "keyword": "aws-security",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cloudformation",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "devops",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "docker-container",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "dumb",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "init",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "pid1",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "unix",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "all-in-one",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "filesystem",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "sandbox",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cloud-management",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "configuration-management",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "high-performance",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "infrastructure",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "pyinfra",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "remote-execution",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "container data",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "data volume",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "volume manager",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "manager dockerized",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "dockerized application",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "container data volume",
+      "label": "软件开发"
     }
   ],
   "done": [
-    "elderly care",
-    "rembg remove images",
-    "system utility",
-    "office automation",
-    "image-processing",
-    "hardware tool",
-    "automation tool",
-    "multi-agent-systems",
-    "productivity app",
-    "annotations",
+    "robust segmentation",
+    "image tool",
+    "视频文件。无需申请第三方api，本地实现。ai-based removing",
+    "extract",
+    "auto-subtitles",
+    "subtile",
+    "segmentation 100",
+    "asr",
+    "text tool",
+    "removing hard-coded",
+    "file management tool",
+    "inpaint-anything",
+    "deep-learning",
+    "interactive-tracking",
+    "web development",
+    "ai-video-editing",
     "on-device-ai",
+    "drawing tool",
+    "http client",
+    "vsr",
     "media processing",
+    "annotation",
+    "elderly care",
+    "security tool",
+    "iot tool",
+    "developer tool",
+    "background-removal",
+    "openai",
+    "structures images",
+    "deepleanring",
+    "graphics tool",
+    "video-object-segmentation",
+    "annotation-tool",
+    "llama3",
+    "text processing",
+    "video-object-tracking",
+    "machine learning",
+    "multi-modality",
+    "ai-agents",
+    "web framework",
+    "computer-vision-annotation",
+    "productivity tool",
+    "scientific computing",
+    "segment-anything",
+    "database tool",
+    "siren",
+    "video tool",
+    "automation tool",
+    "health tool",
+    "software development",
+    "rembg remove",
+    "boundingbox",
+    "llm",
+    "learning tool",
+    "annotations",
+    "text-to-image",
+    "vlm",
+    "ai tool",
+    "hardware tool",
     "data tool",
     "ai-tools",
-    "ai-powered file",
-    "important anatomical",
-    "graphics tool",
-    "images background",
-    "gaming utility",
-    "productivity tool",
-    "web framework",
-    "sql tool",
-    "chart tool",
-    "health tool",
-    "cryptography",
-    "developer tool",
-    "rembg remove",
-    "model-context-protocol",
-    "background-removal",
-    "multi-modality",
-    "siren",
-    "100 important",
-    "remove images",
     "implicit-neural-representation",
-    "image tool",
-    "database tool",
-    "openai",
-    "system tool",
-    "scientific computing",
-    "network tool",
-    "security tool",
-    "text processing",
-    "data processing",
-    "computer-vision-annotation",
-    "machine learning",
-    "text-to-image",
-    "boundingbox",
-    "vlm",
-    "annotation-tool",
-    "segmentation 100",
-    "software development",
-    "drawing tool",
-    "game tool",
-    "http client",
-    "text tool",
-    "learning tool",
-    "ai tool",
-    "math tool",
-    "annotation",
-    "prompt-engineering-tool",
-    "file utility",
-    "iot tool",
-    "llama3",
-    "robust segmentation",
-    "artificial-intelligence",
-    "ai-agents",
-    "llm",
-    "video tool",
-    "file management tool",
+    "model-context-protocol",
+    "ai-powered file",
+    "cryptography",
+    "office automation",
+    "remove images",
+    "100 important",
+    "ocr",
     "computer-vision",
-    "document tool",
-    "web development",
-    "file-organizer",
+    "system utility",
+    "chart tool",
+    "sql tool",
+    "chinese",
+    "hardsub",
+    "containers",
+    "file utility",
+    "anatomical structures",
+    "content-creation",
+    "artificial-intelligence",
+    "system tool",
+    "network tool",
+    "rembg remove images",
+    "image-processing",
+    "images background",
+    "math tool",
+    "track-anything",
+    "srt",
+    "game tool",
+    "sub-remove",
     "data visualization",
-    "deep-learning"
+    "gaming utility",
+    "important anatomical",
+    "productivity app",
+    "data processing",
+    "file-organizer",
+    "document tool",
+    "ripper",
+    "multi-agent-systems",
+    "prompt-engineering-tool"
   ]
 }
