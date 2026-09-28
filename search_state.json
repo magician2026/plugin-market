@@ -1,106 +1,6 @@
 {
   "queue": [
     {
-      "keyword": "platform-independent",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "automation",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "mcp",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "peerd aws",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "vpc peering",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "peering connection",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "connection management",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "management creates",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "creates full-meshes",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "ai-powered",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "document-manager",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "efficiency",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "live-preview",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "suite utilities",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "utilities converting",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "converting working",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "working csv",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "csv king",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "king tabular",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "longer maintained",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "maintained command-line",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "command-line utility",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "utility auto-generating",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "auto-generating subtitles",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "subtitles video",
-      "label": "文件管理"
-    },
-    {
       "keyword": "pure utility",
       "label": "文件管理"
     },
@@ -6839,158 +6739,827 @@
     {
       "keyword": "developers providing",
       "label": "文件管理"
+    },
+    {
+      "keyword": "claude-cli",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "claude-code-skills",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "gui-library",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "remi",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "remote interface",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "interface platform",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "ble",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "bluetooth",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "bluetooth-low-energy",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "api-wrapper",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "windows",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "airflow",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "apache-airflow",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "dag",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "data-engineering",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "audio-recorder",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "hacker",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "hackingtools",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "keylogger-python",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "keylogger-python3",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "tag-production",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "routing connection",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "management redis",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "routing connection management",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "connection management redis",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "bot-framework",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "botkit",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "bots",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "chatbots",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "attendance",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "hod",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "staff",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "student-information",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "student-management",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "bitcoin-mining-tools",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "cpu-mining",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "cpu-xmr-mining",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "cpumining",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "cryptominer",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "docker-mining",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "data management",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "management utilities",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "utilities creating",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "creating magic",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "magic gathering",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "gathering cards",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "knowledge-graph",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "github",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "grok-cli",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "cpu",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "cpu-profiling",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "memory-allocation",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "memory-consumption",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "aiagent",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "binary-analysis",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "ida-plugin",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "ida-pro",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "model-serving",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "modern robotics",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "robotics mechanics",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "mechanics planning",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "planning control",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "control code",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "code ---",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "cocoindex",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "automl",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "knowledge-distillation",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "nas",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "rpe",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "vision-transformer",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "markdown-editor",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "syntax-highlighting",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "ubuntu",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "gstreamer",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "live-streaming",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "multimedia",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "rtmp",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "video-handling",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "video-streams",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "sublime text",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "text 2&3",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "2&3 plugin",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "plugin live",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "live preview",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "preview markup",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "sublime-text",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "sublime-text-3",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "text plugin",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "bilingual",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "bitmap-to-vector",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "image-to-vector",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "image-tracing",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "opensource",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "cpufreq",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "interrupts",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "linux-networking-stack",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "monitoring",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "burpsuite",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "cobalt-strike",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "cobaltstrike",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "malleablec2",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "quick utility",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "utility wrote",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "planning-tool",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "pybullet",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "robotics-simulation",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "suite utility",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "utility functions",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "functions facilitate",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "convert",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "pil-image",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "poppler",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "module wraps",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "utilities",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "convert pdf",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "pdf podcast",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "podcast episode",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "3dgs",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "cloudcompare",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "gaussian-splatting",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "ksplat",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "photogrammetry",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "fonts",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "micropython",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "python-3",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "utility convert",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "convert fonts",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "fonts capable",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "csv-converter",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "csv-export",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "csv-files",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "csv-format",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "csv-import",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "utility extracts",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "extracts streams",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "streams various",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "various services",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "services pipes",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "neurips'24 spotlight",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "spotlight iclr'25",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "iclr'25 icml'25",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "icml'25 speed",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "speed long-context",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "long-context llms'",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "line interface",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "interface formulation",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "formulation framework",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "framework mirror",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "mirror code",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "cookiecutter",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "cross-platform command-line",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "utility creates",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "creates projects",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "projects cookiecutters",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "gpustat",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "nvidia-smi",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "copier-template",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "project-template",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "scaffolding",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "subtitles",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "transcript",
+      "label": "文件管理"
     }
   ],
   "done": [
-    "hardware tool",
-    "interactive-tracking",
-    "anatomical structures",
-    "lists",
-    "file utility",
-    "arm",
-    "deep-learning",
-    "llm",
-    "asr",
-    "text processing",
-    "drawing tool",
-    "iot tool",
+    "dataset",
+    "working csv",
+    "inference-server",
+    "peerd aws",
+    "ai-video-editing",
+    "web development",
+    "video-object-tracking",
+    "cmsis",
+    "database tool",
+    "siren",
+    "graphics tool",
     "subtile",
-    "ocr",
-    "security tool",
-    "annotations",
-    "segment-anything",
+    "aiohttp",
+    "spec-driven-development",
+    "experiment tracking",
+    "command-line simplifies",
+    "chart tool",
+    "image-processing",
+    "platform-independent",
+    "document-manager",
+    "cryptography",
+    "video-object-segmentation",
+    "system tool",
+    "automatic",
+    "iot tool",
+    "python3",
+    "text tool",
+    "productivity app",
+    "software development",
+    "experiment tracking developer",
+    "track-anything",
+    "ai-tools",
+    "100 important",
+    "developer-tools",
+    "debugging",
+    "document tool",
+    "rembg remove",
+    "cuda",
+    "learning tool",
     "hardsub",
-    "health tool",
+    "vpc peering",
+    "annotation",
+    "data tool",
+    "maintained command-line",
+    "claude",
+    "automation tool",
+    "segmentation 100",
+    "codex-cli",
+    "antigravity-cli",
+    "api",
+    "command-line utility",
+    "multi-modality",
+    "robust segmentation",
+    "important anatomical",
+    "google",
+    "containers",
+    "converting working",
+    "office automation",
+    "computer-vision",
+    "utility auto-generating",
+    "deep-learning",
+    "automation",
+    "mcp",
+    "artificial-intelligence",
+    "multi-agent-systems",
+    "http",
+    "list",
+    "machine learning",
+    "text-to-image",
+    "gemini",
+    "tracking developer",
+    "hacktoberfest",
+    "code-interpreter",
+    "segment-anything",
+    "file utility",
+    "document-management",
+    "extract",
+    "creates full-meshes",
+    "prompt-engineering-tool",
+    "game tool",
+    "hardware tool",
+    "sql tool",
+    "development",
+    "data visualization",
+    "asr",
+    "network tool",
+    "fastapi",
+    "peering connection",
+    "interactive-tracking",
+    "arduino",
+    "avr",
+    "deepleanring",
+    "ai tool",
+    "suite utilities",
+    "file management tool",
+    "removing hard-coded",
+    "file-organizer",
+    "ai-agents",
+    "boundingbox",
+    "live-preview",
+    "vsr",
+    "lists",
+    "developer tool",
+    "elderly care",
+    "apis",
+    "king tabular",
+    "media processing",
     "srt",
     "auto-subtitles",
-    "cmsis",
-    "code2prompt powerful",
-    "vlm",
-    "prompt-engineering-tool",
-    "gemini",
-    "cli",
-    "machine learning",
-    "avr",
-    "http",
-    "important anatomical",
-    "spec-driven-development",
-    "apis",
-    "gaming utility",
-    "graphics tool",
-    "claude-code",
-    "fastapi",
-    "debugging",
-    "remove images",
-    "ai-tools",
-    "web framework",
-    "developer tool",
-    "boundingbox",
-    "sql tool",
-    "data processing",
-    "extract",
-    "aiohttp",
-    "http2",
-    "ai-powered file",
-    "tracking developer",
-    "document-management",
-    "multi-modality",
-    "math tool",
-    "game tool",
-    "agent",
-    "file management tool",
-    "inference-server",
-    "ripper",
-    "academic-research",
-    "build-system",
-    "video-object-segmentation",
-    "computer-vision",
-    "file-organizer",
-    "antigravity",
-    "web development",
-    "scientific computing",
-    "text-to-image",
-    "http client",
-    "cryptography",
-    "data tool",
-    "ai-video-editing",
-    "rembg remove",
-    "copilot",
-    "command-line-tool",
-    "code-interpreter",
-    "image tool",
-    "ai-agents",
-    "video tool",
-    "100 important",
-    "annotation-tool",
-    "containers",
-    "productivity app",
-    "text tool",
-    "media processing",
-    "cuda",
-    "automatic",
-    "ai-agent",
-    "multi-agent-systems",
-    "hacktoberfest",
-    "command-line simplifies",
-    "developer-tools",
-    "codex-cli",
-    "development",
-    "siren",
-    "flask",
-    "google",
-    "robust segmentation",
-    "arduino",
-    "deepleanring",
-    "structures images",
-    "elderly care",
-    "images background",
-    "rembg remove images",
     "openai",
-    "on-device-ai",
-    "intel",
-    "document tool",
-    "antigravity-cli",
-    "system tool",
-    "artificial-intelligence",
-    "dataset",
-    "track-anything",
-    "network tool",
-    "experiment tracking developer",
-    "sub-remove",
-    "inpaint-anything",
-    "experiment tracking",
-    "file-management",
-    "llama3",
-    "vsr",
-    "automation tool",
-    "system utility",
-    "database tool",
-    "claude",
-    "debug",
-    "computer-vision-annotation",
-    "chart tool",
-    "productivity tool",
     "antigravity-cli-plugins",
-    "data visualization",
-    "learning tool",
-    "content-creation",
-    "segmentation 100",
-    "background-removal",
-    "hip",
-    "chinese",
     "implicit-neural-representation",
-    "python3",
-    "office automation",
-    "removing hard-coded",
-    "视频文件。无需申请第三方api，本地实现。ai-based removing",
-    "annotation",
-    "list",
-    "software development",
-    "video-object-tracking",
-    "ai tool",
-    "model-context-protocol",
+    "ai-powered",
+    "anatomical structures",
+    "antigravity",
+    "hip",
+    "arm",
+    "health tool",
+    "longer maintained",
+    "image tool",
+    "data processing",
+    "computer-vision-annotation",
+    "drawing tool",
+    "connection management",
+    "video tool",
+    "annotation-tool",
+    "scientific computing",
+    "ai-powered file",
+    "math tool",
+    "code2prompt powerful",
+    "chinese",
     "powerful command-line",
-    "api",
-    "image-processing"
+    "rembg remove images",
+    "cli",
+    "remove images",
+    "build-system",
+    "subtitles video",
+    "gaming utility",
+    "content-creation",
+    "background-removal",
+    "structures images",
+    "intel",
+    "llama3",
+    "productivity tool",
+    "csv king",
+    "agent",
+    "system utility",
+    "academic-research",
+    "ripper",
+    "efficiency",
+    "ocr",
+    "claude-code",
+    "management creates",
+    "ai-agent",
+    "llm",
+    "utilities converting",
+    "command-line-tool",
+    "视频文件。无需申请第三方api，本地实现。ai-based removing",
+    "auto-generating subtitles",
+    "debug",
+    "http2",
+    "file-management",
+    "vlm",
+    "model-context-protocol",
+    "copilot",
+    "flask",
+    "images background",
+    "inpaint-anything",
+    "security tool",
+    "sub-remove",
+    "http client",
+    "on-device-ai",
+    "text processing",
+    "web framework",
+    "annotations"
   ]
 }
