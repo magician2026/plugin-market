@@ -1,106 +1,6 @@
 {
   "queue": [
     {
-      "keyword": "agent",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "ai-agent",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "code-interpreter",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "copilot",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "arduino",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "arm",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "avr",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "build-system",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "cmsis",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "debugging",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "academic-research",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "claude",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "claude-code",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "codex-cli",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "developer-tools",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "antigravity",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "antigravity-cli",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "antigravity-cli-plugins",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "gemini",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "google",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "spec-driven-development",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "automatic",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "command-line-tool",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "document-management",
-      "label": "文件管理"
-    },
-    {
-      "keyword": "file-management",
-      "label": "文件管理"
-    },
-    {
       "keyword": "platform-independent",
       "label": "文件管理"
     },
@@ -6059,133 +5959,1038 @@
     {
       "keyword": "url lists crawling",
       "label": "软件开发"
+    },
+    {
+      "keyword": "data-extraction",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "agent framework",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "framework applications",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "applications upon",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "upon qwen",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "qwen featuring",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "featuring function",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "chatgpt-code-generation",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "codeinterpreter",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "llm-agent",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "implementation openai's",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "openai's chatgpt",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "codegeex4-all-9b versatile",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "versatile model",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "model software",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "development scenarios",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "scenarios including",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-skills",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cloud-security",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "devsecops",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ethical-hacking",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "fauxpilot open-source",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "open-source alternative",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "alternative github",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "github copilot",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "copilot server",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "fauxpilot open-source alternative",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "3d-printing",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "diy-electronics",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "diy-project",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "esp32",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "esp32-arduino",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "esp8266",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "music-visualizer",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "raspberry-pi",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "signal-processing",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "altcoins",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "arduino-boards",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "arduino-platform",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "atmega",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "arduino-ide",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "build",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "continuous-deployment",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "continuous-integration",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "mnn",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ncnn",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "💎1mb lightweight",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "utility arming",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "arming creating",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "creating many",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "many bees",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "bees micro",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "micro ec2",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "nodejs",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "paas",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "raspbian",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "xlerobot practical",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "practical dual-arm",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "dual-arm mobile",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "mobile home",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "home robot",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "robot $660",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "apache avro",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "avro rpc",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "rpc quick",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "quick start",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "apache avro rpc",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "avro rpc quick",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "apache-avro",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "avro",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "avro-schemas",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "code-generation",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "faust-streaming",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "denon",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "home-assistant",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "marantz",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "alpaca",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "backtesting",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "binance",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "exchange",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cost-optimization",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "datascience",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "distributed-training",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-practice-recommendations",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "artificial-neural-networks",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "meson build",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "meson build system",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cmsis-svd",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "microcontroller",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cmsis svd",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "svd files",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "files stm32",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "stm32 devices",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cmsis svd files",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "svd files stm32",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "avr-iot",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "curiosity-nano",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "microchip",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "pic",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "pic-iot",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "负责论文阅读报告与学术 ppt",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ppt word",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "word 文档生成；research-writing-skill",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "matlab 科学计算与期刊级图表生成。三个",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "科学计算与期刊级图表生成。三个 skill",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "skill 专为中文科研用户设计，可在",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "academic-diagrams",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "arxiv",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "diagram-generation",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "biology",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cancer-genomics",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "computational-biology",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "academic research",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "research improving",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "improving llama",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "llama sota",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "sota llm",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "academic research improving",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "agent-development",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "educational",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-prompts",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "bluesky",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "clawhub",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "agentic-skills",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-agent-skills",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-coding",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-workflows",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "agent-plugins",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-coding-agent",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "anthropic-claude",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "claude-ai",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "agentic-skill",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "claude-skills",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "gemini-notebook",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "gemini-notebook-api",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "gemini-notebook-skill",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "google-notebooklm",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "adhd",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "claude-",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "build run",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "run manage",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "manage agent",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-scientist",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "chemoinformatics",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-writing",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "adk",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "adk-python",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "application-security",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "claude-skill",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cost-tracking",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cursor",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "timesfm time",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "series foundation",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "foundation model",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "model pretrained",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "pretrained time-series",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "chromium",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "control",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "google-chromium",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "inox",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "iridium",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "googlecloud",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "skills google",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "google products",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "agentic-coding",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-coding-workflow",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-development-dashboard",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-progress-tracking",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-workflow",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "awsome-coding-plugin",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "baseline-first",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "code-quality",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "autonomous-agent",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "agent-based-model",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "lms",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "automatic headphone",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "headphone equalization",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "equalization frequency",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "frequency responses",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "automatic headphone equalization",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "headphone equalization frequency",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "ast-parser",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "command-line download",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "download photos",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "photos icloud",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "command-line download photos",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "download photos icloud",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "color-filter",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "download-images",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "google-images",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "image-database",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "console",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "curses",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "gpu-monitoring",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "fat-cat document-centric",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "document-centric context",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "context management",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "management agent",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "agent making",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "making context",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "access-control-list",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "docker-compose",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "generate pdf",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "pdf word",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "word excel",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "excel documents",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "chatglm",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "vicuna",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "llm-based chat",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "cms",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "static-site-generator",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "lektor static",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "static file",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "file content",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "content management",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "gqylpy",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "systempath",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "`systempath` designed",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "designed developers",
+      "label": "文件管理"
+    },
+    {
+      "keyword": "developers providing",
+      "label": "文件管理"
     }
   ],
   "done": [
     "hardware tool",
-    "robust segmentation",
-    "video-object-tracking",
-    "computer-vision-annotation",
-    "vlm",
-    "gaming utility",
-    "debug",
-    "implicit-neural-representation",
-    "code2prompt powerful",
-    "ripper",
-    "inference-server",
-    "system tool",
-    "segment-anything",
-    "hardsub",
-    "track-anything",
-    "lists",
-    "network tool",
-    "annotation-tool",
-    "cuda",
-    "intel",
-    "ai-powered file",
-    "100 important",
-    "image-processing",
-    "data tool",
-    "fastapi",
-    "command-line simplifies",
-    "experiment tracking",
-    "learning tool",
-    "text-to-image",
-    "graphics tool",
-    "background-removal",
-    "http",
-    "data processing",
-    "file-organizer",
-    "video-object-segmentation",
-    "hacktoberfest",
-    "chart tool",
-    "ai-agents",
-    "containers",
-    "ai-video-editing",
-    "boundingbox",
-    "cli",
-    "computer-vision",
-    "llama3",
-    "anatomical structures",
-    "data visualization",
-    "remove images",
-    "productivity tool",
-    "multi-agent-systems",
-    "text processing",
-    "web development",
-    "iot tool",
     "interactive-tracking",
-    "annotations",
+    "anatomical structures",
+    "lists",
+    "file utility",
+    "arm",
+    "deep-learning",
     "llm",
     "asr",
-    "prompt-engineering-tool",
-    "视频文件。无需申请第三方api，本地实现。ai-based removing",
-    "machine learning",
-    "artificial-intelligence",
-    "http client",
-    "srt",
-    "list",
-    "on-device-ai",
-    "removing hard-coded",
-    "sql tool",
-    "sub-remove",
-    "system utility",
-    "elderly care",
-    "chinese",
-    "automation tool",
-    "database tool",
-    "python3",
-    "media processing",
-    "health tool",
-    "experiment tracking developer",
-    "structures images",
-    "powerful command-line",
-    "ocr",
-    "ai-tools",
-    "dataset",
-    "aiohttp",
-    "inpaint-anything",
-    "multi-modality",
-    "siren",
-    "hip",
-    "important anatomical",
-    "annotation",
-    "openai",
-    "cryptography",
-    "game tool",
-    "vsr",
-    "document tool",
-    "tracking developer",
-    "software development",
-    "http2",
-    "image tool",
-    "segmentation 100",
-    "security tool",
+    "text processing",
     "drawing tool",
-    "office automation",
-    "images background",
-    "development",
-    "rembg remove images",
-    "api",
+    "iot tool",
     "subtile",
-    "content-creation",
-    "text tool",
-    "flask",
-    "productivity app",
-    "rembg remove",
-    "deepleanring",
-    "developer tool",
-    "math tool",
-    "extract",
-    "scientific computing",
-    "file utility",
-    "deep-learning",
+    "ocr",
+    "security tool",
+    "annotations",
+    "segment-anything",
+    "hardsub",
+    "health tool",
+    "srt",
+    "auto-subtitles",
+    "cmsis",
+    "code2prompt powerful",
+    "vlm",
+    "prompt-engineering-tool",
+    "gemini",
+    "cli",
+    "machine learning",
+    "avr",
+    "http",
+    "important anatomical",
+    "spec-driven-development",
     "apis",
+    "gaming utility",
+    "graphics tool",
+    "claude-code",
+    "fastapi",
+    "debugging",
+    "remove images",
+    "ai-tools",
+    "web framework",
+    "developer tool",
+    "boundingbox",
+    "sql tool",
+    "data processing",
+    "extract",
+    "aiohttp",
+    "http2",
+    "ai-powered file",
+    "tracking developer",
+    "document-management",
+    "multi-modality",
+    "math tool",
+    "game tool",
+    "agent",
+    "file management tool",
+    "inference-server",
+    "ripper",
+    "academic-research",
+    "build-system",
+    "video-object-segmentation",
+    "computer-vision",
+    "file-organizer",
+    "antigravity",
+    "web development",
+    "scientific computing",
+    "text-to-image",
+    "http client",
+    "cryptography",
+    "data tool",
+    "ai-video-editing",
+    "rembg remove",
+    "copilot",
+    "command-line-tool",
+    "code-interpreter",
+    "image tool",
+    "ai-agents",
+    "video tool",
+    "100 important",
+    "annotation-tool",
+    "containers",
+    "productivity app",
+    "text tool",
+    "media processing",
+    "cuda",
+    "automatic",
+    "ai-agent",
+    "multi-agent-systems",
+    "hacktoberfest",
+    "command-line simplifies",
+    "developer-tools",
+    "codex-cli",
+    "development",
+    "siren",
+    "flask",
+    "google",
+    "robust segmentation",
+    "arduino",
+    "deepleanring",
+    "structures images",
+    "elderly care",
+    "images background",
+    "rembg remove images",
+    "openai",
+    "on-device-ai",
+    "intel",
+    "document tool",
+    "antigravity-cli",
+    "system tool",
+    "artificial-intelligence",
+    "dataset",
+    "track-anything",
+    "network tool",
+    "experiment tracking developer",
+    "sub-remove",
+    "inpaint-anything",
+    "experiment tracking",
+    "file-management",
+    "llama3",
+    "vsr",
+    "automation tool",
+    "system utility",
+    "database tool",
+    "claude",
+    "debug",
+    "computer-vision-annotation",
+    "chart tool",
+    "productivity tool",
+    "antigravity-cli-plugins",
+    "data visualization",
+    "learning tool",
+    "content-creation",
+    "segmentation 100",
+    "background-removal",
+    "hip",
+    "chinese",
+    "implicit-neural-representation",
+    "python3",
+    "office automation",
+    "removing hard-coded",
+    "视频文件。无需申请第三方api，本地实现。ai-based removing",
+    "annotation",
+    "list",
+    "software development",
+    "video-object-tracking",
     "ai tool",
     "model-context-protocol",
-    "auto-subtitles",
-    "file management tool",
-    "web framework",
-    "video tool"
+    "powerful command-line",
+    "api",
+    "image-processing"
   ]
 }
