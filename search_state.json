@@ -1,106 +1,6 @@
 {
   "queue": [
     {
-      "keyword": "cuda",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "hacktoberfest",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "hip",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "inference-server",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "intel",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "aiohttp",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "debug",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "fastapi",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "flask",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "http",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "http2",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "experiment tracking",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "tracking developer",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "experiment tracking developer",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "cli",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "python3",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "code2prompt powerful",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "powerful command-line",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "command-line simplifies",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "api",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "apis",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "dataset",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "development",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "list",
-      "label": "软件开发"
-    },
-    {
-      "keyword": "lists",
-      "label": "软件开发"
-    },
-    {
       "keyword": "agent",
       "label": "软件开发"
     },
@@ -5139,108 +5039,1153 @@
     {
       "keyword": "container data volume",
       "label": "软件开发"
+    },
+    {
+      "keyword": "text2music",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "most powerful",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "powerful local",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "local music",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "music generation",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "generation model",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cublas",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cudnn",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cupy",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "curand",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cusolver",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "kv-cache",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "algorithm",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "algorithm-competitions",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "algorithms-implemented",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "algos",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "community-driven",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "education",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cti",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "forensics",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "information-gathering",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "bounty",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "bugbounty",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "bypass",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cheatsheet",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "enumeration",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "aitemplate framework",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "framework which",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "which renders",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "renders neural",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "neural network",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "network performance",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "neurips'24 hipporag",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "hipporag novel",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "novel rag",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "rag framework",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "framework inspired",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "inspired human",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "hip environment",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "environment rocm",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "rocm kit",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "kit lightweight",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "lightweight build",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "build system",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "assembly",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "auto-tuning",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "blas",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "gemm",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "macos",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "mlx",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "openai-api",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cloud",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "datacenter",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "edge",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "gpu",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "llm-inference",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "llm-serving",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "intelligent-machines",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "intelligent-systems",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "machine-intelligence",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "anime",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "compression-artifact-reduction",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "directx-12",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "gui-application",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "music assistant",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "assistant opensource",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "opensource media",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "media manager",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "manager connects",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "connects streaming",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "dependency-injection",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "dependency-injection-container",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "dependency-injection-framework",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "design-patterns",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "aiohttp-client",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "slack",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "slackapi",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "socket-mode",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "spider",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "uvloop",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "web crawling",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "asyncio-spider",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "crawling-framework",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "middlewares",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "agentops",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-governance",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "apache-spark",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "llama-index",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "debugger",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "introspection",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "logging",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "never print",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "print debugging",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "backend",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "chatgpt-api",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "frontend",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cloud-native",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cncf",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "demo",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "http-server",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "httpbin",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "service",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "dank",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "gametight",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "peewee",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "\"cli-anything making",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "making software",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "software agent-native\"",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "agent-native\" cli-hub",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cli-hub https",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "https clianything",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "algorithmic-trading",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "auto-quant",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "finance",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "fintech",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "investment",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "man-in-the-middle",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "mitmproxy",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "proxy",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "akamai-fingerprint",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "curl-impersonate",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "fingerprinting",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "http3",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "nat",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "pproxy",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "experiment-tracking",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "metadata-tracking",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "agent-evaluation",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-monitoring",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-observability",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "evals",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "lightweight local-first",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "local-first experiment",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "tracking hugging",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "hugging face",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "lightweight local-first experiment",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "tracking metric",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "metric logging",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "logging amazon",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "amazon sagemaker",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "sagemaker notebooks",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "agent-infrastructure",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ai-search",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "bilibili",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "claude-3",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "ansi-colors",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "emoji",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "progress-bar",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "progress-bar-python",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "python-library",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "identification",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "investigation",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "building powerful",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "powerful interactive",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "interactive command",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "line applications",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "building powerful interactive",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "powerful coding",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "coding assistant",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "assistant application",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "application integrates",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "integrates deepseek",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "deepseek api",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "command-line-app",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "todolist",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "line todo",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "todo list",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "list manager",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "dot-notation",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "eyaml",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "eyaml-support",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "hiera-eyaml",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "bumpversion",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "version",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "versioning",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "small command",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "archiving",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "computational-science",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "nyu",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "awsebcli",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "beanstalk",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "elasticbeanstalk",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cli command",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "face-detection",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "world's simplest",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "simplest facial",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "facial recognition",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "altcoin",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "arbitrage",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "bitcoin",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "btc",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "dialogue",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "named-entity-recognition",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "nlp-tasks",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "toolkit linearizing",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "linearizing pdfs",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "pdfs llm",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "llm datasets",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "datasets training",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "toolkit linearizing pdfs",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "fake",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "fake-data",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "faker",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "faker-generator",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "test-data",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "prd",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "spec",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "spec-driven",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "packaging",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "pip",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "pipfile",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "virtualenv",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "development workflow",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "workflow humans",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "configuration framework",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "framework enhances",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "enhances claude",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "claude code",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "code specialized",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "specialized commands",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "beginner-project",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "cpp",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "golang",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "project",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "tutorial",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "big list",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "list naughty",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "naughty strings",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "strings list",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "list strings",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "strings which",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "awesome",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "awesome-list",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "chat",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "freechatgpt",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "🆓免费的 chatgpt",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "build pretty",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "pretty command",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "line user",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "user prompts",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "osint",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "penetration-testing",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "pentesting",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "osint generate",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "generate username",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "advice",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "assistant-professor",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "grants-search",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "awesome lists",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "declutters url",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "url lists",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "lists crawling",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "crawling pentesting",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "declutters url lists",
+      "label": "软件开发"
+    },
+    {
+      "keyword": "url lists crawling",
+      "label": "软件开发"
     }
   ],
   "done": [
-    "robust segmentation",
-    "image tool",
-    "视频文件。无需申请第三方api，本地实现。ai-based removing",
-    "extract",
-    "auto-subtitles",
-    "subtile",
-    "segmentation 100",
-    "asr",
-    "text tool",
-    "removing hard-coded",
-    "file management tool",
-    "inpaint-anything",
-    "deep-learning",
-    "interactive-tracking",
-    "web development",
-    "ai-video-editing",
-    "on-device-ai",
-    "drawing tool",
-    "http client",
-    "vsr",
-    "media processing",
-    "annotation",
-    "elderly care",
-    "security tool",
-    "iot tool",
-    "developer tool",
-    "background-removal",
-    "openai",
-    "structures images",
-    "deepleanring",
-    "graphics tool",
-    "video-object-segmentation",
-    "annotation-tool",
-    "llama3",
-    "text processing",
-    "video-object-tracking",
-    "machine learning",
-    "multi-modality",
-    "ai-agents",
-    "web framework",
-    "computer-vision-annotation",
-    "productivity tool",
-    "scientific computing",
-    "segment-anything",
-    "database tool",
-    "siren",
-    "video tool",
-    "automation tool",
-    "health tool",
-    "software development",
-    "rembg remove",
-    "boundingbox",
-    "llm",
-    "learning tool",
-    "annotations",
-    "text-to-image",
-    "vlm",
-    "ai tool",
     "hardware tool",
-    "data tool",
-    "ai-tools",
-    "implicit-neural-representation",
-    "model-context-protocol",
-    "ai-powered file",
-    "cryptography",
-    "office automation",
-    "remove images",
-    "100 important",
-    "ocr",
-    "computer-vision",
-    "system utility",
-    "chart tool",
-    "sql tool",
-    "chinese",
-    "hardsub",
-    "containers",
-    "file utility",
-    "anatomical structures",
-    "content-creation",
-    "artificial-intelligence",
-    "system tool",
-    "network tool",
-    "rembg remove images",
-    "image-processing",
-    "images background",
-    "math tool",
-    "track-anything",
-    "srt",
-    "game tool",
-    "sub-remove",
-    "data visualization",
+    "robust segmentation",
+    "video-object-tracking",
+    "computer-vision-annotation",
+    "vlm",
     "gaming utility",
-    "important anatomical",
-    "productivity app",
+    "debug",
+    "implicit-neural-representation",
+    "code2prompt powerful",
+    "ripper",
+    "inference-server",
+    "system tool",
+    "segment-anything",
+    "hardsub",
+    "track-anything",
+    "lists",
+    "network tool",
+    "annotation-tool",
+    "cuda",
+    "intel",
+    "ai-powered file",
+    "100 important",
+    "image-processing",
+    "data tool",
+    "fastapi",
+    "command-line simplifies",
+    "experiment tracking",
+    "learning tool",
+    "text-to-image",
+    "graphics tool",
+    "background-removal",
+    "http",
     "data processing",
     "file-organizer",
-    "document tool",
-    "ripper",
+    "video-object-segmentation",
+    "hacktoberfest",
+    "chart tool",
+    "ai-agents",
+    "containers",
+    "ai-video-editing",
+    "boundingbox",
+    "cli",
+    "computer-vision",
+    "llama3",
+    "anatomical structures",
+    "data visualization",
+    "remove images",
+    "productivity tool",
     "multi-agent-systems",
-    "prompt-engineering-tool"
+    "text processing",
+    "web development",
+    "iot tool",
+    "interactive-tracking",
+    "annotations",
+    "llm",
+    "asr",
+    "prompt-engineering-tool",
+    "视频文件。无需申请第三方api，本地实现。ai-based removing",
+    "machine learning",
+    "artificial-intelligence",
+    "http client",
+    "srt",
+    "list",
+    "on-device-ai",
+    "removing hard-coded",
+    "sql tool",
+    "sub-remove",
+    "system utility",
+    "elderly care",
+    "chinese",
+    "automation tool",
+    "database tool",
+    "python3",
+    "media processing",
+    "health tool",
+    "experiment tracking developer",
+    "structures images",
+    "powerful command-line",
+    "ocr",
+    "ai-tools",
+    "dataset",
+    "aiohttp",
+    "inpaint-anything",
+    "multi-modality",
+    "siren",
+    "hip",
+    "important anatomical",
+    "annotation",
+    "openai",
+    "cryptography",
+    "game tool",
+    "vsr",
+    "document tool",
+    "tracking developer",
+    "software development",
+    "http2",
+    "image tool",
+    "segmentation 100",
+    "security tool",
+    "drawing tool",
+    "office automation",
+    "images background",
+    "development",
+    "rembg remove images",
+    "api",
+    "subtile",
+    "content-creation",
+    "text tool",
+    "flask",
+    "productivity app",
+    "rembg remove",
+    "deepleanring",
+    "developer tool",
+    "math tool",
+    "extract",
+    "scientific computing",
+    "file utility",
+    "deep-learning",
+    "apis",
+    "ai tool",
+    "model-context-protocol",
+    "auto-subtitles",
+    "file management tool",
+    "web framework",
+    "video tool"
   ]
 }
