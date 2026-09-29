@@ -1,106 +1,6 @@
 {
   "queue": [
     {
-      "keyword": "bandit",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "linter",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "security",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "security-scanner",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "security-tools",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "static-code-analysis",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "agent-framework",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "ai-safety",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "compliance",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "governance",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "microsoft",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "automated-pentesting",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "bruteforce",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "cybersecurity",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "e-paper",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "hacking",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "hardware-hacking",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "federated-learning",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "privacy",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "pytorch",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "rsa",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "rsa-attack",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "rsa attack",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "attack mainly",
-      "label": "密码安全"
-    },
-    {
-      "keyword": "mainly ctf",
-      "label": "密码安全"
-    },
-    {
       "keyword": "open-source trust",
       "label": "密码安全"
     },
@@ -8183,208 +8083,893 @@
     {
       "keyword": "analysis directly",
       "label": "密码安全"
+    },
+    {
+      "keyword": "platform reasoning",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "reasoning systems",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "systems reinforcement",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "reinforcement learning",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "learning contextual",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "contextual bandits",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "bandits",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "contextual-bandits",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "dqn",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "multi-armed-bandits",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "rl-algorithms",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "exploration-exploitation",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "multiarmed-bandits",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "implementations contextual",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "off-policy-evaluation",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "bandit pipeline",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "git",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "pre-commit",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "refactoring",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "framework managing",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "managing maintaining",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "sql-linter",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "modular sql",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "sql linter",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "some out-of-the-box",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "out-of-the-box hooks",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "ad-blocker",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "anti-virus",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "curated-sources",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "gambling-filter",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "hosts",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "malware",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "fuzzing",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "offensive-security",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "modelcontextprotocol",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "security scanner",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "scanner agents",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "artemis",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "vulnerability-detection",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "attacksurface",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "footprinting",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "cis-benchmark",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "cloudsecurity",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "kunlun-m open-source",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "open-source static",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "static code",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "code analysis",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "analysis php",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "php nodejs",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "dataflow",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "highlighting",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "ipyflow",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "jupyter",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "jupyter-notebooks",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "contracts",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "contracts-programming",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "dbc",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "deal",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "decorators",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "design-by-contract",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "code-style",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "flake8",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "github-app",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "github-webhooks",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "trading",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "tradingagents multi-agents",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "metagpt",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "multi-agent framework",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "aiagentframework",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "framework orchestrating",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "orchestrating role-playing",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "ai-evaluation",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "acura",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "audi",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "autopilot",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "chrysler",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "comma",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "fsd",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "beaver",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "cloud-computing",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "finops",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "meta-skill",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "portability",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "agent-harness",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "collection familiar",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "familiar friendly",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "friendly modern",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "modern emoji",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "emoji microsoft",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "marketing-automation",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "csharp",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "dotnet",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "github-copilot",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "github-copilot-chat",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "dorks",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "google-dorking",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "google-hacking",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "penetration-testing-tools",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "pentesting-tool",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "pentesting-tools",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "brute-force",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "cve",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "hacking-tools",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "network-security",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "instagram",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "bruteforce attack",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "attack instagram",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "bruteforce attack instagram",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "cloudflare",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "cloudflare-ip",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "database",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "dirscanner",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "websec",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "iccv 2025",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "2025 official",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "implementation paper",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "paper repa-e",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "repa-e unlocking",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "e-ink",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "eink",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "epaper",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "raspberrypi",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "waveshare",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "micropython drivers",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "drivers waveshare",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "allinonehackingtool",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "besthackingtool",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "ctf-tools",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "key-replication",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "3-wire",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "can-bus",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "emmc",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "firmware",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "bluetooth-connection",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "dos",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "community",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "comunidad",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "discord-server",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "espanol",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "federated-analytics",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "fate",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "privacy-preserving",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "industrial grade",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "inference-engine",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "confidential-computing",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "differential-privacy",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "homomorphic-encryption",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "rsatool used",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "used calculate",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "calculate rsa",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "rsa rsa-crt",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "rsa-crt parameters",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "rsatool used calculate",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "ctf",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "elliptic-curves",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "lll",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "detector",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "discrete-logarithm",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "infineon",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "roca",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "roca-detec",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "aes",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "bch",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "coding-theory",
+      "label": "密码安全"
+    },
+    {
+      "keyword": "elliptic-curve-cryptography",
+      "label": "密码安全"
     }
   ],
   "done": [
-    "cli",
-    "automatic",
-    "content-creation",
-    "lists",
-    "ripper",
-    "codex-cli",
-    "antigravity-cli-plugins",
-    "ai-powered",
-    "network tool",
-    "file-management",
-    "multi-agent-systems",
-    "structures images",
-    "copilot",
-    "antigravity",
-    "vpc peering",
-    "scientific computing",
-    "ai-pentesting",
-    "computer-vision-annotation",
-    "working csv",
-    "utilities converting",
-    "boundingbox",
-    "converting working",
-    "python3 utility",
-    "document-management",
-    "smuggle additional",
-    "utility extract",
-    "web development",
-    "siren",
-    "video-object-segmentation",
-    "rembg remove",
-    "cuda",
-    "removing hard-coded",
-    "experiment tracking developer",
-    "hardware tool",
-    "peering connection",
-    "computer-vision",
-    "annotation",
-    "video-object-tracking",
-    "image-optimisation",
-    "claude",
-    "ai tool",
-    "multi-modality",
-    "subtile",
-    "ai-agents",
-    "gaming utility",
-    "debug",
-    "artificial-intelligence",
-    "platform-independent",
-    "avr",
-    "llama3",
-    "http2",
-    "ai-powered file",
-    "robust segmentation",
-    "list",
-    "chart tool",
-    "math tool",
-    "data processing",
-    "pure utility",
-    "security tool",
-    "images background",
-    "text images",
-    "zip files",
-    "document tool",
-    "king tabular",
     "developer-tools",
-    "anatomical structures",
-    "academic-research",
-    "ai-security-tool",
-    "image-compression",
-    "background-removal",
-    "automation",
-    "image-optimization",
-    "rembg remove images",
-    "csv king",
-    "hip",
-    "chinese",
-    "intel",
-    "视频文件。无需申请第三方api，本地实现。ai-based removing",
-    "drawing tool",
-    "command-line-tool",
-    "http client",
-    "gemini",
-    "inference-server",
-    "prompt-engineering-tool",
-    "auto-subtitles",
-    "productivity app",
-    "hacktoberfest",
-    "remove images",
-    "data tool",
-    "graphics tool",
-    "python3",
-    "game tool",
-    "sql tool",
-    "spec-driven-development",
-    "text processing",
-    "image tool",
-    "agents",
+    "system utility",
+    "automated-pentesting",
+    "web development",
+    "ai-powered file",
     "web framework",
-    "peerd aws",
+    "agents",
+    "rsa-attack",
+    "model-context-protocol",
+    "interactive-tracking",
+    "cmsis",
+    "srt",
+    "cuda",
+    "dataset",
+    "llama3",
+    "flask",
+    "tracking developer",
+    "gaming utility",
+    "auto-subtitles",
+    "subtitles video",
+    "pil",
+    "learning tool",
+    "smuggle additional",
+    "debug",
+    "command-line-tool",
+    "important anatomical",
+    "static-code-analysis",
+    "microsoft",
+    "automation tool",
+    "apis",
+    "automatic",
+    "removing hard-coded",
+    "http",
+    "powerful command-line",
+    "background-removal",
+    "ai-security",
+    "segmentation 100",
+    "deep-learning",
+    "media processing",
+    "automation",
+    "ai-tools",
+    "inpaint-anything",
+    "annotation-tool",
+    "rembg remove",
+    "utility extract",
+    "remove images",
     "fastapi",
     "openai",
-    "productivity tool",
-    "pillow",
-    "build-system",
-    "ai-hacking",
-    "document-manager",
-    "system utility",
-    "auto-generating subtitles",
-    "segment-anything",
-    "annotations",
-    "docx files",
-    "machine learning",
-    "arm",
-    "model-context-protocol",
-    "antigravity-cli",
-    "office automation",
-    "utility auto-generating",
-    "suite utilities",
-    "vlm",
-    "video tool",
     "health tool",
-    "vsr",
-    "file utility",
-    "creates full-meshes",
-    "data visualization",
-    "interactive-tracking",
+    "security",
+    "rsa attack",
     "images docx",
-    "developer tool",
-    "file management tool",
-    "cryptography",
-    "iot tool",
-    "deep-learning",
-    "file-organizer",
-    "arduino",
-    "ai-tools",
-    "elderly care",
-    "cmsis",
-    "ai-agent",
-    "experiment tracking",
-    "pil",
-    "image-processing",
-    "text-to-image",
-    "apis",
-    "deepleanring",
-    "claude-code",
-    "dataset",
-    "efficiency",
-    "text tool",
-    "automation tool",
-    "code2prompt powerful",
-    "software development",
-    "track-anything",
-    "google",
-    "agent",
-    "management creates",
-    "learning tool",
-    "database tool",
-    "containers",
-    "extract",
-    "hardsub",
-    "maintained command-line",
-    "implicit-neural-representation",
-    "ai-video-editing",
-    "ai-security",
-    "files smuggle",
-    "utility creating",
-    "command-line simplifies",
-    "ocr",
-    "inpaint-anything",
-    "api",
-    "on-device-ai",
-    "0x4m4",
-    "http",
-    "code-interpreter",
-    "aiohttp",
-    "ai-penetration-testing",
-    "asr",
-    "extract text",
-    "debugging",
-    "connection management",
-    "annotation-tool",
-    "command-line utility",
+    "annotations",
+    "cli",
     "mcp",
-    "powerful command-line",
-    "llm",
-    "ai-cybersecurity",
-    "100 important",
-    "flask",
-    "segmentation 100",
-    "live-preview",
-    "tracking developer",
-    "srt",
+    "text images",
+    "video-object-tracking",
+    "security tool",
+    "compliance",
+    "king tabular",
+    "csv king",
+    "working csv",
+    "prompt-engineering-tool",
+    "image-optimization",
+    "arduino",
+    "zip files",
+    "efficiency",
+    "build-system",
+    "cryptography",
+    "productivity tool",
+    "experiment tracking developer",
+    "drawing tool",
+    "file-management",
+    "ai-agent",
+    "text tool",
+    "math tool",
+    "arm",
+    "on-device-ai",
+    "auto-generating subtitles",
+    "images background",
+    "image tool",
+    "command-line simplifies",
+    "chinese",
+    "siren",
+    "utility auto-generating",
+    "vlm",
+    "vsr",
+    "hacking",
+    "linter",
+    "network tool",
+    "antigravity",
+    "python3 utility",
+    "file management tool",
+    "ai-video-editing",
+    "academic-research",
+    "rsa",
+    "implicit-neural-representation",
     "development",
+    "scientific computing",
+    "pure utility",
+    "iot tool",
     "sub-remove",
-    "media processing",
+    "avr",
+    "sql tool",
+    "code2prompt powerful",
+    "antigravity-cli-plugins",
+    "experiment tracking",
+    "federated-learning",
+    "live-preview",
+    "subtile",
+    "video-object-segmentation",
+    "security-tools",
+    "ai-security-tool",
+    "gemini",
+    "ai-safety",
+    "http client",
+    "lists",
+    "claude-code",
+    "boundingbox",
+    "document tool",
+    "machine learning",
+    "robust segmentation",
+    "hardware-hacking",
+    "artificial-intelligence",
+    "containers",
+    "structures images",
+    "text processing",
+    "peerd aws",
+    "ai-powered",
+    "connection management",
+    "utilities converting",
+    "intel",
+    "asr",
+    "ai-pentesting",
+    "ocr",
+    "aiohttp",
+    "100 important",
+    "privacy",
+    "image-processing",
+    "graphics tool",
+    "google",
+    "maintained command-line",
+    "ai-cybersecurity",
+    "content-creation",
+    "ai-penetration-testing",
+    "ripper",
+    "game tool",
+    "python3",
+    "ai-hacking",
+    "extract text",
+    "computer-vision",
+    "governance",
+    "cybersecurity",
+    "segment-anything",
+    "e-paper",
+    "management creates",
+    "extract",
+    "data tool",
+    "agent",
+    "bruteforce",
+    "platform-independent",
+    "inference-server",
+    "file utility",
     "longer maintained",
-    "important anatomical",
+    "track-anything",
+    "bandit",
+    "command-line utility",
+    "attack mainly",
+    "image-compression",
+    "ai tool",
+    "rembg remove images",
+    "code-interpreter",
+    "codex-cli",
+    "annotation",
+    "视频文件。无需申请第三方api，本地实现。ai-based removing",
+    "api",
+    "agent-framework",
+    "antigravity-cli",
+    "files smuggle",
+    "list",
+    "file-organizer",
+    "debugging",
+    "0x4m4",
+    "data visualization",
+    "hardware tool",
+    "multi-agent-systems",
+    "creates full-meshes",
+    "developer tool",
+    "pytorch",
+    "copilot",
+    "data processing",
+    "converting working",
+    "document-manager",
+    "office automation",
+    "document-management",
+    "pillow",
     "creating zip",
-    "subtitles video",
+    "docx files",
+    "database tool",
+    "deepleanring",
+    "peering connection",
+    "image-optimisation",
+    "claude",
+    "llm",
+    "productivity app",
+    "software development",
+    "computer-vision-annotation",
+    "multi-modality",
+    "spec-driven-development",
+    "mainly ctf",
+    "security-scanner",
+    "ai-agents",
+    "hardsub",
+    "anatomical structures",
+    "hacktoberfest",
+    "utility creating",
+    "text-to-image",
+    "suite utilities",
+    "vpc peering",
+    "elderly care",
+    "chart tool",
+    "hip",
+    "http2",
+    "video tool",
     "system tool"
   ]
 }
