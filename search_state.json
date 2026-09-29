@@ -1,106 +1,6 @@
 {
   "queue": [
     {
-      "keyword": "been deprecated",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "deprecated agentic",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "agentic document",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "document extraction",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "extraction instead",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "been deprecated agentic",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "data-mining",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "pdf",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "tables",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "set extracting",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "audiobook",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "epub",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "kokoro",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "kokoro-tts",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "podcast",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "cli-anything",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "com",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "office",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "document-automation",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "hancom",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "hwp",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "hwpx",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "office-documents",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "opc",
-      "label": "文档办公"
-    },
-    {
-      "keyword": "brute-force-attacks",
-      "label": "网络通信"
-    },
-    {
       "keyword": "desktop",
       "label": "网络通信"
     },
@@ -9427,258 +9327,935 @@
     {
       "keyword": "faiss",
       "label": "文档办公"
+    },
+    {
+      "keyword": "agent-builder",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "docsgpt",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "hacktoberfest2026",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "agentic-document-extraction",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "document-extraction",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "etl",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "etl-pipeline",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "extraction ade",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "agentic document extraction",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "document extraction ade",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "nemo retriever",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "retriever scalable",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "scalable performance-oriented",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "performance-oriented document",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "document content",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "content metadata",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "document",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "document-data-extraction",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "extraction",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "llm-ocr",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "changepoint-detection",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "coding-agent",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "aippt",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "powerpoint-generation",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "ppt",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "ocr layout",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "layout analysis",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "analysis reading",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "reading order",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "order table",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "table recognition",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "ocr model",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "model handles",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "handles complex",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "complex tables",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "tables forms",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "arp-spoofing",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "mitm",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "proof-of-concept",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "rdp",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "perform mitm",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "learning estimating",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "estimating set",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "set tags",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "tags extracting",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "extracting semantic",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "keyphrase-extraction",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "keyword-extraction",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "part-of-speech",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "knowledge-base",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "knowledge-graph-embeddings",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "knowledge-representation",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "link-prediction",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "colab-notebook",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "tts",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "generate audiobooks",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "audiobooks e-books",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "audiobookshelf",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "bilingual epub",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "epub books",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "books translate",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "bilingual epub books",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "epub books translate",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "book-digitization",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "kokoro-82m",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "multi-speaker-tts",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "mutilingual-audio",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "tts kokoro",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "kokoro onnx",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "onnx runtime",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "litert-lm",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "openvino-genai",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "openvino-toolkit",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "optimum-intel",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "agent-workflows",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "book-to-skill",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "prompt-engineering",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "elevenlabs",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "notebooklm",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "skill",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "claude skill",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "soulx-podcast inference",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "inference codebase",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "codebase soul",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "soul team",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "team generating",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "generating high-fidelity",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "ci-cd",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "agent-native",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "huggingface-spaces",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "nlp-machine-learning",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "segmentation-model",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "cabling",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "dcim",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "infrastructure-management",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "ipam",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "netbox",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "wasm",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "platform browser",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "browser https",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "https pyscript",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "coral",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "edgetpu",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "google-coral",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "benchmark",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "data-generator",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "embodied-ai",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "icml 2026",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "2026 robotwin",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "aec-industry",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "bim",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "quip automation",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "automation rest",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "rest api",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "api editing",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "editing documents",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "documents folders",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "docx-converter",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "gemini-cli-extension",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "legaltech",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "pandoc 아래아한글",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "아래아한글 변환기",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "변환기 html",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "html docx를",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "docx를 hwpx로",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "hwpx로 변환합니다",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "collection scripts",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "scripts templates",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "templates generate",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "generate office",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "office documents",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "documents embedded",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "vba",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "vba-obfuscation",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "vba obfuscation",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "obfuscation combined",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "combined office",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "skywork agent",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "skills office",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "hackintosh",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "hackintosh-efi",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "lzhoang2601",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "lzhoang2801",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "opencore",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "count macs",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "macs flops",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "flops pytorch",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "pytorch model",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "count macs flops",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "macs flops pytorch",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "bacnet",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "geo",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "openopc build",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "build personal",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "personal ai-native",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "ai-native company",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "company self-built",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "self-built self-run",
+      "label": "文档办公"
+    },
+    {
+      "keyword": "duyetdev",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "hash-cracking",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "bitcoin-bruteforce",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "bitcoin-wallet",
+      "label": "网络通信"
+    },
+    {
+      "keyword": "bitcoin-wallet-cracker",
+      "label": "网络通信"
     }
   ],
   "done": [
-    "microsoft-office",
-    "command-line simplifies",
-    "productivity tool",
-    "apis",
-    "build-system",
-    "privacy",
-    "linter",
-    "llama3",
-    "hip",
+    "aiohttp",
+    "llm",
+    "bandit",
+    "cli-anything",
+    "image-optimisation",
+    "text processing",
+    "subtitles video",
+    "image-optimization",
+    "working csv",
+    "utility extract",
+    "pytorch",
+    "langchain",
+    "developer tool",
     "openai",
-    "health tool",
-    "web framework",
-    "creating zip",
-    "database tool",
-    "layer agents",
-    "rag-based chatting",
-    "debug",
-    "attack mainly",
-    "file management tool",
-    "machine learning",
-    "segment-anything",
-    "annotation",
-    "interactive-tracking",
-    "security",
-    "development",
+    "cipher",
+    "ai-agent",
     "antigravity-cli",
-    "hacktoberfest",
-    "video-object-tracking",
-    "hardware-hacking",
-    "spec-driven-development",
-    "vlm",
-    "suite utilities",
-    "ai-safety",
-    "boundingbox",
-    "system utility",
-    "extract",
-    "bruteforce",
+    "agents",
+    "important anatomical",
+    "command-line simplifies",
+    "podcast",
+    "security-scanner",
+    "converting working",
+    "rembg remove",
+    "command-line utility",
+    "compliance",
+    "file utility",
+    "software development",
+    "kokoro-tts",
     "chatbot",
-    "text-to-image",
-    "http",
-    "agent",
-    "gemini",
+    "computer-vision",
+    "scientific computing",
+    "ai-powered file",
+    "cryptography",
+    "ai-tools",
+    "com",
+    "cuda",
+    "segmentation 100",
+    "peerd aws",
+    "gaming utility",
+    "mainly ctf",
+    "smuggle additional",
+    "document-management",
+    "experiment tracking developer",
+    "audiobook",
+    "ai-safety",
+    "cybersecurity",
+    "markdown",
+    "prompt-engineering-tool",
+    "file management tool",
+    "system tool",
+    "command-line-tool",
+    "api",
+    "video tool",
+    "build-system",
+    "debugging",
+    "siren",
+    "content-creation",
+    "cli",
+    "agents cryptographic",
+    "security-tools",
+    "hotp",
+    "hancom",
+    "data visualization",
+    "elderly care",
+    "spec-driven-development",
     "auto-generating subtitles",
+    "game tool",
+    "background-removal",
+    "lists",
+    "automatic",
+    "http",
+    "document tool",
+    "rsa attack",
+    "been deprecated",
+    "boundingbox",
+    "developer-tools",
+    "iot tool",
+    "ocr",
+    "microsoft",
+    "ai-pentesting",
+    "extract text",
+    "0x4m4",
+    "chinese",
+    "pillow",
+    "privacy",
+    "debug",
+    "hardware-hacking",
+    "utilities converting",
+    "platform-independent",
+    "set extracting",
+    "images docx",
+    "utility creating",
+    "ai-hacking",
+    "hardsub",
+    "bruteforce",
+    "federated-learning",
+    "code2prompt powerful",
+    "longer maintained",
+    "experiment tracking",
+    "removing hard-coded",
+    "vpc peering",
+    "ai-security",
+    "hwp",
+    "security",
+    "dataset",
+    "network tool",
+    "arduino",
+    "deepleanring",
+    "file-organizer",
+    "king tabular",
+    "annotations",
+    "open-source trust",
+    "2fa",
+    "text images",
+    "rsa",
+    "hacktoberfest",
+    "extract",
+    "model-context-protocol",
+    "microsoft-office",
+    "creates full-meshes",
+    "rag-based chatting",
+    "web framework",
+    "annotation",
+    "artificial-intelligence",
+    "trust layer",
+    "cryptographic agent",
+    "automation",
+    "deprecated agentic",
+    "data-mining",
+    "pdf",
+    "auto-subtitles",
+    "database tool",
+    "file-management",
+    "open-source rag-based",
+    "http client",
+    "hacking",
+    "anatomical structures",
+    "python3",
+    "minimalist",
+    "agent identity",
+    "python3 utility",
+    "e-paper",
+    "powerful command-line",
+    "llama3",
+    "attack mainly",
+    "avr",
     "sql tool",
+    "automated-pentesting",
+    "ai-powered",
+    "视频文件。无需申请第三方api，本地实现。ai-based removing",
+    "linter",
+    "vlm",
+    "docx files",
+    "ai-video-editing",
+    "rsa-attack",
+    "suite utilities",
+    "agent",
+    "antigravity-cli-plugins",
+    "epub",
+    "extraction instead",
+    "data tool",
+    "creating zip",
+    "image tool",
+    "ripper",
+    "on-device-ai",
+    "document-manager",
+    "kokoro",
+    "automation tool",
+    "management creates",
+    "utility auto-generating",
+    "web development",
+    "drawing tool",
+    "learning tool",
+    "connection management",
+    "health tool",
+    "inference-server",
+    "productivity app",
+    "governance",
+    "av-evasion",
+    "sub-remove",
+    "fastapi",
+    "intel",
+    "text tool",
+    "agentic document",
+    "remove images",
+    "office automation",
+    "rembg remove images",
+    "office",
+    "media processing",
+    "track-anything",
+    "files smuggle",
+    "deep-learning",
+    "document extraction",
+    "arm",
+    "graphics tool",
+    "chart tool",
+    "academic-research",
+    "autogen",
+    "annotation-tool",
+    "static-code-analysis",
+    "asr",
+    "development",
+    "multi-modality",
+    "subtile",
+    "productivity tool",
+    "live-preview",
+    "ai-penetration-testing",
+    "machine learning",
+    "claude-code",
+    "open-source",
+    "zip files",
+    "robust segmentation",
+    "ai-cybersecurity",
+    "efficiency",
+    "codex-cli",
+    "video-object-segmentation",
+    "been deprecated agentic",
+    "cmsis",
+    "srt",
+    "csv king",
+    "dlp",
+    "opc",
+    "peering connection",
+    "maintained command-line",
+    "document-automation",
+    "pil",
+    "structures images",
+    "http2",
+    "computer-vision-annotation",
     "multi-agent-systems",
     "agent-framework",
-    "peering connection",
-    "cmsis",
-    "100 important",
-    "open-source",
-    "compliance",
-    "cipher",
-    "sub-remove",
-    "model-context-protocol",
-    "productivity app",
-    "text processing",
-    "peerd aws",
-    "open-source rag-based",
-    "image-processing",
-    "ai-hacking",
-    "system tool",
-    "elderly care",
-    "platform-independent",
-    "dataset",
-    "asr",
-    "command-line utility",
-    "automated-pentesting",
-    "rembg remove",
-    "ripper",
-    "security tool",
-    "ai-powered",
-    "on-device-ai",
-    "mcp",
-    "ai-video-editing",
-    "google",
-    "game tool",
-    "pytorch",
-    "cryptography",
-    "hacking",
-    "graphics tool",
-    "track-anything",
-    "bandit",
-    "image-compression",
-    "http client",
-    "data processing",
-    "claude",
-    "chart tool",
-    "cryptographic agent",
-    "rsa attack",
-    "media processing",
-    "powerful command-line",
-    "2fa",
-    "converting working",
-    "containers",
-    "live-preview",
-    "learning tool",
-    "ocr",
-    "ai-security",
-    "cuda",
-    "governance",
-    "aiohttp",
-    "file-organizer",
-    "ai-agent",
-    "image tool",
-    "hardware tool",
-    "creates full-meshes",
-    "pillow",
-    "data-exfiltration",
-    "hotp",
-    "list",
-    "anatomical structures",
-    "working csv",
-    "document-management",
-    "hardsub",
-    "king tabular",
-    "extract text",
-    "network tool",
-    "open-source trust",
-    "docx files",
-    "python3 utility",
-    "developer tool",
-    "structures images",
-    "arm",
-    "smuggle additional",
-    "utilities converting",
-    "ai-powered file",
-    "claude-code",
-    "autogen",
-    "agents",
-    "copilot",
-    "autogen-extension",
-    "data tool",
-    "developer-tools",
-    "command-line-tool",
-    "arduino",
-    "experiment tracking developer",
-    "iot tool",
-    "remove images",
-    "video-object-segmentation",
-    "ai-pentesting",
-    "implicit-neural-representation",
-    "python3",
-    "debugging",
-    "ai-cybersecurity",
-    "ai tool",
-    "important anatomical",
-    "deep-learning",
-    "computer-vision",
-    "static-code-analysis",
-    "cli",
-    "file utility",
-    "rag",
-    "srt",
-    "annotations",
-    "longer maintained",
-    "utility extract",
-    "antigravity-cli-plugins",
-    "http2",
-    "siren",
-    "multi-modality",
-    "scientific computing",
-    "intel",
-    "flask",
-    "artificial-intelligence",
-    "csv king",
-    "content-creation",
-    "gaming utility",
-    "connection management",
-    "code-interpreter",
-    "llm",
-    "agents cryptographic",
-    "federated-learning",
-    "images background",
+    "interactive-tracking",
     "exfiltration",
-    "efficiency",
-    "avr",
-    "subtitles video",
-    "utility auto-generating",
-    "llms",
-    "cybersecurity",
-    "image-optimisation",
-    "segmentation 100",
-    "vsr",
-    "rsa",
-    "subtile",
-    "office automation",
-    "codex-cli",
-    "prompt-engineering-tool",
-    "agent identity",
-    "auto-subtitles",
-    "web development",
-    "file-management",
-    "rsa-attack",
-    "experiment tracking",
-    "api",
-    "trust layer",
-    "maintained command-line",
-    "视频文件。无需申请第三方api，本地实现。ai-based removing",
-    "ai-tools",
-    "video tool",
-    "computer-vision-annotation",
-    "dlp",
-    "0x4m4",
-    "markdown",
-    "document-manager",
-    "zip files",
-    "e-paper",
-    "inference-server",
-    "removing hard-coded",
-    "data visualization",
-    "software development",
-    "code2prompt powerful",
-    "av-evasion",
-    "text tool",
-    "security-scanner",
-    "pil",
-    "drawing tool",
-    "management creates",
-    "mainly ctf",
-    "rembg remove images",
-    "annotation-tool",
-    "background-removal",
-    "pure utility",
-    "ai-penetration-testing",
-    "automation tool",
-    "antigravity",
+    "autogen-extension",
+    "hip",
     "ai-agents",
-    "tracking developer",
-    "image-optimization",
-    "ai-security-tool",
+    "rag",
+    "implicit-neural-representation",
+    "antigravity",
+    "system utility",
+    "vsr",
+    "gemini",
+    "text-to-image",
+    "google",
+    "claude",
     "inpaint-anything",
-    "lists",
+    "layer agents",
+    "security tool",
+    "images background",
+    "llms",
+    "brute-force-attacks",
+    "hwpx",
+    "apis",
+    "video-object-tracking",
+    "100 important",
+    "pure utility",
+    "list",
+    "flask",
+    "data processing",
+    "code-interpreter",
     "math tool",
-    "academic-research",
-    "vpc peering",
-    "automatic",
-    "images docx",
-    "text images",
-    "robust segmentation",
-    "minimalist",
-    "deepleanring",
-    "langchain",
-    "utility creating",
-    "files smuggle",
-    "document tool",
-    "microsoft",
-    "fastapi",
-    "security-tools",
-    "chinese",
-    "automation"
+    "image-processing",
+    "copilot",
+    "data-exfiltration",
+    "ai tool",
+    "tables",
+    "office-documents",
+    "containers",
+    "tracking developer",
+    "image-compression",
+    "hardware tool",
+    "ai-security-tool",
+    "segment-anything",
+    "mcp"
   ]
 }
