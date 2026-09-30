@@ -1,106 +1,6 @@
 {
   "queue": [
     {
-      "keyword": "aspice",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "automotive",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "autosar",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "engineering",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "fusa",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "batch",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "chroot",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "deep-hybrid-datacloud",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "docker",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "docker-containers",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "cems",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "climate",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "coal",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "ddj",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "eia",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "eia860",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "alert",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "command-line",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "discord",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "email",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "fly-io",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "create",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "directories",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "directory",
-      "label": "系统工具"
-    },
-    {
-      "keyword": "download",
-      "label": "系统工具"
-    },
-    {
       "keyword": "file",
       "label": "系统工具"
     },
@@ -11131,333 +11031,1006 @@
     {
       "keyword": "fairness-ml",
       "label": "系统工具"
+    },
+    {
+      "keyword": "14229",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "15765",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "canbus",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "car",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "automotive-diagnostics",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "odx",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "odxtools collection",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "collection utilities",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "utilities interact",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "interact diagnostic",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "iso-15765",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "iso-tp",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "iso15765",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "arxml",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "autosar-classic",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "set modules",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "modules working",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "working autosar",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "automotive software",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "software engineering",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "engineering one",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "one most",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "most complex",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "complex regulated",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "autosar-adaptive",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "modelling-autosar",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "hadoop",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "luigi",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "orchestration-framework",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "scheduling",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "luigi module",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "module helps",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "practical douyin",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "douyin downloader",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "downloader both",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "both single-item",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "single-item profile",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "profile batch",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "anysearch",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "hermes",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "openclaw",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "qclaw",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "botnet",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "honeypot",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "telnet",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "telnet honeypot",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "docker-on-android",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "kernelsu",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "magisk",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "nethunter",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "command-execution",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "schroot",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "ssh-client",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "ssh-server",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "subprocess",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "docker-gen",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "nginx",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "reverse-proxy",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "automated nginx",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "nginx reverse",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "workshop linux",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "linux containers",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "containers rebuild",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "rebuild docker",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "docker scratch",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "workshop linux containers",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "docker-image",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "dockerfile",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "flask-application",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "dehumidifiers",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "fans",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "heaters",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "humidifiers",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "broadlink",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "chuangmiir",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "esphome",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "homeassistant",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "lookin",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "air-purifier",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "dehumidifier",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "dishwasher",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "dryer",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "fan",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "climate-science",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "weather",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "open-source deep-learning",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "deep-learning framework",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "framework exploring",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "model weather",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "weather climate",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "foundation model weather",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "model weather climate",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "coal mine",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "mine periodic",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "periodic task",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "task execution",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "execution monitor",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "coal mine periodic",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "framework easily",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "easily invertible",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "invertible architectures",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "framework easily invertible",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "easily invertible architectures",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "back-in-stock",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "change-alert",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "change-detection",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "change-monitoring",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "notifications",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "flexible alerting",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "alerting elasticsearch",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "flexible alerting elasticsearch",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "alerting",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "alertmanager",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "kinesis",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "lambda",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "rules",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "alerta",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "mongodb",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "alerta monitoring",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "coze",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "dify",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "dingtalk",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "discord-api",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "discord-py",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "cyber",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "cybersecurity-tools",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "email-osint",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "ethical-hacking-tools",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "dovecot",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "hosting",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "mailserver",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "aaron-marketing",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "ai-staff",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "brand-messaging",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "brand-narrative",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "content-optimization",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "animations",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "manim",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "community-maintained framework",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "framework creating",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "official anthropic-managed",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "anthropic-managed directory",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "directory quality",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "community plugin",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "plugin marketplace",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "marketplace claude",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "claude cowork",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "cowork claude",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "concatenate directory",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "directory full",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "full files",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "files single",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "single prompt",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "prompt llms",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "download-music",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "mp3",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "playlists",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "song",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "fix-yahoo-finance",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "market-data",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "stock-data",
+      "label": "系统工具"
+    },
+    {
+      "keyword": "yahoo-finance",
+      "label": "系统工具"
     }
   ],
   "done": [
-    "development",
-    "longer maintained",
-    "google",
-    "boundingbox",
-    "kokoro-tts",
-    "on-device-ai",
-    "langchain",
-    "academic-research",
-    "segment-anything",
-    "attack mainly",
-    "avr",
-    "generation http",
-    "office",
-    "arduino",
-    "client",
-    "autogen",
-    "math tool",
-    "infosec",
-    "apis",
-    "layer agents",
-    "annotations",
-    "rag",
-    "exploitation",
-    "generative-ai",
-    "finder",
-    "system utility",
-    "document extraction",
-    "peering connection",
-    "learning tool",
-    "ai-agents",
-    "command-line utility",
-    "set extracting",
-    "experiment tracking developer",
-    "ai-red-team",
-    "api-testing",
-    "inference-server",
-    "rsa attack",
-    "data tool",
-    "apqp",
-    "http-client",
-    "ai-powered file",
-    "fsociety-hacking",
-    "bandit",
-    "model-context-protocol",
-    "audiobook",
-    "antigravity-cli-plugins",
-    "tables",
-    "e-paper",
-    "claude",
-    "connection management",
-    "health tool",
-    "next generation",
-    "computer-vision",
-    "agent-framework",
-    "data visualization",
-    "microsoft",
-    "platform-independent",
-    "asyncio",
-    "openai",
-    "office-documents",
-    "chatbot",
-    "machine learning",
-    "rsa-attack",
-    "privacy preserving",
-    "ai-tools",
-    "rembg remove images",
-    "command-line-tool",
-    "hotp",
-    "视频文件。无需申请第三方api，本地实现。ai-based removing",
-    "web framework",
-    "image-processing",
-    "open-source",
-    "gemini",
-    "http2",
-    "infosectools",
-    "ai-safety",
-    "data processing",
-    "utility extract",
-    "arm",
-    "intel",
-    "identification generative",
-    "auto-subtitles",
-    "document-automation",
-    "open-source rag-based",
-    "networks",
-    "microsoft-office",
-    "agents",
-    "containers",
-    "desktop",
-    "extract text",
-    "rest-api",
-    "experiment tracking",
-    "annotation-tool",
-    "kokoro",
-    "suite utilities",
-    "subtitles video",
-    "important anatomical",
-    "video-object-tracking",
-    "subtile",
-    "curl",
-    "hardsub",
-    "compliance",
-    "deep-learning",
-    "image-optimisation",
-    "hip",
-    "python-requests",
-    "automation",
-    "smuggle additional",
-    "command-line simplifies",
-    "ripper",
-    "document-management",
-    "working csv",
-    "governance",
-    "hwp",
-    "utility auto-generating",
-    "king tabular",
-    "ai-agent",
-    "exfiltration",
-    "api",
-    "csv king",
-    "spec-driven-development",
-    "hardware-hacking",
-    "security tool",
-    "network-analysis",
-    "rsa",
-    "video-object-segmentation",
-    "utility creating",
-    "elderly care",
-    "open-source trust",
-    "antigravity-cli",
-    "llm",
-    "cli-anything",
-    "wordnet",
-    "cybersecurity",
-    "ai-video-editing",
-    "llms",
-    "cookies",
-    "flask",
-    "adversarial-machine-learning",
-    "extraction instead",
-    "been deprecated agentic",
-    "system tool",
-    "vsr",
-    "ai-penetration-testing",
-    "com",
-    "red-team-tools",
-    "tracking developer",
-    "multi-agent-systems",
-    "management creates",
-    "ai tool",
-    "productivity app",
-    "copilot",
-    "annotation",
-    "cryptographic agent",
-    "deepleanring",
-    "agentic document",
-    "vpc peering",
-    "files smuggle",
-    "code2prompt powerful",
-    "http client",
-    "privacy-enhancing-technologies",
-    "0x4m4",
-    "auto-generating subtitles",
-    "computer-vision-annotation",
-    "automated-pentesting",
-    "pure utility",
-    "2fa",
-    "multi-modality",
-    "rag-based chatting",
-    "pytorch",
-    "productivity tool",
-    "robust segmentation",
-    "utilities converting",
-    "lists",
-    "rembg remove",
-    "rest",
-    "software development",
-    "hancom",
-    "debug",
-    "images background",
-    "hardware tool",
-    "vlm",
-    "maintained command-line",
-    "codex-cli",
-    "python3",
-    "async",
-    "ocr",
-    "background-removal",
-    "automatic",
-    "static-code-analysis",
-    "cryptography",
-    "cuda",
-    "creates full-meshes",
-    "ai-pentesting",
-    "fsociety",
-    "image-compression",
-    "cmsis",
-    "federated-learning",
-    "image-optimization",
-    "trust layer",
-    "asr",
-    "automation tool",
-    "humans",
-    "epub",
-    "active-directory",
-    "podcast",
-    "sql tool",
-    "autogen-extension",
-    "deprecated agentic",
-    "dlp",
-    "llama3",
-    "iot tool",
-    "extract",
-    "ai-security-tool",
-    "hwpx",
-    "build-system",
-    "document tool",
-    "security-scanner",
     "file management tool",
-    "bruteforce",
-    "forhumans",
-    "markdown",
-    "antigravity",
-    "ai-cybersecurity",
-    "video tool",
-    "inpaint-anything",
-    "file-management",
-    "ai-security",
-    "sentiment-analysis",
-    "text images",
-    "peerd aws",
-    "structures images",
-    "natural-language-processing",
-    "privacy",
-    "data-mining",
-    "debugging",
-    "file-organizer",
-    "dataset",
-    "python3 utility",
-    "data-exfiltration",
-    "privacy-protection",
-    "hacking",
-    "agent",
-    "100 important",
-    "text processing",
-    "agentic-ai-development",
-    "prompt-engineering-tool",
-    "chinese",
-    "converting working",
-    "code-interpreter",
-    "docx files",
-    "creating zip",
-    "aiohttp",
-    "hacktoberfest",
-    "mcp",
-    "pdf",
-    "siren",
-    "game tool",
-    "risk identification",
-    "responsible-ai",
-    "interactive-tracking",
-    "database tool",
-    "machine-learning",
-    "agentneo",
-    "ai-agent-monitoring",
-    "agent identity",
-    "file utility",
-    "minimalist",
-    "web development",
-    "trio",
-    "images docx",
-    "api-client",
-    "claude-code",
-    "developer-tools",
-    "graphics tool",
-    "sub-remove",
-    "drawing tool",
-    "developer tool",
-    "zip files",
-    "cli",
-    "text tool",
-    "artificial-intelligence",
-    "http",
-    "scientific computing",
-    "implicit-neural-representation",
     "face-recognition",
-    "security",
-    "agents cryptographic",
-    "office automation",
-    "media processing",
-    "ai-hacking",
-    "pillow",
-    "remove images",
-    "srt",
-    "gaming utility",
-    "document-manager",
-    "opc",
-    "content-creation",
-    "anatomical structures",
-    "powerful command-line",
-    "linter",
     "security-tools",
-    "mainly ctf",
-    "ai-powered",
-    "agentic-ai",
-    "av-evasion",
-    "cipher",
+    "image-optimization",
+    "document-automation",
+    "rsa",
+    "discord",
+    "video-object-segmentation",
+    "automotive",
+    "vlm",
+    "gemini",
+    "ai-security-tool",
+    "platform-independent",
+    "coal",
     "been deprecated",
-    "efficiency",
-    "fastapi",
-    "network tool",
-    "ai-application-debugging",
+    "set extracting",
+    "com",
+    "converting working",
+    "autogen",
+    "command-line-tool",
+    "vsr",
+    "experiment tracking",
+    "cybersecurity",
+    "mainly ctf",
+    "governance",
+    "creates full-meshes",
+    "scientific computing",
+    "ai-cybersecurity",
+    "tables",
+    "data visualization",
+    "powerful command-line",
+    "image-processing",
+    "microsoft-office",
+    "rest",
+    "subtile",
+    "images background",
+    "fusa",
+    "maintained command-line",
+    "python-requests",
+    "open-source rag-based",
+    "dlp",
+    "antigravity-cli",
+    "cryptographic agent",
+    "content-creation",
+    "kokoro-tts",
+    "system utility",
+    "security",
+    "microsoft",
     "pil",
-    "brute-force-attacks",
-    "live-preview",
-    "web-mining",
-    "fawkes privacy",
+    "rag-based chatting",
+    "spec-driven-development",
+    "on-device-ai",
+    "identification generative",
+    "ai-video-editing",
+    "video tool",
+    "flask",
     "list",
-    "text-to-image",
-    "track-anything",
-    "segmentation 100",
+    "ai-pentesting",
+    "web-mining",
+    "lists",
+    "download",
+    "open-source trust",
     "image tool",
-    "pentest",
+    "auto-subtitles",
+    "database tool",
+    "audiobook",
+    "annotations",
+    "vpc peering",
+    "autogen-extension",
+    "chroot",
+    "utility extract",
+    "openai",
+    "finder",
+    "agents cryptographic",
+    "api-client",
+    "background-removal",
+    "management creates",
+    "claude-code",
+    "productivity tool",
+    "developer-tools",
+    "next generation",
+    "sentiment-analysis",
+    "rembg remove images",
+    "eia860",
+    "srt",
+    "web framework",
+    "chart tool",
+    "antigravity",
+    "python3",
+    "privacy-protection",
+    "cli",
+    "arduino",
+    "video-object-tracking",
+    "development",
+    "directory",
+    "desktop",
+    "humans",
+    "hwp",
+    "static-code-analysis",
+    "hardsub",
+    "multi-agent-systems",
+    "code2prompt powerful",
+    "extraction instead",
+    "command-line utility",
+    "computer-vision-annotation",
+    "hardware tool",
+    "ai-hacking",
+    "debugging",
+    "client",
+    "machine learning",
+    "ai-security",
+    "linter",
+    "automatic",
+    "automation",
+    "http",
+    "artificial-intelligence",
+    "exploitation",
+    "ripper",
+    "web development",
+    "ai-tools",
+    "pytorch",
+    "text tool",
+    "batch",
+    "exfiltration",
+    "networks",
+    "hacktoberfest",
+    "api",
+    "been deprecated agentic",
+    "ai-agent-monitoring",
+    "fsociety-hacking",
+    "smuggle additional",
+    "privacy preserving",
+    "computer-vision",
+    "asr",
+    "cryptography",
+    "utility creating",
+    "trust layer",
+    "agent",
+    "efficiency",
+    "important anatomical",
+    "agentic-ai-development",
+    "hotp",
+    "extract text",
+    "images docx",
+    "experiment tracking developer",
+    "media processing",
+    "security tool",
+    "claude",
+    "subtitles video",
+    "iot tool",
+    "implicit-neural-representation",
+    "deep-hybrid-datacloud",
+    "annotation",
+    "extract",
+    "auto-generating subtitles",
+    "hip",
+    "automation tool",
+    "rag",
+    "sub-remove",
+    "2fa",
+    "file-organizer",
+    "gaming utility",
+    "suite utilities",
+    "document-management",
+    "rembg remove",
+    "av-evasion",
+    "kokoro",
+    "peering connection",
+    "generative-ai",
+    "health tool",
+    "agentic document",
+    "boundingbox",
+    "natural-language-processing",
+    "build-system",
+    "curl",
+    "ai-penetration-testing",
+    "academic-research",
+    "google",
+    "federated-learning",
+    "segmentation 100",
+    "developer tool",
+    "antigravity-cli-plugins",
+    "pillow",
+    "pure utility",
+    "aspice",
+    "arm",
+    "data-mining",
+    "files smuggle",
+    "utility auto-generating",
+    "data tool",
+    "csv king",
+    "hacking",
+    "podcast",
+    "codex-cli",
+    "apqp",
+    "agents",
+    "prompt-engineering-tool",
+    "bandit",
+    "ai-safety",
+    "network tool",
+    "opc",
+    "document-manager",
+    "segment-anything",
+    "document extraction",
+    "generation http",
+    "elderly care",
+    "ai-application-debugging",
+    "cipher",
+    "machine-learning",
+    "annotation-tool",
+    "remove images",
+    "fsociety",
+    "llms",
+    "risk identification",
+    "productivity app",
+    "system tool",
+    "siren",
+    "graphics tool",
+    "0x4m4",
+    "deprecated agentic",
+    "cookies",
     "removing hard-coded",
-    "chart tool"
+    "multi-modality",
+    "hancom",
+    "fastapi",
+    "data processing",
+    "llm",
+    "agentic-ai",
+    "ocr",
+    "llama3",
+    "http client",
+    "image-optimisation",
+    "docker-containers",
+    "utilities converting",
+    "sql tool",
+    "avr",
+    "copilot",
+    "wordnet",
+    "ai tool",
+    "working csv",
+    "anatomical structures",
+    "e-paper",
+    "compliance",
+    "text-to-image",
+    "apis",
+    "brute-force-attacks",
+    "office-documents",
+    "containers",
+    "langchain",
+    "inpaint-anything",
+    "agent-framework",
+    "rsa-attack",
+    "inference-server",
+    "100 important",
+    "视频文件。无需申请第三方api，本地实现。ai-based removing",
+    "epub",
+    "data-exfiltration",
+    "http2",
+    "cuda",
+    "attack mainly",
+    "office",
+    "model-context-protocol",
+    "asyncio",
+    "command-line",
+    "layer agents",
+    "learning tool",
+    "cems",
+    "ai-powered",
+    "docx files",
+    "hardware-hacking",
+    "pentest",
+    "deepleanring",
+    "game tool",
+    "async",
+    "automated-pentesting",
+    "infosec",
+    "mcp",
+    "fawkes privacy",
+    "live-preview",
+    "security-scanner",
+    "minimalist",
+    "text images",
+    "network-analysis",
+    "track-anything",
+    "aiohttp",
+    "responsible-ai",
+    "office automation",
+    "alert",
+    "robust segmentation",
+    "climate",
+    "hwpx",
+    "chatbot",
+    "pdf",
+    "zip files",
+    "email",
+    "rsa attack",
+    "red-team-tools",
+    "trio",
+    "api-testing",
+    "engineering",
+    "infosectools",
+    "fly-io",
+    "http-client",
+    "king tabular",
+    "agentneo",
+    "image-compression",
+    "python3 utility",
+    "ai-red-team",
+    "debug",
+    "autosar",
+    "cli-anything",
+    "peerd aws",
+    "drawing tool",
+    "rest-api",
+    "connection management",
+    "active-directory",
+    "directories",
+    "software development",
+    "forhumans",
+    "agent identity",
+    "bruteforce",
+    "intel",
+    "ai-agent",
+    "ddj",
+    "file utility",
+    "chinese",
+    "cmsis",
+    "structures images",
+    "interactive-tracking",
+    "markdown",
+    "document tool",
+    "open-source",
+    "file-management",
+    "tracking developer",
+    "docker",
+    "text processing",
+    "ai-agents",
+    "deep-learning",
+    "creating zip",
+    "code-interpreter",
+    "create",
+    "adversarial-machine-learning",
+    "privacy",
+    "command-line simplifies",
+    "privacy-enhancing-technologies",
+    "dataset",
+    "longer maintained",
+    "ai-powered file",
+    "math tool",
+    "eia"
   ]
 }
