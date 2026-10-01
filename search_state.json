@@ -1,106 +1,6 @@
 {
   "queue": [
     {
-      "keyword": "application",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "data",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "fine-tuning",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "framework",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "llamaindex",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "data-science",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "data-analysis",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "data-pipeline",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "data-processing",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "data-visualization",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "duckdb",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "lightweight data",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "processing framework",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "framework duckdb",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "data-pipelines",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "document-analysis",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "document-processing",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "elt",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "dataset-hub",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "datasets",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "huggingface",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "forecasting",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "producing quality",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "quality forecasts",
-      "label": "数据处理"
-    },
-    {
-      "keyword": "forecasts time",
-      "label": "数据处理"
-    },
-    {
       "keyword": "time series",
       "label": "数据处理"
     },
@@ -13019,408 +12919,849 @@
     {
       "keyword": "development toolkit",
       "label": "游戏娱乐"
+    },
+    {
+      "keyword": "career",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "cover-letter",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "interview-preparation",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "job-application",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "text-to-speech",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "vits",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "voice-clone",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "voice-cloneai",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "voice-cloning",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "adapter",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "parameter-efficient-learning",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "gpts",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "documentation-tool",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "deployment",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "multi-agents",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "flexible",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "flexible powerful",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "data-agent",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "clickhouse",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "hive",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "mysql",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "datafusion",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "impala",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "db-cli",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "db-client",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "aigc-detection",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "daily",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "kats kit",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "kit analyze",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "analyze time",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "data lightweight",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "data-validation",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "lightweight extensible",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "data validation",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "lightweight extensible data",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "extensible data validation",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "postgresql",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "lightweight opinionated",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "hls",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "multithreading",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "convolutional-networks",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "embedding-vectors",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "embeddings",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "feature-extraction",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "feature-vector",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "gaussian processes",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "processes framework",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "gaussian processes framework",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "data-exploration",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "holoviz",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "detectron2",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "document-image-processing",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "document-layout-analysis",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "layout-analysis",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "ocr-pytorch",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "edtech",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "xml",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "yaml",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "yml",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "data-lake",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "data-loading",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "data-warehouse",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "dataengineering",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "dataops",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "dbt",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "data-quality-checks",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "dataset-conversion",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "hdf5",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "hdf5-to-rlds",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "lerobot",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "serving-infrastructure",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "trace",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "toolkit public",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "public dataset",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "dataset hub",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "medical",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "news",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "patents",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "datasets transforms",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "transforms models",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "models specific",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "specific computer",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "calibration",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "decision-model",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "jev",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "modernbert",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "consumer-gpu",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "dpo",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "gguf",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "count-model",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "econometrics",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "generalized-linear-models",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "autogluon",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "automated-machine-learning",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "svg",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "starvector foundation",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "model svg",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "spatial-controls",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "world-models",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "world-simulation",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "cosmos-transfer2 top",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "top cosmos-predict2",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "time-series",
+      "label": "数据处理"
+    },
+    {
+      "keyword": "huggingface-transformers",
+      "label": "数据处理"
     }
   ],
   "done": [
-    "video tool",
-    "media processing",
-    "open-source",
-    "computer-vision-annotation",
-    "some utility",
-    "security-tools",
-    "claude",
-    "copilot",
-    "exfiltration",
-    "images background",
-    "fsociety-hacking",
-    "google",
-    "image tool",
-    "claude-code",
-    "aspice",
-    "multi-modality",
-    "responsible-ai",
-    "governance",
-    "rsa",
-    "creating zip",
-    "software development",
-    "model-context-protocol",
-    "anatomical structures",
-    "antigravity-cli-plugins",
-    "fusa",
-    "ai-agents",
-    "addons improve",
-    "boundingbox",
-    "pillow",
-    "chinese",
-    "web development",
-    "attack mainly",
-    "annotation-tool",
-    "set extracting",
-    "kokoro-tts",
-    "text tool",
-    "game ports",
-    "microsoft",
-    "csv king",
-    "apis",
-    "segmentation 100",
-    "automation",
-    "ai-penetration-testing",
-    "image-compression",
-    "maintained command-line",
-    "ai-application-debugging",
     "agents cryptographic",
-    "security",
-    "image-optimization",
-    "internet-of-things",
-    "annotations",
-    "vsr",
-    "annotation",
-    "tables",
-    "arm",
-    "epub",
-    "microsoft-office",
-    "directory",
-    "image-optimisation",
-    "making rolling",
-    "rembg remove",
-    "code-interpreter",
-    "scalability load",
-    "com",
-    "document tool",
-    "api-testing",
-    "dlp",
-    "platform-independent",
-    "antigravity",
-    "sql tool",
-    "risk identification",
-    "opc",
-    "autosar",
-    "office automation",
-    "trio",
-    "markdown",
-    "autogen-extension",
-    "libraries manipulating",
-    "docker",
-    "active-directory",
-    "docker-containers",
-    "hwp",
-    "aigc generating",
-    "various game",
-    "ai-pentesting",
-    "converting working",
-    "web framework",
-    "coal",
-    "open-source rag-based",
-    "hacking",
-    "aiohttp",
-    "codex-cli",
-    "command-line utility",
-    "python-requests",
-    "brute-force-attacks",
-    "working csv",
-    "api",
-    "build-system",
-    "extract",
-    "encryption-algorithms",
-    "eia",
-    "100 important",
-    "batch",
-    "utility auto-generating",
-    "ddj",
-    "mqtt systems",
-    "efficiency",
-    "management creates",
-    "file management tool",
-    "file",
-    "structures images",
-    "prompt-engineering-tool",
-    "layer agents",
-    "curl",
-    "network tool",
-    "chart tool",
-    "agent",
-    "camellia",
-    "chatbot",
-    "home-automation",
-    "data-exfiltration",
-    "gemini",
-    "available 351elec",
-    "mainly ctf",
-    "text-to-image",
-    "longer maintained",
-    "llama3",
-    "game",
-    "document-automation",
-    "files",
-    "scientific computing",
-    "fastapi",
-    "generative-ai",
-    "audiobook",
-    "video-object-segmentation",
-    "engineering",
-    "smuggle additional",
+    "pico-8 game",
+    "minimalist",
     "generation http",
-    "developer-tools",
-    "async",
-    "file-management",
-    "autogen",
-    "web-mining",
-    "experiment tracking",
-    "utility scripts",
-    "document-manager",
-    "content-creation",
-    "intel",
-    "antigravity-cli",
-    "hip",
-    "file-organizer",
-    "api-client",
-    "hardware tool",
-    "on-device-ai",
-    "files smuggle",
-    "agents",
-    "lua",
-    "srt",
-    "docx files",
-    "fly-io",
-    "http-client",
-    "pipeline",
-    "ai-red-team",
-    "peering connection",
-    "utilities converting",
-    "privacy-protection",
-    "vlm",
-    "implicit-neural-representation",
-    "asyncio",
-    "auto-generating subtitles",
-    "text-to-motion",
-    "open-source trust",
-    "linter",
-    "deep-hybrid-datacloud",
-    "data visualization",
-    "data-mining",
-    "extract text",
-    "mosquittos scalability",
-    "discord",
-    "been deprecated",
-    "desktop",
-    "ai-security-tool",
-    "static-code-analysis",
-    "graphics tool",
-    "spec-driven-development",
-    "connection management",
-    "email",
-    "aes-encryption",
-    "ai-tools",
-    "cli",
-    "network-analysis",
-    "rest-api",
-    "ai tool",
-    "iot tool",
-    "bandit",
-    "llms",
-    "agentic-ai",
-    "command-line",
-    "automated-pentesting",
-    "removing hard-coded",
-    "privacy preserving",
-    "system utility",
-    "assets",
-    "tracking developer",
-    "subtile",
-    "data processing",
-    "rsa-attack",
-    "cryptography",
-    "python3",
-    "auto-subtitles",
-    "powerful command-line",
-    "segment-anything",
-    "bruteforce",
-    "document-management",
-    "inference-server",
-    "视频文件。无需申请第三方api，本地实现。ai-based removing",
-    "agentneo",
-    "encryption",
-    "iot",
-    "langchain",
-    "identification generative",
-    "ai-cybersecurity",
-    "fawkes privacy",
-    "ai-agent",
-    "download various",
-    "unreal",
-    "ai-powered file",
-    "learning tool",
-    "arduino",
-    "command-line simplifies",
-    "networks",
-    "forhumans",
-    "rembg remove images",
-    "chroot",
-    "cuda",
-    "ai-video-editing",
-    "game files",
-    "interactive-tracking",
-    "cookies",
-    "camellia256",
-    "privacy",
-    "deep-learning",
-    "hwpx",
-    "cli-anything",
-    "psutil",
-    "mcp",
-    "zip files",
-    "development",
-    "openai",
-    "hancom",
-    "flask",
-    "images docx",
-    "track-anything",
-    "automotive",
-    "download",
     "ai-safety",
-    "e-paper",
-    "multi-agent-systems",
-    "image-processing",
-    "apqp",
-    "humans",
-    "experiment tracking developer",
-    "subtitles video",
-    "av-evasion",
-    "exploitation",
-    "system tool",
+    "document-manager",
+    "machine-learning",
+    "application",
+    "psutil",
+    "chroot",
+    "utility creating",
+    "hotp",
+    "gaming utility",
+    "data",
+    "text-to-motion",
     "rag",
-    "containers",
-    "sub-remove",
-    "list",
-    "pico-8",
-    "own cloud",
-    "document extraction",
-    "http client",
-    "pytorch",
-    "create",
-    "vpc peering",
-    "hacktoberfest",
-    "pentest",
-    "mqtt-client",
-    "0x4m4",
+    "intel",
+    "document-management",
+    "desktop",
+    "cybersecurity",
+    "automatic",
+    "productivity app",
+    "extraction instead",
+    "game",
+    "inpaint-anything",
+    "e-paper",
+    "manipulating pico-8",
+    "epub",
+    "tracking developer",
+    "fly-io",
+    "mosquittos scalability",
+    "file utility",
+    "layer agents",
+    "extract text",
+    "computer-vision",
+    "remove images",
+    "text processing",
+    "ai-video-editing",
+    "text tool",
     "agent-framework",
-    "aigc",
-    "http2",
-    "alert",
-    "code2prompt powerful",
-    "data tool",
-    "cmsis",
-    "sentiment-analysis",
-    "hardware-hacking",
-    "lists",
+    "animationgpt aigc",
+    "0x4m4",
+    "network-analysis",
+    "apis",
+    "mqtt systems",
+    "annotation-tool",
+    "file-management",
+    "processing framework",
+    "graphics tool",
+    "development",
+    "claude-code",
+    "governance",
+    "rembg remove images",
+    "unreal",
+    "eia860",
+    "aigc generating",
+    "segmentation 100",
+    "batch",
+    "static-code-analysis",
+    "system utility",
+    "create",
+    "deep-hybrid-datacloud",
+    "llama3",
+    "software development",
+    "elt",
+    "docker",
+    "rembg remove",
+    "fusa",
+    "image-compression",
+    "pil",
+    "office",
+    "creates full-meshes",
+    "command-line",
+    "flask",
+    "producing quality",
+    "privacy-enhancing-technologies",
+    "health tool",
+    "llamaindex",
+    "coal",
+    "bandit",
+    "humans",
+    "multi-agent-systems",
+    "auto-generating subtitles",
+    "com",
+    "some utility",
+    "gemini",
+    "docker-containers",
+    "security",
+    "rsa attack",
+    "face-recognition",
+    "hardware tool",
+    "open-source",
     "ocr",
-    "debug",
+    "ai-penetration-testing",
+    "cli-anything",
+    "quality forecasts",
+    "anatomical structures",
+    "red-team-tools",
+    "working csv",
+    "web framework",
+    "files",
+    "debugging",
+    "camellia256",
+    "image-processing",
+    "aiohttp",
+    "document extraction",
+    "email",
+    "image-optimisation",
+    "responsible-ai",
+    "podcast",
+    "agent",
+    "climate",
+    "files smuggle",
+    "arduino",
+    "aes-encryption",
+    "list",
+    "data-pipeline",
+    "network tool",
+    "ai-red-team",
+    "identification generative",
+    "aigc",
+    "live-preview",
+    "async",
+    "suite utilities",
+    "data-analysis",
+    "making rolling",
+    "asr",
+    "available 351elec",
+    "deep-learning",
+    "video-object-tracking",
+    "productivity tool",
+    "kokoro",
+    "ai-security-tool",
+    "security-scanner",
+    "codex-cli",
+    "tables",
+    "fawkes privacy",
+    "track-anything",
+    "finder",
+    "attacking mqtt",
+    "agentic-ai-development",
+    "web development",
+    "powerful command-line",
+    "encryption-algorithms",
+    "chatbot",
+    "command-line simplifies",
+    "chart tool",
+    "dlp",
+    "automotive",
+    "connection management",
+    "hwp",
+    "fastapi",
+    "2fa",
+    "multi-modality",
+    "image tool",
+    "annotation",
+    "game tool",
+    "python3",
+    "generating game",
+    "ai-hacking",
+    "hacking",
+    "mqtt-client",
+    "rest-api",
+    "ai-agent",
+    "document-analysis",
+    "api-client",
+    "zip files",
+    "attack mainly",
+    "exploitation",
+    "ai-agents",
+    "cryptographic agent",
     "cems",
     "client",
-    "academic-research",
-    "infosectools",
-    "generating game",
-    "peerd aws",
-    "mqtt",
-    "elderly care",
-    "machine learning",
-    "remove images",
-    "deprecated agentic",
-    "cybersecurity",
-    "podcast",
-    "fsociety",
-    "attacking mqtt",
-    "blender",
-    "computer-vision",
-    "rsa attack",
-    "deepleanring",
-    "robust segmentation",
-    "ai-security",
-    "hardsub",
-    "office",
-    "productivity app",
-    "climate",
-    "asr",
-    "artificial-intelligence",
-    "pure utility",
-    "directories",
-    "security tool",
-    "trust layer",
-    "allows download",
-    "hotp",
-    "text images",
-    "agentic-ai-development",
-    "animationgpt aigc",
-    "infosec",
-    "scripts making",
-    "ports available",
-    "file utility",
-    "automatic",
-    "avr",
-    "finder",
-    "rag-based chatting",
-    "pico-8 game",
-    "important anatomical",
-    "utility creating",
-    "ai-agent-monitoring",
-    "pil",
-    "ai-hacking",
-    "blender addons",
-    "compliance",
-    "command-line-tool",
-    "wordnet",
-    "king tabular",
-    "inpaint-anything",
-    "http",
-    "security-scanner",
-    "pdf",
-    "next generation",
-    "drawing tool",
-    "cryptographic agent",
-    "background-removal",
-    "developer tool",
-    "database tool",
-    "natural-language-processing",
-    "python3 utility",
-    "utility extract",
-    "systems mosquittos",
-    "eia860",
-    "blender-addon",
-    "agentic document",
-    "productivity tool",
-    "privacy-enhancing-technologies",
-    "debugging",
-    "2fa",
-    "cipher",
-    "llm",
-    "health tool",
-    "extraction instead",
-    "agent identity",
-    "machine-learning",
-    "creates full-meshes",
-    "suite utilities",
-    "face-recognition",
-    "adversarial-machine-learning",
-    "siren",
-    "red-team-tools",
-    "math tool",
-    "text processing",
-    "dataset",
-    "federated-learning",
-    "game tool",
-    "office-documents",
-    "been deprecated agentic",
-    "ripper",
+    "vlm",
+    "fine-tuning",
     "automation tool",
-    "load testing",
-    "rolling own",
-    "ai-powered",
-    "video-object-tracking",
+    "inference-server",
+    "agentic-ai",
+    "docx files",
+    "ai-agent-monitoring",
+    "structures images",
+    "download various",
+    "lists",
+    "privacy preserving",
+    "llm",
+    "directories",
+    "lightweight data",
+    "ddj",
+    "download",
+    "rsa",
+    "trio",
+    "http client",
+    "security-tools",
+    "game ports",
+    "various game",
+    "autogen",
+    "blender-addon",
+    "efficiency",
+    "boundingbox",
+    "infosec",
+    "auto-subtitles",
+    "scientific computing",
+    "computer-vision-annotation",
+    "curl",
+    "dataset",
+    "camellia",
+    "hip",
+    "mcp",
+    "file management tool",
+    "ai-tools",
+    "dataset-hub",
+    "privacy",
+    "converting working",
+    "data-mining",
+    "api-testing",
+    "utility extract",
+    "framework duckdb",
+    "microsoft-office",
+    "mainly ctf",
+    "brute-force-attacks",
+    "office-documents",
+    "agent identity",
+    "command-line utility",
+    "langchain",
+    "avr",
+    "av-evasion",
+    "networks",
+    "markdown",
+    "spec-driven-development",
+    "cipher",
+    "pdf",
+    "privacy-protection",
+    "data processing",
+    "duckdb",
+    "creating zip",
+    "autosar",
+    "developer-tools",
+    "implicit-neural-representation",
+    "data-visualization",
+    "interactive-tracking",
+    "autogen-extension",
+    "images background",
+    "csv king",
+    "text images",
+    "http",
+    "cryptography",
+    "text-to-image",
+    "wordnet",
+    "vpc peering",
+    "video tool",
+    "assets",
+    "compliance",
+    "ai-pentesting",
+    "pytorch",
+    "agentic document",
+    "antigravity-cli",
+    "linter",
+    "own cloud",
+    "platform-independent",
+    "encryption",
+    "hancom",
+    "build-system",
+    "bruteforce",
+    "arm",
+    "ai-application-debugging",
+    "cookies",
+    "engineering",
+    "internet-of-things",
+    "llms",
+    "http2",
+    "100 important",
+    "office automation",
+    "academic-research",
+    "document-automation",
+    "rsa-attack",
+    "utilities converting",
+    "code2prompt powerful",
+    "data tool",
+    "fsociety",
+    "learning tool",
+    "video-object-segmentation",
+    "blender",
+    "trust layer",
+    "code-interpreter",
+    "containers",
+    "copilot",
+    "been deprecated agentic",
+    "cmsis",
+    "addons improve",
+    "automation",
+    "natural-language-processing",
+    "apqp",
+    "file-organizer",
+    "segment-anything",
+    "framework",
+    "generative-ai",
+    "pipeline",
+    "ai-cybersecurity",
+    "forhumans",
+    "cuda",
+    "libraries manipulating",
+    "scalability load",
+    "audiobook",
+    "subtitles video",
+    "set extracting",
+    "vsr",
+    "blender addons",
+    "security tool",
+    "srt",
+    "system tool",
+    "asyncio",
+    "forecasting",
+    "elderly care",
+    "infosectools",
+    "next generation",
+    "on-device-ai",
+    "content-creation",
+    "cli",
+    "huggingface",
+    "subtile",
+    "home-automation",
+    "chinese",
+    "openai",
+    "ai tool",
+    "hacktoberfest",
+    "fsociety-hacking",
+    "sub-remove",
+    "ripper",
+    "game files",
+    "sql tool",
+    "ai-powered file",
+    "data-processing",
+    "pure utility",
+    "machine learning",
+    "rag-based chatting",
     "rest",
-    "manipulating pico-8",
-    "minimalist",
-    "kokoro",
-    "live-preview",
-    "gaming utility"
+    "prompt-engineering-tool",
+    "model-context-protocol",
+    "peerd aws",
+    "peering connection",
+    "antigravity-cli-plugins",
+    "document-processing",
+    "utility scripts",
+    "api",
+    "agentneo",
+    "kokoro-tts",
+    "debug",
+    "视频文件。无需申请第三方api，本地实现。ai-based removing",
+    "federated-learning",
+    "drawing tool",
+    "longer maintained",
+    "python3 utility",
+    "hwpx",
+    "active-directory",
+    "allows download",
+    "experiment tracking",
+    "directory",
+    "king tabular",
+    "adversarial-machine-learning",
+    "python-requests",
+    "data-pipelines",
+    "maintained command-line",
+    "claude",
+    "data visualization",
+    "database tool",
+    "exfiltration",
+    "command-line-tool",
+    "pentest",
+    "math tool",
+    "agents",
+    "file",
+    "sentiment-analysis",
+    "ports available",
+    "web-mining",
+    "aspice",
+    "experiment tracking developer",
+    "annotations",
+    "management creates",
+    "ai-security",
+    "deprecated agentic",
+    "utility auto-generating",
+    "extract",
+    "forecasts time",
+    "robust segmentation",
+    "antigravity",
+    "rolling own",
+    "smuggle additional",
+    "important anatomical",
+    "pico-8",
+    "been deprecated",
+    "developer tool",
+    "hardsub",
+    "risk identification",
+    "deepleanring",
+    "microsoft",
+    "iot",
+    "images docx",
+    "alert",
+    "eia",
+    "background-removal",
+    "datasets",
+    "pillow",
+    "data-science",
+    "removing hard-coded",
+    "artificial-intelligence",
+    "document tool",
+    "hardware-hacking",
+    "lua",
+    "open-source trust",
+    "http-client",
+    "google",
+    "discord",
+    "media processing",
+    "data-exfiltration",
+    "siren",
+    "ai-powered",
+    "systems mosquittos",
+    "opc",
+    "mqtt",
+    "open-source rag-based",
+    "iot tool",
+    "scripts making",
+    "load testing",
+    "automated-pentesting",
+    "image-optimization"
   ]
 }
