@@ -1,106 +1,6 @@
 {
   "queue": [
     {
-      "keyword": "deep learning",
-      "label": "数据可视化"
-    },
-    {
-      "keyword": "learning which",
-      "label": "数据可视化"
-    },
-    {
-      "keyword": "which looks",
-      "label": "数据可视化"
-    },
-    {
-      "keyword": "looks financial",
-      "label": "数据可视化"
-    },
-    {
-      "keyword": "financial charts",
-      "label": "数据可视化"
-    },
-    {
-      "keyword": "aggregated",
-      "label": "数据可视化"
-    },
-    {
-      "keyword": "analysis",
-      "label": "数据可视化"
-    },
-    {
-      "keyword": "builder",
-      "label": "数据可视化"
-    },
-    {
-      "keyword": "business",
-      "label": "数据可视化"
-    },
-    {
-      "keyword": "chatops",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "discord-bot",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "ai-assistant",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "goofish",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "cactus",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "edge-ai",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "foundation-model",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "function-calling",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "bash",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "bash-scripting",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "command-line-interface",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "chatgpt",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "cheat-sheet",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "commands",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "gpt-3",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "gpt-4",
-      "label": "效率自动化"
-    },
-    {
       "keyword": "cli-agent",
       "label": "效率自动化"
     },
@@ -14427,483 +14327,1292 @@
     {
       "keyword": "w8a8",
       "label": "数据可视化"
+    },
+    {
+      "keyword": "glow-tts",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "hifigan",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "melgan",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "billion-parameters",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "data-parallelism",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "human-centric",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "semantic controllable",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "controllable self-supervised",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "self-supervised learning",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "3d-packing",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "bin-packing",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "online-packing",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "packing-algorithm",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "toolbox",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "alipy active",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "active learning",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "learning active",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "actor-critic",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "drone-landing",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "inverted-pendulum",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "markov-chain",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "tiny lib",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "lib pocket-sized",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "pocket-sized implementations",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "implementations machine",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "learning models",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "command-and-control",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "database-manager",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "kali-linux",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "nekros",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "looks code",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "code search",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "search things",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "things which",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "which look",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "look \"dodgy\"",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "stocks",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "time scrapping",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "freeaskinternet completely",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "completely private",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "private locally",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "locally running",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "running search",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "search aggregator",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "ddgs",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "dht",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "metasearch",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "aggregates rss",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "web content",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "content calibre",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "calibre recipe",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "recipe sends",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "sends kindle",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "dkim",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "dmarc",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "dmarc-parser",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "dmarc-reports",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "grafana",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "grafana-dashboard",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "influxdb",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "lidarr",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "ombi",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "hacktoberfest-swag",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "cv-builder",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "cv-generator",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "cv-template",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "resume",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "resume-builder",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "resume-generator",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "ai-calling",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "asterisk-ari",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "inbound-calls",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "no-code",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "jython",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "pypa",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "pypy",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "pypy3",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "geo-first seo",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "seo skill",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "skill claude",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "code comprehensive",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "comprehensive search",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "specialized claude",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "code workspace",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "workspace creating",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "creating long-form",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "long-form seo-optimized",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "admin",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "admin-dashboard",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "administration",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "developers",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "data-scraping",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "google-maps",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "google-maps-scraper",
+      "label": "数据可视化"
+    },
+    {
+      "keyword": "auto-remediation",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "aiops",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "incident",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "bolt",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "privileges",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "assistant",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "chat-gpt",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "discordbot",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "gpt-4-vision-preview",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "gpt-4o",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "chatgpt-on-wechat",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "engineering vibe",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "vibe coding",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "coding it's",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "it's actually",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "actually coding",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "ai-reply",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "auto-delivery",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "auto-reply",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "idlefish",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "闲鱼管家 xianyu",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "xianyu sdk",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "sdk 闲鱼管家api",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "闲鱼管家api 闲鱼sign解密",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "闲鱼管家 xianyu sdk",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "xianyu sdk 闲鱼管家api",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "goofish-shop",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "static site",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "site generator",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "generator designers",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "designers uses",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "uses django",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "django templates",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "code unsupervised",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "unsupervised learning",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "learning via",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "via meta-learning",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "code unsupervised learning",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "unsupervised learning via",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "vila family",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "family state-of-the-art",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "state-of-the-art vision",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "vision language",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "models vlms",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "acceleration",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "efficient-model",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "tinyml",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "vitis xilinx’s",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "xilinx’s development",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "development stack",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "stack inference",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "inference xilinx",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "xilinx hardware",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "kronos foundation",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "model language",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "language financial",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "financial markets",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "kronos foundation model",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "zero-shot-tts",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "instant voice",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "voice cloning",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "integration",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "gpt4",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "docker-swarm",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "color-scheme",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "fish",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "powerline",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "shell",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "collaborate",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "deepsource",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "github-pages",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "lambda-layer",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "serverless",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "run bash",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "composable command",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "create *beautiful*",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "*beautiful* command-line",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "command-line interfaces",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "create *beautiful* command-line",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "*beautiful* command-line interfaces",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "programmatic access",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "access gemini",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "gemini notebook",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "notebook via",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "via command-line",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "command-line interface",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "python-2",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "cheat sheet",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "magnificent app",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "app which",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "which corrects",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "corrects previous",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "previous console",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "adaptation",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "deberta",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "graphrag",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "open-sourced codes",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "codes minigpt-4",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "minigpt-4 minigpt-v2",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "minigpt-v2 https",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "https minigpt-4",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "minigpt-4 github",
+      "label": "效率自动化"
     }
   ],
   "done": [
-    "rembg remove images",
-    "document-manager",
-    "bigquery",
-    "hwpx",
-    "huggingface",
-    "drawing tool",
-    "agentic document",
-    "asyncio",
-    "various game",
-    "create charts",
-    "deep-learning",
-    "live-preview",
-    "microsoft",
-    "collaborative analysis",
-    "time series",
-    "automated-pentesting",
-    "rsa-attack",
-    "kokoro-tts",
-    "open-source",
-    "ai-penetration-testing",
-    "dataset",
-    "utility auto-generating",
-    "speculative decoding",
-    "pandas",
-    "copilot",
-    "data visualization",
-    "inpaint-anything",
-    "hancom",
-    "forecasts time",
-    "artificial-intelligence",
-    "ai-application-debugging",
-    "data tool",
-    "crypto-trading",
-    "academic-research",
-    "track-anything",
-    "docker",
-    "subtitles video",
-    "coal",
-    "openai",
-    "cmsis",
-    "application",
-    "office automation",
-    "climate",
-    "chatbot",
-    "learning tool",
-    "generation http",
-    "privacy",
-    "matplotlib",
-    "ai-powered data",
-    "real-time visualization",
-    "ai-agent",
-    "machine learning",
-    "psutil",
-    "apis",
-    "rag",
-    "ai-red-team",
-    "cems",
-    "docker-containers",
-    "privacy-enhancing-technologies",
-    "python3",
-    "vsr",
-    "pipeline",
-    "chart tool",
-    "data analysis",
-    "fusa",
-    "automation",
-    "download",
-    "powerful command-line",
-    "candlestick-chart",
-    "document-analysis",
-    "langchain",
-    "api-testing",
-    "fio storage",
-    "networks",
-    "pytorch",
-    "sql tool",
-    "flask",
-    "encryption",
-    "gaming utility",
-    "infosec",
-    "fsociety-hacking",
-    "allows download",
-    "king tabular",
-    "math tool",
-    "framework",
-    "hacktoberfest",
-    "utility scripts",
-    "sub-remove",
-    "privacy-protection",
-    "prompt-engineering-tool",
-    "extraction instead",
-    "code2prompt powerful",
-    "hwp",
-    "scripts making",
-    "game ports",
-    "fine-tuning",
-    "compliance",
-    "mqtt-client",
-    "generating game",
-    "alert",
-    "data processing",
-    "email",
-    "python3 utility",
-    "aigc",
-    "ports available",
-    "on-device-ai",
-    "datasette",
-    "ai-video-editing",
-    "computer-vision",
-    "data-visualization",
-    "ai-security",
-    "system utility",
-    "vlm",
-    "data-exfiltration",
-    "internet-of-things",
-    "removing hard-coded",
-    "analysis system",
-    "auto-generating subtitles",
-    "web development",
-    "hardsub",
-    "docx files",
-    "charts fio",
-    "systems mosquittos",
-    "encryption-algorithms",
-    "http client",
-    "duckdb",
-    "text processing",
-    "subtile",
-    "ddj",
-    "batch",
-    "natural-language-processing",
-    "experiment tracking",
-    "epub",
-    "pil",
-    "hardware tool",
-    "sweep draft",
-    "text tool",
-    "segment-anything",
-    "monitoring collaborative",
-    "wordnet",
-    "vpc peering",
-    "llamaindex",
-    "cli-anything",
-    "segmentation 100",
-    "rag-based chatting",
-    "trio",
-    "humans",
-    "mosquittos scalability",
-    "software development",
-    "files smuggle",
-    "asgi",
-    "red-team-tools",
-    "camellia256",
-    "boundingbox",
-    "fawkes privacy",
-    "framework duckdb",
-    "autogen",
-    "candlestick-patterns-detection",
-    "audiobook",
-    "ai-agents",
-    "claude",
-    "static-code-analysis",
-    "analysis experiments",
-    "been deprecated agentic",
     "experiment tracking developer",
-    "rembg remove",
-    "interactive-tracking",
-    "minimalist",
-    "multi-agent-systems",
-    "peerd aws",
-    "0x4m4",
-    "sentiment-analysis",
-    "formulator interactive",
-    "speedups sweep",
-    "developer tool",
-    "agent-framework",
-    "game files",
-    "lists",
-    "claude-code",
-    "data-pipelines",
-    "data",
-    "own cloud",
-    "datasette-io",
-    "siren",
-    "processing framework",
-    "extract text",
-    "privacy preserving",
-    "tracking developer",
-    "inference-server",
-    "data formulator",
-    "ai-tools",
-    "iot",
-    "microsoft-office",
-    "robust segmentation",
-    "document-processing",
-    "multi-modality",
-    "assets",
-    "graphics tool",
-    "implicit-neural-representation",
-    "layer agents",
-    "dlp",
-    "media processing",
-    "http",
-    "arduino",
-    "some utility",
-    "download various",
-    "storage benchmark",
-    "anatomical structures",
-    "document-management",
-    "image-processing",
-    "automation tool",
-    "kokoro",
-    "addons improve",
-    "apqp",
-    "create charts fio",
-    "bruteforce",
-    "avr",
-    "peering connection",
-    "file utility",
-    "video tool",
-    "been deprecated",
-    "health tool",
-    "automatic-api",
-    "available 351elec",
     "computer-vision-annotation",
-    "blender",
-    "cookies",
-    "csv king",
-    "autosar",
-    "cipher",
-    "chinese",
-    "ai-agent-monitoring",
-    "mqtt",
-    "command-line",
-    "exfiltration",
-    "network tool",
-    "utility creating",
-    "machine-learning",
-    "create",
-    "text-to-image",
-    "linter",
-    "images docx",
-    "eia",
-    "codex-cli",
-    "statistical data",
-    "home-automation",
-    "http2",
-    "athena",
-    "inpredo deep",
-    "text-to-motion",
-    "asr",
-    "curl",
-    "visualization monitoring",
-    "remove images",
-    "attacking mqtt",
-    "web framework",
-    "automotive",
-    "api",
-    "async",
-    "face-recognition",
-    "eia860",
-    "video-object-tracking",
-    "asf",
-    "deep-hybrid-datacloud",
-    "annotations",
-    "series data",
-    "experiments live",
-    "code-interpreter",
-    "longer maintained",
-    "python-requests",
-    "rsa attack",
-    "developer-tools",
-    "containers",
-    "measuring speculative",
-    "ai-pentesting",
-    "agentneo",
-    "directories",
-    "bandit",
-    "unreal",
-    "roboflow",
-    "dataset-hub",
-    "lightweight data",
-    "background-removal",
-    "command-line utility",
-    "hip",
-    "cryptography",
-    "pico-8 game",
-    "image-compression",
-    "aigc generating",
-    "governance",
-    "development",
-    "desktop",
-    "e-paper",
-    "scalability load",
-    "mainly ctf",
-    "security-scanner",
-    "suite utilities",
-    "deprecated agentic",
-    "command-line-tool",
-    "system tool",
-    "opc",
-    "ai-safety",
-    "ripper",
-    "rest-api",
-    "security tool",
-    "pattern-recognition",
-    "making rolling",
-    "lua",
-    "2fa",
-    "management creates",
-    "elderly care",
-    "视频文件。无需申请第三方api，本地实现。ai-based removing",
-    "av-evasion",
-    "infosectools",
-    "office",
-    "converting working",
-    "ocr",
-    "data-processing",
-    "responsible-ai",
-    "blender addons",
-    "100 important",
-    "annotation-tool",
-    "document extraction",
-    "agentic-ai",
-    "trust layer",
-    "chroot",
-    "apache",
-    "build-system",
-    "srt",
-    "utility extract",
-    "image tool",
-    "office-documents",
-    "database tool",
-    "llm",
-    "automatic",
-    "risk identification",
-    "exploitation",
-    "file-management",
-    "security",
-    "files",
-    "set extracting",
-    "ai-powered file",
-    "pillow",
-    "cli",
-    "structures images",
-    "platform-independent",
-    "tables",
-    "elt",
-    "autogen-extension",
-    "antigravity-cli",
-    "annotation",
-    "utilities converting",
-    "animationgpt aigc",
-    "client",
-    "directory",
-    "ai-hacking",
-    "working csv",
-    "camellia",
-    "file-organizer",
-    "ai-powered",
-    "open-source trust",
-    "creates full-meshes",
-    "image-optimisation",
-    "model-context-protocol",
-    "finder",
-    "scientific computing",
-    "smuggle additional",
-    "benchmark output",
+    "document tool",
+    "epub",
+    "ai-powered data",
     "ai tool",
-    "markdown",
-    "aspice",
-    "agent",
+    "king tabular",
+    "av-evasion",
+    "trio",
+    "file utility",
+    "discord",
+    "data-visualization",
+    "hwpx",
+    "ai-hacking",
+    "automation tool",
+    "ai-video-editing",
+    "financial charts",
+    "ai-application-debugging",
+    "robust segmentation",
+    "animationgpt aigc",
+    "making rolling",
+    "next generation",
+    "fly-io",
+    "matplotlib",
+    "psutil",
+    "wordnet",
+    "data-processing",
+    "identification generative",
+    "pico-8 game",
+    "auto-subtitles",
     "ai-security-tool",
-    "images background",
-    "image-optimization",
+    "deep learning",
+    "climate",
+    "cli-anything",
+    "blender addons",
+    "fsociety-hacking",
+    "files smuggle",
+    "chart tool",
+    "http client",
+    "pipeline",
+    "spec-driven-development",
+    "fine-tuning",
+    "quality forecasts",
+    "aggregated",
+    "statistical data",
+    "math tool",
+    "datasette-io",
+    "office-documents",
+    "annotation",
+    "video tool",
+    "attacking mqtt",
+    "exfiltration",
+    "hip",
+    "agentneo",
+    "pico-8",
+    "internet-of-things",
     "data-science",
-    "aes-encryption",
+    "utility extract",
+    "pytorch",
+    "converting working",
+    "processing framework",
+    "been deprecated agentic",
+    "codex-cli",
     "active-directory",
-    "hardware-hacking",
-    "podcast",
-    "llms",
-    "document-automation",
-    "rolling own",
-    "network-analysis",
-    "api-client",
-    "zip files",
-    "debugging",
-    "ai-cybersecurity",
-    "cybersecurity",
-    "brute-force-attacks",
-    "fsociety",
-    "hotp",
+    "cryptographic agent",
+    "document-analysis",
+    "privacy-enhancing-technologies",
+    "fusa",
+    "machine learning",
+    "mosquittos scalability",
+    "agent-framework",
+    "forhumans",
+    "management creates",
+    "file management tool",
+    "pattern-recognition",
+    "data-analysis",
+    "web-mining",
+    "roboflow",
+    "live-preview",
+    "utility scripts",
+    "apqp",
+    "intel",
+    "python3 utility",
+    "red-team-tools",
+    "scripts making",
+    "images docx",
+    "collaborative analysis",
+    "dataset",
+    "candlestick-patterns-detection",
+    "creating zip",
+    "business-analytics",
+    "email",
+    "annotation-tool",
+    "unreal",
+    "gemini",
+    "gaming utility",
+    "inference-server",
+    "sub-remove",
+    "framework",
+    "cli",
+    "looks financial",
+    "markdown",
+    "infosec",
+    "auto-generating subtitles",
+    "deprecated agentic",
     "producing quality",
+    "command-line",
+    "storage benchmark",
+    "background-removal",
+    "file-organizer",
+    "autogen",
+    "inpaint-anything",
+    "aigc",
+    "deep-hybrid-datacloud",
+    "document-processing",
+    "aspice",
+    "academic-research",
+    "vsr",
+    "video-object-tracking",
+    "hacktoberfest",
+    "compliance",
+    "create charts fio",
+    "utilities converting",
+    "attack mainly",
+    "docker",
+    "com",
+    "flask",
+    "prompt-engineering-tool",
+    "interactive-tracking",
+    "peerd aws",
+    "load testing",
+    "suite utilities",
+    "ai-red-team",
+    "automatic",
+    "ai-powered",
+    "image-optimization",
+    "development",
+    "rembg remove",
+    "automated-pentesting",
+    "camellia",
+    "powerful command-line",
+    "privacy-protection",
+    "builder",
+    "elt",
+    "interactive ai-powered",
+    "async",
+    "multi-modality",
+    "working csv",
+    "asgi",
     "content-creation",
     "pentest",
-    "dashboard",
-    "file",
-    "databricks",
-    "efficiency",
-    "iot tool",
-    "mcp",
-    "pdf",
-    "file management tool",
-    "cuda",
-    "productivity tool",
     "hacking",
-    "apache-superset",
-    "rsa",
-    "aiohttp",
-    "agentic-ai-development",
-    "extract",
-    "discord",
-    "important anatomical",
-    "data-mining",
-    "productivity app",
-    "spec-driven-development",
+    "elderly care",
     "agents cryptographic",
-    "maintained command-line",
-    "load testing",
-    "rest",
+    "command-line-tool",
+    "ai-agent",
+    "track-anything",
+    "api-testing",
+    "rag-based chatting",
+    "containers",
+    "extract",
+    "game files",
+    "office automation",
+    "system utility",
+    "sentiment-analysis",
+    "eia860",
+    "100 important",
     "engineering",
-    "fastapi",
-    "business-analytics",
-    "game tool",
-    "agent identity",
-    "open-source rag-based",
-    "auto-subtitles",
-    "command-line simplifies",
-    "interactive ai-powered",
-    "text images",
-    "quality forecasts",
-    "analytics",
-    "document tool",
-    "video-object-segmentation",
-    "csv",
-    "decoding speedups",
-    "creating zip",
-    "gemini",
-    "list",
-    "datasets",
-    "web-mining",
-    "identification generative",
-    "http-client",
-    "manipulating pico-8",
-    "fly-io",
-    "blender-addon",
-    "forhumans",
-    "com",
-    "cryptographic agent",
+    "command-line-interface",
     "benchmark measuring",
-    "pico-8",
+    "aigc generating",
+    "microsoft",
+    "office",
+    "home-automation",
+    "http-client",
+    "utility creating",
+    "rest",
+    "exploitation",
+    "boundingbox",
+    "open-source rag-based",
+    "text tool",
+    "vlm",
+    "speedups sweep",
+    "developer-tools",
+    "directory",
+    "privacy",
+    "chatbot",
+    "create",
+    "network tool",
+    "face-recognition",
+    "tables",
+    "important anatomical",
     "pure utility",
-    "google",
-    "connection management",
-    "debug",
-    "antigravity",
-    "antigravity-cli-plugins",
+    "langchain",
+    "scientific computing",
+    "code-interpreter",
+    "lua",
+    "pillow",
+    "code2prompt powerful",
+    "blender",
+    "chatgpt",
+    "data-pipelines",
+    "http",
     "business-intelligence",
-    "game",
-    "agents",
-    "next generation",
-    "generative-ai",
-    "intel",
-    "security-tools",
-    "mqtt systems",
-    "attack mainly",
-    "llama3",
-    "libraries manipulating",
-    "forecasting",
-    "federated-learning",
-    "adversarial-machine-learning",
+    "experiments live",
+    "copilot",
+    "ai-tools",
+    "ai-assistant",
+    "multi-agent-systems",
+    "generating game",
+    "trust layer",
+    "rembg remove images",
+    "software development",
+    "document extraction",
+    "apache-superset",
+    "maintained command-line",
+    "own cloud",
+    "game tool",
+    "mainly ctf",
+    "antigravity-cli",
+    "docx files",
+    "peering connection",
+    "cems",
+    "addons improve",
     "arm",
-    "data-analysis",
+    "dlp",
+    "ai-cybersecurity",
+    "bash-scripting",
+    "agent",
+    "libraries manipulating",
+    "llama3",
+    "privacy preserving",
+    "charts fio",
+    "avr",
+    "deep-learning",
+    "monitoring collaborative",
+    "ripper",
+    "text-to-image",
+    "encryption-algorithms",
+    "image-processing",
+    "risk identification",
+    "mqtt-client",
+    "kokoro-tts",
+    "governance",
+    "rest-api",
+    "build-system",
+    "asyncio",
+    "removing hard-coded",
+    "gpt-4",
+    "bandit",
+    "smuggle additional",
+    "iot",
+    "image-compression",
+    "ai-pentesting",
+    "efficiency",
+    "chinese",
+    "security-tools",
+    "eia",
+    "adversarial-machine-learning",
+    "computer-vision",
+    "generative-ai",
+    "dashboard",
+    "debug",
+    "hotp",
+    "layer agents",
+    "remove images",
+    "network-analysis",
+    "video-object-segmentation",
+    "api",
+    "aes-encryption",
+    "web development",
+    "systems mosquittos",
+    "learning which",
+    "siren",
+    "discord-bot",
+    "business",
+    "assets",
+    "application",
+    "llms",
+    "data-pipeline",
+    "rolling own",
+    "system tool",
+    "client",
+    "ai-penetration-testing",
+    "set extracting",
+    "rsa-attack",
+    "media processing",
+    "decoding speedups",
+    "measuring speculative",
+    "file-management",
+    "asf",
+    "mqtt systems",
+    "data processing",
+    "time series",
+    "files",
+    "mcp",
+    "alert",
+    "fawkes privacy",
+    "available 351elec",
+    "implicit-neural-representation",
+    "document-automation",
+    "download various",
+    "productivity tool",
+    "humans",
+    "open-source trust",
+    "fastapi",
+    "subtitles video",
+    "rsa",
+    "segmentation 100",
+    "automation",
+    "llamaindex",
+    "image tool",
+    "command-line simplifies",
+    "security tool",
+    "brute-force-attacks",
+    "visualization monitoring",
+    "antigravity",
+    "linter",
+    "document-manager",
+    "python-requests",
+    "analysis experiments",
+    "some utility",
+    "static-code-analysis",
+    "audiobook",
+    "cmsis",
+    "e-paper",
+    "cactus",
+    "apis",
+    "infosectools",
+    "text-to-motion",
+    "cheat-sheet",
+    "agentic-ai-development",
+    "goofish",
+    "hardware-hacking",
+    "coal",
+    "networks",
+    "chatops",
+    "text images",
+    "responsible-ai",
+    "hancom",
+    "bruteforce",
+    "real-time visualization",
+    "arduino",
+    "sql tool",
+    "federated-learning",
+    "api-client",
+    "web framework",
+    "creates full-meshes",
+    "minimalist",
+    "data tool",
+    "database tool",
+    "utility auto-generating",
+    "2fa",
+    "asr",
+    "model-context-protocol",
+    "pdf",
+    "kokoro",
+    "srt",
+    "experiment tracking",
+    "hardsub",
+    "aiohttp",
+    "command-line utility",
+    "chroot",
+    "analysis",
+    "hardware tool",
+    "automatic-api",
+    "been deprecated",
+    "edge-ai",
+    "csv king",
+    "iot tool",
+    "microsoft-office",
+    "antigravity-cli-plugins",
+    "data analysis",
+    "images background",
+    "cuda",
+    "ocr",
+    "data-mining",
+    "security",
+    "debugging",
+    "autosar",
+    "speculative decoding",
+    "graphics tool",
+    "anatomical structures",
+    "benchmark output",
+    "python3",
+    "health tool",
+    "podcast",
+    "docker-containers",
+    "game",
+    "scalability load",
+    "openai",
+    "athena",
+    "pil",
+    "cookies",
+    "agent identity",
+    "analysis system",
+    "lists",
+    "function-calling",
+    "candlestick-chart",
+    "natural-language-processing",
+    "learning tool",
+    "extraction instead",
+    "datasets",
+    "apache",
+    "open-source",
+    "agents",
+    "series data",
+    "lightweight data",
+    "data-exfiltration",
+    "productivity app",
+    "generation http",
+    "forecasting",
+    "structures images",
+    "segment-anything",
+    "autogen-extension",
+    "ai-powered file",
+    "opc",
+    "camellia256",
+    "dataset-hub",
+    "bigquery",
+    "llm",
+    "ai-security",
+    "developer tool",
+    "claude",
+    "curl",
+    "databricks",
+    "annotations",
+    "subtile",
+    "crypto-trading",
+    "formulator interactive",
+    "tracking developer",
+    "desktop",
+    "pandas",
+    "finder",
+    "which looks",
+    "data",
+    "file",
+    "foundation-model",
+    "sweep draft",
+    "batch",
+    "manipulating pico-8",
+    "connection management",
+    "list",
+    "directories",
+    "cybersecurity",
+    "cryptography",
+    "cipher",
+    "text processing",
+    "ports available",
+    "fsociety",
+    "data formulator",
+    "extract text",
+    "machine-learning",
+    "ai-safety",
+    "create charts",
+    "framework duckdb",
+    "huggingface",
+    "datasette",
+    "blender-addon",
+    "image-optimisation",
+    "rsa attack",
+    "forecasts time",
+    "artificial-intelligence",
+    "ai-agents",
+    "allows download",
+    "longer maintained",
+    "vpc peering",
+    "platform-independent",
+    "automotive",
+    "ddj",
     "deepleanring",
-    "data-pipeline"
+    "mqtt",
+    "agentic document",
+    "various game",
+    "0x4m4",
+    "on-device-ai",
+    "commands",
+    "fio storage",
+    "hwp",
+    "security-scanner",
+    "inpredo deep",
+    "gpt-3",
+    "google",
+    "bash",
+    "data visualization",
+    "download",
+    "claude-code",
+    "drawing tool",
+    "rag",
+    "http2",
+    "视频文件。无需申请第三方api，本地实现。ai-based removing",
+    "encryption",
+    "document-management",
+    "agentic-ai",
+    "csv",
+    "duckdb",
+    "analytics",
+    "game ports",
+    "zip files",
+    "ai-agent-monitoring"
   ]
 }
