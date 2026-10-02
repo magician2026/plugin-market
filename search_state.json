@@ -1,106 +1,6 @@
 {
   "queue": [
     {
-      "keyword": "cli-agent",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "code-agent",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "codex",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "advertising",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "adwords",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "digital-marketing",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "google-ads",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "keywords",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "log-analysis",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "fastapi-boilerplate",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "fastapi-template",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "helm",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "kubernetes",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "mvc",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "alfred",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "alfred-workflow",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "heroku",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "ifttt",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "ios",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "ios-scriptable",
-      "label": "效率自动化"
-    },
-    {
-      "keyword": "api-server",
-      "label": "Web 开发"
-    },
-    {
-      "keyword": "sanic",
-      "label": "Web 开发"
-    },
-    {
-      "keyword": "web",
-      "label": "Web 开发"
-    },
-    {
-      "keyword": "companion code",
-      "label": "Web 开发"
-    },
-    {
-      "keyword": "code o'reilly",
-      "label": "Web 开发"
-    },
-    {
       "keyword": "o'reilly book",
       "label": "Web 开发"
     },
@@ -15111,508 +15011,1373 @@
     {
       "keyword": "minigpt-4 github",
       "label": "效率自动化"
+    },
+    {
+      "keyword": "guide",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "visual example-driven",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "example-driven guide",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "guide claude",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "computational-advertising",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "ctr-prediction",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "papers",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "collaborative-filtering",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "comirec",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "dssm",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "factorization-machines",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "matching",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "mind",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "causal-inference",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "cold-start",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "contrastive-learning",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "debias",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "affiliate",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "amazon",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "amazon-product-advertising",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "products",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "wrapper amazon",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "causal digital",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "digital twin",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "twin marketing",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "marketing scale",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "scale predict",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "predict marketing",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "aeo",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "claude-plugin",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "attribution-model",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "digital-marketing-attribution",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "dp6",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "journey",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "mam",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "auto-messages",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "bulk-messages",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "messages",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "python-automation",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "google ads",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "api client",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "google ads api",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "ads api client",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "google's ads",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "ads apis",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "client google's ads",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "google's ads apis",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "search-in-text",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "word2vec",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "extract keywords",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "mmr",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "minimal keyword",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "keyword extraction",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "middleware",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "security fastapi",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "deeplog",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "failure-detection",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "log-anomaly",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "asset-management",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "log",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "log-collector",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "log-management",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "log-based-anomaly-detection",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "log-based anomaly",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "anomaly detection",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "detection deep",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "aerich",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "alembic",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "cookiecutter-python3",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "arq",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "boilerplate",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "databases",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "caddy",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "jwt",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "celery",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "fba",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "agi",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "autogpt",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "fastapi-framework",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "holistic evaluation",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "evaluation language",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "models helm",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "helm framework",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "framework created",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "aws-kms",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "declarative",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "gcp-kms",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "gluoncv",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "hardhat",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "helmet",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "safety helmet",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "secure extensible",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "extensible sandbox",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "argocd",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "gitops",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "jenkins",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "mvcnn pytorch",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "framework-python",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "scaffold",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "boilerplate application",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "application following",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "following mvc",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "mvc pattern",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "economic-data",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "fred",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "api fred",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "fred federal",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "federal reserve",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "translation",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "workflows",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "youdao",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "wechat",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "wechatplugin",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "wei-xin",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "wechat workflow",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "alfred-3",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "alfred-worklow",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "alfred3",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "alfred4",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "alfred4-workflow",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "stack-overflow",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "stackoverflow-search",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "alfred3-workflow",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "recent-files",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "quickly recent",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "recent documents",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "cookiecutter-django",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "django-cookiecutter",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "faka",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "jwt-authentication",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "pwd",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "flask-api",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "flask-restful",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "flask-restplus",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "firebase",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "free-ebook",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "google-drive",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "amazon-dash",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "amazon-dash-button",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "button",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "web-monitor",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "personal web",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "web assistant",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "kivy",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "chisel collection",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "collection lldb",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "lldb commands",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "commands assist",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "assist debugging",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "debugging ios",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "feed-reader",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "jenkins job",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "job template",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "template build",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "build scripts",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "scripts packing",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "packing apps",
+      "label": "效率自动化"
+    },
+    {
+      "keyword": "server interacts",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "interacts obsidian",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "obsidian via",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "via obsidian",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "obsidian rest",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "biquge",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "novel",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "documentation-generator",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "drf",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "openapi-generator",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "openapi-specification",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "openapi3",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "api-gateway",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "code global",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "global workspace",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "workspace interpretability",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "interpretability paper",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "companion code global",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "mle",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "mlops",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "mle-agent intelligent",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "intelligent companion",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "companion repository",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "repository \"writing",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "\"writing code",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "code nlp",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "nlp research\"",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "research\" tutorial",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "atrial-fibrillation",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "atrial-fibrillation-detection",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "ecg",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "ecg-classification",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "iterators",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "metaprogramming",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "special-methods",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "example code",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "code labs",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "labs resources",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "resources o'reilly",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "o'reilly systems",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "systems performance",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "performance engineering",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "code mastering",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "mastering bioinformatics",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "bioinformatics o'reilly",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "o'reilly 2021",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "2021 isbn",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "isbn 9781098100889",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "code large-context",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "large-context reasoning",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "reasoning o'reilly",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "o'reilly live",
+      "label": "Web 开发"
+    },
+    {
+      "keyword": "live learning",
+      "label": "Web 开发"
     }
   ],
   "done": [
-    "experiment tracking developer",
-    "computer-vision-annotation",
-    "document tool",
-    "epub",
-    "ai-powered data",
-    "ai tool",
-    "king tabular",
-    "av-evasion",
-    "trio",
-    "file utility",
-    "discord",
-    "data-visualization",
-    "hwpx",
-    "ai-hacking",
-    "automation tool",
-    "ai-video-editing",
-    "financial charts",
-    "ai-application-debugging",
-    "robust segmentation",
-    "animationgpt aigc",
-    "making rolling",
-    "next generation",
-    "fly-io",
-    "matplotlib",
-    "psutil",
-    "wordnet",
-    "data-processing",
-    "identification generative",
-    "pico-8 game",
-    "auto-subtitles",
-    "ai-security-tool",
-    "deep learning",
-    "climate",
-    "cli-anything",
-    "blender addons",
-    "fsociety-hacking",
-    "files smuggle",
-    "chart tool",
-    "http client",
-    "pipeline",
-    "spec-driven-development",
-    "fine-tuning",
-    "quality forecasts",
-    "aggregated",
-    "statistical data",
-    "math tool",
-    "datasette-io",
-    "office-documents",
-    "annotation",
-    "video tool",
-    "attacking mqtt",
-    "exfiltration",
-    "hip",
-    "agentneo",
-    "pico-8",
-    "internet-of-things",
-    "data-science",
-    "utility extract",
-    "pytorch",
-    "converting working",
-    "processing framework",
-    "been deprecated agentic",
-    "codex-cli",
-    "active-directory",
-    "cryptographic agent",
-    "document-analysis",
-    "privacy-enhancing-technologies",
-    "fusa",
-    "machine learning",
-    "mosquittos scalability",
-    "agent-framework",
-    "forhumans",
-    "management creates",
-    "file management tool",
-    "pattern-recognition",
-    "data-analysis",
-    "web-mining",
-    "roboflow",
-    "live-preview",
-    "utility scripts",
-    "apqp",
-    "intel",
-    "python3 utility",
-    "red-team-tools",
-    "scripts making",
-    "images docx",
-    "collaborative analysis",
-    "dataset",
-    "candlestick-patterns-detection",
-    "creating zip",
-    "business-analytics",
-    "email",
-    "annotation-tool",
-    "unreal",
-    "gemini",
-    "gaming utility",
-    "inference-server",
-    "sub-remove",
-    "framework",
-    "cli",
-    "looks financial",
-    "markdown",
-    "infosec",
-    "auto-generating subtitles",
-    "deprecated agentic",
-    "producing quality",
-    "command-line",
-    "storage benchmark",
-    "background-removal",
-    "file-organizer",
-    "autogen",
-    "inpaint-anything",
-    "aigc",
-    "deep-hybrid-datacloud",
-    "document-processing",
-    "aspice",
-    "academic-research",
-    "vsr",
-    "video-object-tracking",
-    "hacktoberfest",
-    "compliance",
-    "create charts fio",
-    "utilities converting",
-    "attack mainly",
-    "docker",
-    "com",
-    "flask",
-    "prompt-engineering-tool",
-    "interactive-tracking",
-    "peerd aws",
-    "load testing",
-    "suite utilities",
-    "ai-red-team",
-    "automatic",
-    "ai-powered",
-    "image-optimization",
-    "development",
-    "rembg remove",
-    "automated-pentesting",
-    "camellia",
-    "powerful command-line",
-    "privacy-protection",
-    "builder",
-    "elt",
-    "interactive ai-powered",
-    "async",
-    "multi-modality",
-    "working csv",
-    "asgi",
-    "content-creation",
-    "pentest",
-    "hacking",
-    "elderly care",
-    "agents cryptographic",
-    "command-line-tool",
-    "ai-agent",
-    "track-anything",
-    "api-testing",
-    "rag-based chatting",
-    "containers",
-    "extract",
-    "game files",
-    "office automation",
-    "system utility",
-    "sentiment-analysis",
-    "eia860",
-    "100 important",
-    "engineering",
-    "command-line-interface",
-    "benchmark measuring",
-    "aigc generating",
-    "microsoft",
-    "office",
-    "home-automation",
-    "http-client",
-    "utility creating",
-    "rest",
-    "exploitation",
-    "boundingbox",
-    "open-source rag-based",
-    "text tool",
-    "vlm",
-    "speedups sweep",
-    "developer-tools",
-    "directory",
-    "privacy",
-    "chatbot",
-    "create",
-    "network tool",
-    "face-recognition",
-    "tables",
-    "important anatomical",
-    "pure utility",
-    "langchain",
-    "scientific computing",
-    "code-interpreter",
-    "lua",
-    "pillow",
-    "code2prompt powerful",
-    "blender",
-    "chatgpt",
-    "data-pipelines",
-    "http",
-    "business-intelligence",
-    "experiments live",
-    "copilot",
-    "ai-tools",
-    "ai-assistant",
-    "multi-agent-systems",
-    "generating game",
-    "trust layer",
-    "rembg remove images",
-    "software development",
-    "document extraction",
-    "apache-superset",
-    "maintained command-line",
-    "own cloud",
-    "game tool",
-    "mainly ctf",
-    "antigravity-cli",
-    "docx files",
-    "peering connection",
-    "cems",
-    "addons improve",
-    "arm",
-    "dlp",
-    "ai-cybersecurity",
-    "bash-scripting",
-    "agent",
-    "libraries manipulating",
-    "llama3",
-    "privacy preserving",
-    "charts fio",
-    "avr",
-    "deep-learning",
-    "monitoring collaborative",
-    "ripper",
-    "text-to-image",
-    "encryption-algorithms",
-    "image-processing",
-    "risk identification",
-    "mqtt-client",
-    "kokoro-tts",
-    "governance",
-    "rest-api",
-    "build-system",
-    "asyncio",
-    "removing hard-coded",
-    "gpt-4",
-    "bandit",
-    "smuggle additional",
-    "iot",
-    "image-compression",
-    "ai-pentesting",
-    "efficiency",
-    "chinese",
-    "security-tools",
-    "eia",
-    "adversarial-machine-learning",
-    "computer-vision",
-    "generative-ai",
-    "dashboard",
-    "debug",
-    "hotp",
-    "layer agents",
-    "remove images",
-    "network-analysis",
-    "video-object-segmentation",
-    "api",
-    "aes-encryption",
-    "web development",
-    "systems mosquittos",
-    "learning which",
-    "siren",
-    "discord-bot",
-    "business",
-    "assets",
-    "application",
-    "llms",
-    "data-pipeline",
-    "rolling own",
-    "system tool",
-    "client",
-    "ai-penetration-testing",
-    "set extracting",
-    "rsa-attack",
-    "media processing",
-    "decoding speedups",
-    "measuring speculative",
-    "file-management",
-    "asf",
-    "mqtt systems",
-    "data processing",
-    "time series",
-    "files",
+    "scalability load",
+    "podcast",
+    "mqtt",
+    "command-line utility",
+    "some utility",
+    "cli-agent",
+    "ocr",
     "mcp",
-    "alert",
-    "fawkes privacy",
-    "available 351elec",
-    "implicit-neural-representation",
-    "document-automation",
-    "download various",
-    "productivity tool",
+    "data formulator",
+    "ai-agent-monitoring",
+    "finder",
+    "image-optimization",
+    "ai-video-editing",
+    "intel",
+    "utility creating",
+    "camellia",
+    "ai-tools",
+    "deep-hybrid-datacloud",
+    "trio",
+    "e-paper",
+    "computer-vision-annotation",
+    "asf",
+    "cli",
+    "rsa attack",
+    "document-processing",
+    "eia860",
+    "multi-modality",
+    "scientific computing",
+    "math tool",
+    "apache",
+    "discord",
+    "aigc",
+    "antigravity-cli",
+    "visualization monitoring",
+    "pure utility",
+    "opc",
+    "processing framework",
+    "data-exfiltration",
+    "robust segmentation",
+    "pytorch",
+    "goofish",
+    "video-object-tracking",
+    "coal",
+    "command-line simplifies",
+    "command-line-interface",
+    "real-time visualization",
+    "docker-containers",
+    "platform-independent",
+    "producing quality",
+    "csv king",
+    "databricks",
+    "agentneo",
+    "identification generative",
+    "business",
+    "fastapi",
+    "inpaint-anything",
+    "athena",
     "humans",
     "open-source trust",
-    "fastapi",
-    "subtitles video",
-    "rsa",
-    "segmentation 100",
-    "automation",
-    "llamaindex",
-    "image tool",
-    "command-line simplifies",
-    "security tool",
-    "brute-force-attacks",
-    "visualization monitoring",
-    "antigravity",
-    "linter",
-    "document-manager",
-    "python-requests",
-    "analysis experiments",
-    "some utility",
-    "static-code-analysis",
-    "audiobook",
-    "cmsis",
-    "e-paper",
-    "cactus",
-    "apis",
-    "infosectools",
-    "text-to-motion",
-    "cheat-sheet",
-    "agentic-ai-development",
-    "goofish",
-    "hardware-hacking",
-    "coal",
-    "networks",
-    "chatops",
-    "text images",
-    "responsible-ai",
-    "hancom",
-    "bruteforce",
-    "real-time visualization",
-    "arduino",
-    "sql tool",
-    "federated-learning",
-    "api-client",
-    "web framework",
-    "creates full-meshes",
-    "minimalist",
-    "data tool",
-    "database tool",
-    "utility auto-generating",
-    "2fa",
-    "asr",
-    "model-context-protocol",
-    "pdf",
-    "kokoro",
-    "srt",
-    "experiment tracking",
-    "hardsub",
-    "aiohttp",
-    "command-line utility",
-    "chroot",
-    "analysis",
-    "hardware tool",
-    "automatic-api",
-    "been deprecated",
-    "edge-ai",
-    "csv king",
-    "iot tool",
-    "microsoft-office",
-    "antigravity-cli-plugins",
-    "data analysis",
-    "images background",
-    "cuda",
-    "ocr",
-    "data-mining",
-    "security",
-    "debugging",
-    "autosar",
-    "speculative decoding",
-    "graphics tool",
-    "anatomical structures",
-    "benchmark output",
-    "python3",
-    "health tool",
-    "podcast",
-    "docker-containers",
-    "game",
-    "scalability load",
-    "openai",
-    "athena",
-    "pil",
-    "cookies",
-    "agent identity",
-    "analysis system",
-    "lists",
-    "function-calling",
-    "candlestick-chart",
-    "natural-language-processing",
-    "learning tool",
-    "extraction instead",
-    "datasets",
-    "apache",
-    "open-source",
-    "agents",
-    "series data",
-    "lightweight data",
-    "data-exfiltration",
-    "productivity app",
-    "generation http",
-    "forecasting",
-    "structures images",
-    "segment-anything",
-    "autogen-extension",
-    "ai-powered file",
-    "opc",
-    "camellia256",
-    "dataset-hub",
-    "bigquery",
-    "llm",
-    "ai-security",
-    "developer tool",
-    "claude",
-    "curl",
-    "databricks",
-    "annotations",
-    "subtile",
-    "crypto-trading",
-    "formulator interactive",
-    "tracking developer",
-    "desktop",
-    "pandas",
-    "finder",
-    "which looks",
-    "data",
-    "file",
-    "foundation-model",
-    "sweep draft",
-    "batch",
-    "manipulating pico-8",
-    "connection management",
-    "list",
-    "directories",
-    "cybersecurity",
-    "cryptography",
-    "cipher",
-    "text processing",
-    "ports available",
-    "fsociety",
-    "data formulator",
-    "extract text",
-    "machine-learning",
-    "ai-safety",
-    "create charts",
-    "framework duckdb",
-    "huggingface",
-    "datasette",
-    "blender-addon",
-    "image-optimisation",
-    "rsa attack",
-    "forecasts time",
-    "artificial-intelligence",
-    "ai-agents",
-    "allows download",
-    "longer maintained",
-    "vpc peering",
-    "platform-independent",
-    "automotive",
-    "ddj",
-    "deepleanring",
-    "mqtt",
-    "agentic document",
-    "various game",
-    "0x4m4",
-    "on-device-ai",
-    "commands",
-    "fio storage",
-    "hwp",
-    "security-scanner",
-    "inpredo deep",
-    "gpt-3",
-    "google",
-    "bash",
-    "data visualization",
-    "download",
-    "claude-code",
-    "drawing tool",
-    "rag",
-    "http2",
-    "视频文件。无需申请第三方api，本地实现。ai-based removing",
-    "encryption",
-    "document-management",
-    "agentic-ai",
+    "ai-hacking",
     "csv",
-    "duckdb",
+    "cmsis",
+    "mqtt-client",
+    "forecasts time",
+    "deep-learning",
+    "commands",
+    "file utility",
+    "fly-io",
+    "datasette-io",
+    "system tool",
+    "creating zip",
+    "agent",
+    "time series",
+    "llms",
+    "health tool",
+    "agent-framework",
+    "learning tool",
+    "file management tool",
+    "home-automation",
+    "working csv",
+    "track-anything",
+    "governance",
+    "collaborative analysis",
+    "layer agents",
+    "analysis system",
+    "security-tools",
+    "copilot",
+    "api-testing",
+    "data",
+    "exfiltration",
+    "email",
+    "hardsub",
+    "http",
+    "datasette",
+    "data-processing",
+    "text images",
+    "agentic-ai",
+    "mvc",
+    "alfred-workflow",
+    "networks",
+    "images background",
+    "hotp",
+    "claude-code",
+    "pico-8 game",
+    "maintained command-line",
+    "vlm",
+    "alert",
+    "gpt-3",
+    "dataset",
+    "data-pipelines",
+    "antigravity",
+    "scripts making",
+    "automatic-api",
+    "fsociety-hacking",
+    "vpc peering",
+    "inference-server",
+    "benchmark measuring",
+    "attack mainly",
+    "image tool",
+    "data processing",
+    "cryptographic agent",
+    "ai-agent",
+    "quality forecasts",
+    "encryption-algorithms",
+    "fawkes privacy",
+    "batch",
+    "rest",
+    "apis",
+    "experiment tracking developer",
+    "files",
+    "which looks",
+    "deep learning",
+    "images docx",
+    "load testing",
+    "powerful command-line",
+    "api",
+    "chatops",
+    "async",
+    "utilities converting",
+    "100 important",
+    "financial charts",
+    "automation tool",
+    "chinese",
+    "segment-anything",
+    "http-client",
+    "animationgpt aigc",
+    "arduino",
+    "utility auto-generating",
+    "command-line-tool",
+    "attacking mqtt",
+    "ai-agents",
+    "data tool",
+    "download",
+    "microsoft",
+    "next generation",
+    "pentest",
+    "psutil",
+    "statistical data",
+    "0x4m4",
+    "privacy",
+    "code2prompt powerful",
+    "sweep draft",
+    "privacy preserving",
+    "business-analytics",
+    "system utility",
+    "productivity tool",
+    "aes-encryption",
+    "charts fio",
+    "subtitles video",
+    "cryptography",
+    "markdown",
+    "computer-vision",
+    "apqp",
+    "lightweight data",
+    "text tool",
+    "automation",
+    "google",
+    "agents cryptographic",
+    "heroku",
+    "av-evasion",
+    "document tool",
+    "camellia256",
+    "unreal",
+    "companion code",
+    "game",
+    "text-to-motion",
+    "gemini",
+    "forhumans",
+    "annotation",
+    "bandit",
+    "vsr",
+    "hwp",
+    "data-science",
+    "hacking",
+    "interactive-tracking",
+    "mqtt systems",
+    "pdf",
+    "ports available",
+    "connection management",
+    "command-line",
+    "llm",
+    "roboflow",
+    "privacy-protection",
+    "annotations",
+    "generating game",
+    "been deprecated agentic",
+    "interactive ai-powered",
+    "generation http",
+    "gpt-4",
+    "hardware-hacking",
+    "bash-scripting",
+    "automated-pentesting",
+    "audiobook",
+    "looks financial",
+    "bruteforce",
+    "text processing",
+    "red-team-tools",
+    "debugging",
+    "allows download",
+    "gaming utility",
+    "pattern-recognition",
+    "image-processing",
+    "sanic",
+    "efficiency",
+    "avr",
+    "datasets",
+    "academic-research",
+    "machine learning",
+    "list",
+    "http2",
+    "code o'reilly",
+    "formulator interactive",
+    "multi-agent-systems",
+    "cookies",
+    "视频文件。无需申请第三方api，本地实现。ai-based removing",
+    "ai-security",
+    "aigc generating",
+    "python3",
+    "data-analysis",
+    "flask",
+    "curl",
+    "infosec",
+    "codex-cli",
+    "fastapi-template",
+    "security tool",
+    "rembg remove",
+    "analysis",
+    "creates full-meshes",
+    "mainly ctf",
+    "set extracting",
+    "ai-penetration-testing",
+    "content-creation",
+    "automatic",
+    "data analysis",
+    "python3 utility",
+    "on-device-ai",
+    "chroot",
+    "directories",
+    "video-object-segmentation",
+    "builder",
+    "tracking developer",
+    "mosquittos scalability",
+    "desktop",
+    "pil",
+    "code-interpreter",
+    "fsociety",
+    "infosectools",
     "analytics",
-    "game ports",
+    "blender",
+    "fastapi-boilerplate",
+    "libraries manipulating",
+    "database tool",
+    "blender-addon",
+    "inpredo deep",
+    "minimalist",
+    "matplotlib",
+    "rag",
+    "forecasting",
+    "srt",
+    "openai",
+    "subtile",
+    "document-analysis",
     "zip files",
-    "ai-agent-monitoring"
+    "image-optimisation",
+    "cli-anything",
+    "hardware tool",
+    "developer-tools",
+    "privacy-enhancing-technologies",
+    "fine-tuning",
+    "removing hard-coded",
+    "utility scripts",
+    "rest-api",
+    "ios-scriptable",
+    "security",
+    "document-management",
+    "game ports",
+    "prompt-engineering-tool",
+    "longer maintained",
+    "utility extract",
+    "federated-learning",
+    "data-visualization",
+    "anatomical structures",
+    "making rolling",
+    "framework",
+    "rsa-attack",
+    "claude",
+    "application",
+    "remove images",
+    "productivity app",
+    "digital-marketing",
+    "hacktoberfest",
+    "rolling own",
+    "aiohttp",
+    "microsoft-office",
+    "active-directory",
+    "series data",
+    "asyncio",
+    "cactus",
+    "sql tool",
+    "graphics tool",
+    "lists",
+    "asgi",
+    "manipulating pico-8",
+    "epub",
+    "ai-safety",
+    "various game",
+    "network-analysis",
+    "hwpx",
+    "text-to-image",
+    "docker",
+    "candlestick-chart",
+    "download various",
+    "directory",
+    "adversarial-machine-learning",
+    "pandas",
+    "learning which",
+    "generative-ai",
+    "experiments live",
+    "natural-language-processing",
+    "business-intelligence",
+    "agent identity",
+    "media processing",
+    "cybersecurity",
+    "agents",
+    "machine-learning",
+    "ai-security-tool",
+    "http client",
+    "llamaindex",
+    "create charts",
+    "keywords",
+    "ai-pentesting",
+    "com",
+    "extraction instead",
+    "measuring speculative",
+    "linter",
+    "huggingface",
+    "codex",
+    "ddj",
+    "kokoro",
+    "addons improve",
+    "eia",
+    "spec-driven-development",
+    "storage benchmark",
+    "lua",
+    "smuggle additional",
+    "benchmark output",
+    "hip",
+    "autogen",
+    "web-mining",
+    "autosar",
+    "tables",
+    "developer tool",
+    "live-preview",
+    "ai tool",
+    "systems mosquittos",
+    "face-recognition",
+    "helm",
+    "office automation",
+    "sub-remove",
+    "artificial-intelligence",
+    "implicit-neural-representation",
+    "responsible-ai",
+    "data-mining",
+    "own cloud",
+    "speculative decoding",
+    "crypto-trading",
+    "aggregated",
+    "suite utilities",
+    "ai-powered",
+    "static-code-analysis",
+    "ai-red-team",
+    "ifttt",
+    "asr",
+    "kubernetes",
+    "king tabular",
+    "ai-assistant",
+    "wordnet",
+    "auto-subtitles",
+    "pico-8",
+    "rag-based chatting",
+    "brute-force-attacks",
+    "api-client",
+    "document extraction",
+    "annotation-tool",
+    "network tool",
+    "create charts fio",
+    "converting working",
+    "auto-generating subtitles",
+    "monitoring collaborative",
+    "chart tool",
+    "api-server",
+    "structures images",
+    "alfred",
+    "available 351elec",
+    "antigravity-cli-plugins",
+    "agentic document",
+    "climate",
+    "peerd aws",
+    "engineering",
+    "software development",
+    "siren",
+    "build-system",
+    "segmentation 100",
+    "game files",
+    "function-calling",
+    "cems",
+    "langchain",
+    "bigquery",
+    "ripper",
+    "log-analysis",
+    "deepleanring",
+    "ai-powered data",
+    "assets",
+    "fusa",
+    "important anatomical",
+    "web development",
+    "cipher",
+    "document-manager",
+    "risk identification",
+    "ios",
+    "open-source",
+    "file",
+    "containers",
+    "framework duckdb",
+    "2fa",
+    "web framework",
+    "duckdb",
+    "hancom",
+    "iot",
+    "experiment tracking",
+    "elderly care",
+    "decoding speedups",
+    "blender addons",
+    "trust layer",
+    "deprecated agentic",
+    "image-compression",
+    "cheat-sheet",
+    "cuda",
+    "kokoro-tts",
+    "client",
+    "ai-powered file",
+    "security-scanner",
+    "adwords",
+    "compliance",
+    "pipeline",
+    "drawing tool",
+    "extract text",
+    "internet-of-things",
+    "foundation-model",
+    "document-automation",
+    "elt",
+    "discord-bot",
+    "web",
+    "dlp",
+    "file-organizer",
+    "google-ads",
+    "analysis experiments",
+    "chatgpt",
+    "file-management",
+    "rsa",
+    "sentiment-analysis",
+    "management creates",
+    "been deprecated",
+    "office",
+    "agentic-ai-development",
+    "iot tool",
+    "apache-superset",
+    "arm",
+    "fio storage",
+    "create",
+    "speedups sweep",
+    "automotive",
+    "model-context-protocol",
+    "pillow",
+    "exploitation",
+    "edge-ai",
+    "code-agent",
+    "advertising",
+    "autogen-extension",
+    "bash",
+    "dashboard",
+    "dataset-hub",
+    "office-documents",
+    "boundingbox",
+    "peering connection",
+    "ai-cybersecurity",
+    "data-pipeline",
+    "candlestick-patterns-detection",
+    "chatbot",
+    "data visualization",
+    "background-removal",
+    "extract",
+    "aspice",
+    "encryption",
+    "game tool",
+    "llama3",
+    "python-requests",
+    "files smuggle",
+    "ai-application-debugging",
+    "debug",
+    "open-source rag-based",
+    "video tool",
+    "docx files",
+    "development",
+    "rembg remove images"
   ]
 }
