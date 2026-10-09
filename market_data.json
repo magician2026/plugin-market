@@ -3,7 +3,7 @@
   "categories": [
     {
       "label": "媒体处理",
-      "count": 1330,
+      "count": 1365,
       "plugins": [
         {
           "name": "transmute-app/transmute",
@@ -28200,6 +28200,675 @@
             "feature-extraction",
             "imagenet",
             "pretrained-models"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "hkchengrex/MiVOS",
+          "desc": "[CVPR 2021] Modular Interactive Video Object Segmentation: Interaction-to-Mask, Propagation and Difference-Aware Fusion. Semi-supervised VOS as well!",
+          "stars": 489,
+          "forks": 62,
+          "license": "MIT",
+          "url": "https://github.com/hkchengrex/MiVOS",
+          "updated": "2026-09-29T09:05:00Z",
+          "keyword": "interactive-video-segmentation",
+          "topics": [
+            "computer-vision",
+            "cvpr2021",
+            "deep-learning",
+            "interactive-segmentation",
+            "pytorch",
+            "segmentation",
+            "video-object-segmentation",
+            "video-segmentation"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "ZrrSkywalker/Personalize-SAM",
+          "desc": "Personalize Segment Anything Model (SAM) with 1 shot in 10 seconds",
+          "stars": 1673,
+          "forks": 114,
+          "license": "MIT",
+          "url": "https://github.com/ZrrSkywalker/Personalize-SAM",
+          "updated": "2026-10-02T12:33:19Z",
+          "keyword": "segment-anything-model",
+          "topics": [],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "YuqingWang1029/VisTR",
+          "desc": "[CVPR2021 Oral] End-to-End Video Instance Segmentation with Transformers",
+          "stars": 758,
+          "forks": 96,
+          "license": "Apache-2.0",
+          "url": "https://github.com/YuqingWang1029/VisTR",
+          "updated": "2026-09-29T07:01:17Z",
+          "keyword": "video-instance-segmentation",
+          "topics": [
+            "cvpr2021",
+            "instance-segmentation",
+            "transformers",
+            "video-instance-segmentation"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "researchmm/LightTrack",
+          "desc": "[CVPR21] LightTrack: Finding Lightweight Neural Network for Object Tracking via One-Shot Architecture Search",
+          "stars": 480,
+          "forks": 70,
+          "license": "MIT",
+          "url": "https://github.com/researchmm/LightTrack",
+          "updated": "2026-10-08T03:36:50Z",
+          "keyword": "efficient track",
+          "topics": [
+            "cvpr2021",
+            "efficient",
+            "nas"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "PinataFarms/FEARTracker",
+          "desc": "Official repo for FEAR: Fast, Efficient, Accurate and Robust Visual Tracker (ECCV 2022)",
+          "stars": 234,
+          "forks": 31,
+          "license": "MIT",
+          "url": "https://github.com/PinataFarms/FEARTracker",
+          "updated": "2026-10-08T06:22:52Z",
+          "keyword": "efficient track",
+          "topics": [
+            "comuter-vision",
+            "deep-learning",
+            "eccv",
+            "eccv2022",
+            "pytorch",
+            "pytorch-lightning",
+            "visual-tracking"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "MCG-NJU/MixFormerV2",
+          "desc": "[NeurIPS 2023] MixFormerV2: Efficient Fully Transformer Tracking",
+          "stars": 230,
+          "forks": 37,
+          "license": "MIT",
+          "url": "https://github.com/MCG-NJU/MixFormerV2",
+          "updated": "2026-10-09T10:12:26Z",
+          "keyword": "efficient track",
+          "topics": [],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "StrangerZhang/pyECO",
+          "desc": "python implementation of efficient convolution operators for tracking",
+          "stars": 195,
+          "forks": 42,
+          "license": "MIT",
+          "url": "https://github.com/StrangerZhang/pyECO",
+          "updated": "2026-08-02T02:06:50Z",
+          "keyword": "efficient track",
+          "topics": [
+            "convolution",
+            "eco",
+            "efficient",
+            "mxnet",
+            "operator",
+            "python"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "madhvantyagi/Gnos",
+          "desc": "Teaching harness , help you to learn anything , It teaches like real teacher , design curriculum  , generate videos , simulations , images , pdfs , tracks your learning style etc",
+          "stars": 338,
+          "forks": 24,
+          "license": "MIT",
+          "url": "https://github.com/madhvantyagi/Gnos",
+          "updated": "2026-10-09T09:19:34Z",
+          "keyword": "track anything",
+          "topics": [],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "STVIR/pysot",
+          "desc": "SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask.",
+          "stars": 4605,
+          "forks": 1110,
+          "license": "Apache-2.0",
+          "url": "https://github.com/STVIR/pysot",
+          "updated": "2026-10-09T10:07:30Z",
+          "keyword": "object-tracking",
+          "topics": [
+            "computer-vision",
+            "siamese-network",
+            "tracking"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "ifzhang/FairMOT",
+          "desc": "[IJCV-2021] FairMOT: On the Fairness of Detection and Re-Identification in Multi-Object Tracking",
+          "stars": 4244,
+          "forks": 922,
+          "license": "MIT",
+          "url": "https://github.com/ifzhang/FairMOT",
+          "updated": "2026-10-07T07:37:22Z",
+          "keyword": "object-tracking",
+          "topics": [
+            "joint-detection-and-tracking",
+            "multi-object-tracking",
+            "one-shot-tracker",
+            "real-time"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "OpenDriveLab/UniAD",
+          "desc": "[CVPR 2023 Best Paper Award] Planning-oriented Autonomous Driving",
+          "stars": 4775,
+          "forks": 552,
+          "license": "Apache-2.0",
+          "url": "https://github.com/OpenDriveLab/UniAD",
+          "updated": "2026-10-08T05:05:16Z",
+          "keyword": "multi-object-tracking",
+          "topics": [
+            "autonomous-driving",
+            "autonomous-driving-framework",
+            "bev-segmentation",
+            "end-to-end-autonomous-driving",
+            "motion-planning",
+            "motion-prediction",
+            "multi-object-tracking",
+            "occupancy-prediction",
+            "perception-prediction-planning"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "roboflow/trackers",
+          "desc": "Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.",
+          "stars": 3933,
+          "forks": 419,
+          "license": "Apache-2.0",
+          "url": "https://github.com/roboflow/trackers",
+          "updated": "2026-10-09T09:20:24Z",
+          "keyword": "multi-object-tracking",
+          "topics": [
+            "bot-sort",
+            "bytetrack",
+            "dancetrack",
+            "mot17",
+            "multi-object-tracking",
+            "oc-sort",
+            "soccernet",
+            "sort",
+            "sportsmot",
+            "trackeval"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "MasterBin-IIAU/Unicorn",
+          "desc": "[ECCV'22 Oral] Towards Grand Unification of Object Tracking",
+          "stars": 950,
+          "forks": 86,
+          "license": "MIT",
+          "url": "https://github.com/MasterBin-IIAU/Unicorn",
+          "updated": "2026-10-06T06:23:20Z",
+          "keyword": "single-object-tracking",
+          "topics": [
+            "multi-object-tracking-segmentation",
+            "multiple-object-tracking",
+            "object-tracking",
+            "single-object-tracking",
+            "video-object-segmentation"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "msracver/Flow-Guided-Feature-Aggregation",
+          "desc": "Flow-Guided Feature Aggregation for Video Object Detection",
+          "stars": 732,
+          "forks": 185,
+          "license": "MIT",
+          "url": "https://github.com/msracver/Flow-Guided-Feature-Aggregation",
+          "updated": "2026-07-17T04:28:51Z",
+          "keyword": "video-object-detection",
+          "topics": [],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "lbeaucourt/Object-detection",
+          "desc": "Object detection project for real-time (webcam) and offline (video processing) application.",
+          "stars": 518,
+          "forks": 212,
+          "license": "MIT",
+          "url": "https://github.com/lbeaucourt/Object-detection",
+          "updated": "2026-08-05T06:59:45Z",
+          "keyword": "video-object-detection",
+          "topics": [
+            "object-detection",
+            "python3",
+            "realtime",
+            "tensorflow",
+            "video"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "MCG-NJU/SparseBEV",
+          "desc": "[ICCV 2023 & TPAMI 2026] SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos",
+          "stars": 473,
+          "forks": 48,
+          "license": "MIT",
+          "url": "https://github.com/MCG-NJU/SparseBEV",
+          "updated": "2026-10-04T02:20:44Z",
+          "keyword": "video-object-detection",
+          "topics": [
+            "3d-object-detection",
+            "autonomous-driving",
+            "bev-perception",
+            "transformer"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "jingh-ai/ultralytics-YOLO-DeepSort-ByteTrack-PyQt-GUI",
+          "desc": "a GUI application, which uses YOLOs (YOLOv8, YOLO11, YOLOv13) for Object Detection/Tracking, Human Pose Estimation/Tracking from images, videos or camera",
+          "stars": 460,
+          "forks": 76,
+          "license": "MIT",
+          "url": "https://github.com/jingh-ai/ultralytics-YOLO-DeepSort-ByteTrack-PyQt-GUI",
+          "updated": "2026-10-08T03:08:36Z",
+          "keyword": "video-object-detection",
+          "topics": [
+            "byte-tracking",
+            "computer-vision",
+            "deep-sort",
+            "gui-application",
+            "instance-segmentation",
+            "object-detection",
+            "object-tracking",
+            "onnxruntime",
+            "pose-estimation",
+            "pyqt5",
+            "python",
+            "ultralytics",
+            "yolo11",
+            "yolo26",
+            "yolov13",
+            "yolov8"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "clovaai/CRAFT-pytorch",
+          "desc": "Official implementation of Character Region Awareness for Text Detection (CRAFT)",
+          "stars": 3406,
+          "forks": 923,
+          "license": "MIT",
+          "url": "https://github.com/clovaai/CRAFT-pytorch",
+          "updated": "2026-10-05T11:07:32Z",
+          "keyword": "cvpr2019",
+          "topics": [
+            "craft",
+            "curved-text",
+            "cvpr2019",
+            "detection",
+            "ocr",
+            "ocr-detection",
+            "pytorch",
+            "text-detection"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "YoYo000/MVSNet",
+          "desc": "MVSNet (ECCV2018) & R-MVSNet (CVPR2019)",
+          "stars": 1548,
+          "forks": 303,
+          "license": "MIT",
+          "url": "https://github.com/YoYo000/MVSNet",
+          "updated": "2026-10-04T00:22:26Z",
+          "keyword": "cvpr2019",
+          "topics": [],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "RoyalVane/CLAN",
+          "desc": "( TPAMI2022 / CVPR2019 Oral ) Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation",
+          "stars": 1289,
+          "forks": 44,
+          "license": "MIT",
+          "url": "https://github.com/RoyalVane/CLAN",
+          "updated": "2026-08-11T14:17:37Z",
+          "keyword": "cvpr2019",
+          "topics": [
+            "adversarial-learning",
+            "domain-adaptation",
+            "semantic-segmentation",
+            "transfer-learning"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "Doriandarko/deepseek-engineer",
+          "desc": "A powerful coding assistant application that integrates with the DeepSeek API to process user conversations and generate structured JSON responses. Through an intuitive command-line interface, it can read local file contents, create new files, and apply diff edits to existing files in real time.",
+          "stars": 2230,
+          "forks": 362,
+          "license": "MIT",
+          "url": "https://github.com/Doriandarko/deepseek-engineer",
+          "updated": "2026-10-09T10:47:59Z",
+          "keyword": "read-time",
+          "topics": [],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "vivekuppal/transcribe",
+          "desc": "Transcribe is a real time transcription, conversation, Language learning platform. It provides live transcripts from microphone and speaker. It generates a suggested conversation response using OpenAI's GPT API. It will read out the responses, simulating a real live conversation in English or another language.",
+          "stars": 264,
+          "forks": 55,
+          "license": "MIT",
+          "url": "https://github.com/vivekuppal/transcribe",
+          "updated": "2026-10-06T15:38:55Z",
+          "keyword": "read-time",
+          "topics": [
+            "chatgpt",
+            "live-transcript",
+            "live-transcription",
+            "openai",
+            "transcribe",
+            "whisper"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "ibaiGorordo/AWR1843-Read-Data-Python-MMWAVE-SDK-3-",
+          "desc": "Python program to read and plot the data in real time from the AWR1843 mmWave radar board (MMWAVE SDK 3)",
+          "stars": 175,
+          "forks": 44,
+          "license": "MIT",
+          "url": "https://github.com/ibaiGorordo/AWR1843-Read-Data-Python-MMWAVE-SDK-3-",
+          "updated": "2026-09-09T17:59:12Z",
+          "keyword": "read-time",
+          "topics": [
+            "awr1843",
+            "mmwave",
+            "python",
+            "radar",
+            "raspberry-pi",
+            "texas-instruments"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "ibaiGorordo/AWR1642-Read-Data-Python-MMWAVE-SDK-2",
+          "desc": "Python program to read and plot the data in real time from the AWR1642 and IWR1642 mmWave radar boards (Texas Instruments).",
+          "stars": 158,
+          "forks": 56,
+          "license": "MIT",
+          "url": "https://github.com/ibaiGorordo/AWR1642-Read-Data-Python-MMWAVE-SDK-2",
+          "updated": "2026-07-17T10:25:24Z",
+          "keyword": "read-time",
+          "topics": [
+            "awr1642",
+            "mmwave",
+            "python",
+            "radar",
+            "raspberry-pi",
+            "texas-instruments"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "omerbt/Text2LIVE",
+          "desc": "Official Pytorch Implementation for \"Text2LIVE: Text-Driven Layered Image and Video Editing\" (ECCV 2022 Oral)",
+          "stars": 884,
+          "forks": 74,
+          "license": "MIT",
+          "url": "https://github.com/omerbt/Text2LIVE",
+          "updated": "2026-09-30T02:56:57Z",
+          "keyword": "eccv2022",
+          "topics": [
+            "clip",
+            "eccv2022",
+            "generative-model",
+            "image-editing",
+            "image-manipulation",
+            "single-image",
+            "single-video",
+            "text-driven-editing",
+            "text2live",
+            "video-editing"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "baudm/parseq",
+          "desc": "Scene Text Recognition with Permuted Autoregressive Sequence Models (ECCV 2022)",
+          "stars": 743,
+          "forks": 163,
+          "license": "Apache-2.0",
+          "url": "https://github.com/baudm/parseq",
+          "updated": "2026-10-05T13:20:08Z",
+          "keyword": "eccv2022",
+          "topics": [
+            "computer-vision",
+            "eccv",
+            "eccv2022",
+            "ocr",
+            "optical-character-recognition",
+            "scene-text-recognition",
+            "text-recognition",
+            "vision-transformer"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "Zhongdao/Towards-Realtime-MOT",
+          "desc": "Joint Detection and Embedding for fast multi-object tracking",
+          "stars": 2444,
+          "forks": 532,
+          "license": "MIT",
+          "url": "https://github.com/Zhongdao/Towards-Realtime-MOT",
+          "updated": "2026-10-08T03:10:34Z",
+          "keyword": "multiple-object-tracking",
+          "topics": [
+            "multi-object-tracker",
+            "multi-pedestrian-tracking",
+            "multiple-object-tracking",
+            "realtime-mot",
+            "tracking",
+            "tracking-by-detection"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "cheind/py-motmetrics",
+          "desc": ":bar_chart: Benchmark multiple object trackers (MOT) in Python",
+          "stars": 1488,
+          "forks": 261,
+          "license": "MIT",
+          "url": "https://github.com/cheind/py-motmetrics",
+          "updated": "2026-09-29T02:38:14Z",
+          "keyword": "multiple-object-tracking",
+          "topics": [
+            "benchmark",
+            "clear-mot-metrics",
+            "metrics",
+            "mot",
+            "mot-challenge",
+            "object-detection",
+            "object-tracking",
+            "tracker"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "hustvl/YOLOP",
+          "desc": "You Only Look Once for Panopitic Driving Perception.（MIR2022）",
+          "stars": 2248,
+          "forks": 457,
+          "license": "MIT",
+          "url": "https://github.com/hustvl/YOLOP",
+          "updated": "2026-10-07T05:58:19Z",
+          "keyword": "perception",
+          "topics": [
+            "autonomous-driving",
+            "drivable-area-segmentation",
+            "jetson-tx2",
+            "lane-detection",
+            "multitask-learning",
+            "object-detection"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "IDEA-Research/OSX",
+          "desc": "[CVPR 2023] Official implementation of the paper \"One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer\"",
+          "stars": 797,
+          "forks": 65,
+          "license": "MIT",
+          "url": "https://github.com/IDEA-Research/OSX",
+          "updated": "2026-09-27T07:30:14Z",
+          "keyword": "cvpr2023 official",
+          "topics": [
+            "3d-body-recovery",
+            "cvpr2023",
+            "human-pose-estimation",
+            "smpl-model",
+            "smplx",
+            "whole-body-pose-estimation"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "rayleizhu/BiFormer",
+          "desc": "[CVPR 2023] Official code release of our paper \"BiFormer: Vision Transformer with Bi-Level Routing Attention\"",
+          "stars": 586,
+          "forks": 42,
+          "license": "MIT",
+          "url": "https://github.com/rayleizhu/BiFormer",
+          "updated": "2026-09-29T18:01:13Z",
+          "keyword": "cvpr2023 official",
+          "topics": [
+            "attention",
+            "computer-vision",
+            "cvpr2023",
+            "image-classification",
+            "object-detection",
+            "semantic-segmentation",
+            "transformer"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "csbhr/FFHQ-UV",
+          "desc": "The official repository of our CVPR2023 paper \"FFHQ-UV: Normalized Facial UV-Texture Dataset for 3D Face Reconstruction\".",
+          "stars": 539,
+          "forks": 55,
+          "license": "MIT",
+          "url": "https://github.com/csbhr/FFHQ-UV",
+          "updated": "2026-10-03T23:55:00Z",
+          "keyword": "cvpr2023 official",
+          "topics": [],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "Haiyang-W/DSVT",
+          "desc": "[CVPR2023] Official Implementation of \"DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets\"",
+          "stars": 456,
+          "forks": 40,
+          "license": "Apache-2.0",
+          "url": "https://github.com/Haiyang-W/DSVT",
+          "updated": "2026-09-25T05:21:06Z",
+          "keyword": "cvpr2023 official",
+          "topics": [
+            "3d-object-detection",
+            "backbone",
+            "cvpr2023",
+            "point-cloud",
+            "pytorch",
+            "transformer"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "originalankur/maptoposter",
+          "desc": "Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.",
+          "stars": 14193,
+          "forks": 1254,
+          "license": "MIT",
+          "url": "https://github.com/originalankur/maptoposter",
+          "updated": "2026-10-09T12:55:09Z",
+          "keyword": "matplotlib-pyplot",
+          "topics": [
+            "design",
+            "maps",
+            "matplotlib-pyplot",
+            "openstreetmap",
+            "osmnx",
+            "poster",
+            "python",
+            "visualdesign"
+          ],
+          "sub_label": "媒体处理",
+          "cat_label": "媒体处理"
+        },
+        {
+          "name": "tarun27sh/gdb_graphs",
+          "desc": "To visualize function call flow for a C/C++ program using gdb and python",
+          "stars": 102,
+          "forks": 15,
+          "license": "MIT",
+          "url": "https://github.com/tarun27sh/gdb_graphs",
+          "updated": "2026-09-25T01:18:29Z",
+          "keyword": "matplotlib-pyplot",
+          "topics": [
+            "c",
+            "cpp",
+            "gdb",
+            "graphs",
+            "javascript",
+            "matplotlib-pyplot",
+            "python"
           ],
           "sub_label": "媒体处理",
           "cat_label": "媒体处理"
@@ -79883,5 +80552,5 @@
       ]
     }
   ],
-  "updated": "2026-10-09 09:10:26"
+  "updated": "2026-10-09 13:14:01"
 }
