@@ -31346,7 +31346,7 @@
     },
     {
       "label": "软件开发",
-      "count": 981,
+      "count": 1004,
       "plugins": [
         {
           "name": "psf/black",
@@ -53072,6 +53072,462 @@
             "recurrent-neural-networks",
             "stargazers-count",
             "trending-repositories"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "mesonbuild/meson-python",
+          "desc": "The Python build backend for Meson projects",
+          "stars": 181,
+          "forks": 94,
+          "license": "MIT",
+          "url": "https://github.com/mesonbuild/meson-python",
+          "updated": "2026-10-12T13:25:11Z",
+          "keyword": "meson build",
+          "topics": [],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "cmsis-svd/cmsis-svd-data",
+          "desc": "Aggregration of ARM Cortex-M (and other) CMSIS SVDs",
+          "stars": 113,
+          "forks": 27,
+          "license": "Apache-2.0",
+          "url": "https://github.com/cmsis-svd/cmsis-svd-data",
+          "updated": "2026-09-27T04:16:23Z",
+          "keyword": "cmsis-svd",
+          "topics": [
+            "arm",
+            "cmsis-svd"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "stm32-rs/stm32-rs",
+          "desc": "Embedded Rust device crates for STM32 microcontrollers",
+          "stars": 1670,
+          "forks": 262,
+          "license": "Apache-2.0",
+          "url": "https://github.com/stm32-rs/stm32-rs",
+          "updated": "2026-10-09T21:18:28Z",
+          "keyword": "microcontroller",
+          "topics": [],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "pyocd/pyOCD",
+          "desc": "Open source Python library for programming and debugging Arm Cortex-M microcontrollers",
+          "stars": 1473,
+          "forks": 568,
+          "license": "Apache-2.0",
+          "url": "https://github.com/pyocd/pyOCD",
+          "updated": "2026-10-11T13:57:46Z",
+          "keyword": "microcontroller",
+          "topics": [
+            "arm",
+            "cmsis-dap",
+            "cortex-debug",
+            "cortex-m",
+            "debug",
+            "embedded",
+            "gdb-server",
+            "jlink",
+            "mcu",
+            "microcontroller",
+            "pyocd",
+            "python",
+            "stlink"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "pavelrevak/pystlink",
+          "desc": "Python tool for flashing and debugging STM32 devices using ST-LINK/V2",
+          "stars": 240,
+          "forks": 61,
+          "license": "MIT",
+          "url": "https://github.com/pavelrevak/pystlink",
+          "updated": "2026-08-17T09:46:11Z",
+          "keyword": "stm32 devices",
+          "topics": [
+            "debugger",
+            "flash",
+            "linux",
+            "macos",
+            "python",
+            "python3",
+            "stlink",
+            "stm32",
+            "swd",
+            "windows"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "jaymody/picoGPT",
+          "desc": "An unnecessarily tiny implementation of GPT-2 in NumPy.",
+          "stars": 3475,
+          "forks": 459,
+          "license": "MIT",
+          "url": "https://github.com/jaymody/picoGPT",
+          "updated": "2026-10-14T02:43:37Z",
+          "keyword": "pic",
+          "topics": [
+            "deep-learning",
+            "gpt",
+            "gpt-2",
+            "large-language-models",
+            "machine-learning",
+            "neural-network",
+            "nlp",
+            "python"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "huggingface/picotron",
+          "desc": "Minimalistic 4D-parallelism distributed training framework for education purpose",
+          "stars": 2322,
+          "forks": 211,
+          "license": "Apache-2.0",
+          "url": "https://github.com/huggingface/picotron",
+          "updated": "2026-10-13T10:40:50Z",
+          "keyword": "pic",
+          "topics": [],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "piccolo-orm/piccolo",
+          "desc": "A fast, user friendly ORM and query builder which supports asyncio.",
+          "stars": 1948,
+          "forks": 119,
+          "license": "MIT",
+          "url": "https://github.com/piccolo-orm/piccolo",
+          "updated": "2026-10-13T13:02:08Z",
+          "keyword": "pic",
+          "topics": [
+            "asgi",
+            "asyncio",
+            "database",
+            "fastapi",
+            "hacktoberfest",
+            "orm",
+            "piccolo",
+            "postgresql",
+            "python",
+            "python3",
+            "query-builder",
+            "sqlite",
+            "starlette"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "waveform80/picamera",
+          "desc": "A pure Python interface to the Raspberry Pi camera module",
+          "stars": 1575,
+          "forks": 345,
+          "license": "BSD-3-Clause",
+          "url": "https://github.com/waveform80/picamera",
+          "updated": "2026-10-01T16:46:15Z",
+          "keyword": "pic",
+          "topics": [
+            "python",
+            "raspberry-pi",
+            "raspberry-pi-camera"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "NanoNets/docstrange",
+          "desc": "Extract and convert data from any document, images, pdfs, word doc, ppt or URL into multiple formats (Markdown, JSON, CSV, HTML) with intelligent structured data extraction and advanced OCR.",
+          "stars": 1577,
+          "forks": 140,
+          "license": "MIT",
+          "url": "https://github.com/NanoNets/docstrange",
+          "updated": "2026-10-09T17:52:15Z",
+          "keyword": "ppt word",
+          "topics": [
+            "ai",
+            "document-parser",
+            "document-parsing",
+            "image-to-markdown",
+            "llm",
+            "markdown",
+            "ocr",
+            "pdf-parser",
+            "pdf-to-json",
+            "pdf-to-markdown",
+            "structured-data",
+            "structured-data-capture",
+            "tables"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "RoffyS/MarkEverythingDown",
+          "desc": "Convert files (PDF, image, Word, PPT, Excel, notebooks, code snippets) to markdown using powerful multimodal LLM",
+          "stars": 347,
+          "forks": 38,
+          "license": "MIT",
+          "url": "https://github.com/RoffyS/MarkEverythingDown",
+          "updated": "2026-10-10T14:26:36Z",
+          "keyword": "ppt word",
+          "topics": [
+            "image-processing",
+            "markdown",
+            "markdownconversion",
+            "microsoft-office",
+            "multimodal",
+            "pdf",
+            "pdftomarkdown",
+            "qwen"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "evgo2017/Office2PDF",
+          "desc": "Batch convert Word, Excel, PPT to PDF - 批量转 Word、Excel、PPT 为 PDF",
+          "stars": 224,
+          "forks": 43,
+          "license": "MIT",
+          "url": "https://github.com/evgo2017/Office2PDF",
+          "updated": "2026-09-21T06:05:35Z",
+          "keyword": "ppt word",
+          "topics": [
+            "office",
+            "office-converter",
+            "pdf",
+            "pdf-converter"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "ZhihaoAIRobotic/ClawPhD",
+          "desc": "ClawPhD is an agent for research that can turn academic papers into publication-ready diagrams, posters, videos, and more.",
+          "stars": 157,
+          "forks": 11,
+          "license": "MIT",
+          "url": "https://github.com/ZhihaoAIRobotic/ClawPhD",
+          "updated": "2026-09-04T01:10:14Z",
+          "keyword": "academic-diagrams",
+          "topics": [],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "microsoft/JARVIS",
+          "desc": "JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf",
+          "stars": 25434,
+          "forks": 2247,
+          "license": "MIT",
+          "url": "https://github.com/microsoft/JARVIS",
+          "updated": "2026-10-14T05:17:39Z",
+          "keyword": "arxiv",
+          "topics": [
+            "deep-learning",
+            "platform",
+            "pytorch"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "StarTrail-org/PixelRAG",
+          "desc": "https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/",
+          "stars": 10265,
+          "forks": 904,
+          "license": "Apache-2.0",
+          "url": "https://github.com/StarTrail-org/PixelRAG",
+          "updated": "2026-10-14T02:33:03Z",
+          "keyword": "arxiv",
+          "topics": [
+            "agent",
+            "ai",
+            "memory",
+            "multimodal",
+            "rag",
+            "search",
+            "searchengine",
+            "vision",
+            "vlm"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "google-research/arxiv-latex-cleaner",
+          "desc": "arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv",
+          "stars": 7095,
+          "forks": 422,
+          "license": "Apache-2.0",
+          "url": "https://github.com/google-research/arxiv-latex-cleaner",
+          "updated": "2026-10-13T19:09:13Z",
+          "keyword": "arxiv",
+          "topics": [
+            "arxiv",
+            "latex"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "eralchemy/eralchemy",
+          "desc": "Entity Relation Diagrams generation tool",
+          "stars": 1431,
+          "forks": 133,
+          "license": "Apache-2.0",
+          "url": "https://github.com/eralchemy/eralchemy",
+          "updated": "2026-10-13T06:57:29Z",
+          "keyword": "diagram-generation",
+          "topics": [
+            "database",
+            "documentation-tool",
+            "mysql",
+            "postgresql",
+            "schema",
+            "sql",
+            "sqlalchemy",
+            "visualization"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "OrionStarAI/DeepV-Ki",
+          "desc": "DeepV-Ki — Instantly turn your code repository into a beautiful, interactive Wiki. An AI-powered documentation generator with RAG-based code Q&A, automatic architecture diagram generation, and multi-model support.",
+          "stars": 298,
+          "forks": 12,
+          "license": "MIT",
+          "url": "https://github.com/OrionStarAI/DeepV-Ki",
+          "updated": "2026-09-11T04:01:39Z",
+          "keyword": "diagram-generation",
+          "topics": [],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "RobThePCGuy/Claude-Patent-Creator",
+          "desc": "USPTO patent creation system with MCP server + Claude Code plugin. Hybrid RAG search over   MPEP/USC/CFR, BigQuery access to 76M+ patents, automated 35 USC 112 compliance checks, prior   art search, diagram generation. GPU-accelerated with skills and autonomous agents.",
+          "stars": 199,
+          "forks": 31,
+          "license": "MIT",
+          "url": "https://github.com/RobThePCGuy/Claude-Patent-Creator",
+          "updated": "2026-10-12T12:36:31Z",
+          "keyword": "diagram-generation",
+          "topics": [
+            "bigquery",
+            "claude-code",
+            "claude-code-plugin",
+            "faiss",
+            "mcp-server",
+            "mpep",
+            "patent",
+            "patent-drafting",
+            "patent-search",
+            "rag",
+            "uspto"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "antoinebou12/uml-mcp",
+          "desc": "UML-MCP Server is a UML diagram generation tool based on MCP (Model Context Protocol), which can help users generate various types of UML diagrams through natural language description or directly writing PlantUML and Mermaid and Kroki https://uml-mcp.vercel.app/mcp",
+          "stars": 106,
+          "forks": 29,
+          "license": "MIT",
+          "url": "https://github.com/antoinebou12/uml-mcp",
+          "updated": "2026-10-13T22:59:00Z",
+          "keyword": "diagram-generation",
+          "topics": [
+            "mcp",
+            "uml"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "deepchem/deepchem",
+          "desc": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology",
+          "stars": 7054,
+          "forks": 2350,
+          "license": "MIT",
+          "url": "https://github.com/deepchem/deepchem",
+          "updated": "2026-10-13T18:27:41Z",
+          "keyword": "biology",
+          "topics": [
+            "biology",
+            "deep-learning",
+            "drug-discovery",
+            "hacktoberfest",
+            "materials-science",
+            "quantum-chemistry"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "openworm/OpenWorm",
+          "desc": "Repository for the main Dockerfile with the OpenWorm software stack and project-wide issues",
+          "stars": 3069,
+          "forks": 247,
+          "license": "MIT",
+          "url": "https://github.com/openworm/OpenWorm",
+          "updated": "2026-10-14T03:20:44Z",
+          "keyword": "biology",
+          "topics": [
+            "biology",
+            "elegans",
+            "openworm",
+            "simulation"
+          ],
+          "sub_label": "软件开发",
+          "cat_label": "软件开发"
+        },
+        {
+          "name": "thieu1995/mealpy",
+          "desc": "A Collection Of The State-of-the-art Metaheuristic Algorithms In Python (Metaheuristic/Optimizer/Nature-inspired/Biology)",
+          "stars": 1283,
+          "forks": 272,
+          "license": "MIT",
+          "url": "https://github.com/thieu1995/mealpy",
+          "updated": "2026-10-10T14:52:14Z",
+          "keyword": "biology",
+          "topics": [
+            "arithmetic-optimization-algorithm",
+            "bio-inspired-optimization",
+            "differential-evolution",
+            "equilibrium-optimizer",
+            "genetic-algorithm",
+            "grey-wolf-optimizer",
+            "harris-hawks-optimization",
+            "harris-hawks-optimizationg",
+            "henry-gas-solubility-optimization",
+            "hunger-games-search",
+            "location-optimization",
+            "metaheuristics",
+            "nature-inspired-algorithms",
+            "particle-swarm-optimization",
+            "production-planning",
+            "schedule-optimization",
+            "slime-mould-algorithm",
+            "supply-chain-optimization",
+            "swarm-intelligence",
+            "whale-optimization"
           ],
           "sub_label": "软件开发",
           "cat_label": "软件开发"
@@ -100570,5 +101026,5 @@
       ]
     }
   ],
-  "updated": "2026-10-14 01:26:16"
+  "updated": "2026-10-14 05:29:02"
 }
